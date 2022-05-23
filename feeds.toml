@@ -1,13 +1,30 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[default]
+timeout=30
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
+[cortexfutura]
+title = "Cortex Futura"
+url = "https://www.cortexfutura.com/articles/"
+entrySelector = "article"
+titleSelector = "h2 a"
 linkSelector = "h2 a"
+
+[biorxiv]
+title = "bioRxiv - amyloid"
+url = "https://www.biorxiv.org/search/amyloid%20numresults%3A10%20sort%3Apublication-date%20direction%3Adescending"
+entrySelector = "ul.highwire-search-results-list li"
+titleSelector = "a span.highwire-cite-title"
+linkSelector = "span a"
+
+[investopedia]
+title = "Investopedia"
+url = "https://www.investopedia.com/"
+entrySelector = ".home-articles__article, .home-essentials__article, .home-hero__article"
+titleSelector = "span"
+linkSelector = "a"
+
+[markozivanovic]
+title = "Marko Zivanovic"
+url = "https://www.markozivanovic.com/"
+entrySelector = ".post h3"
+titleSelector = "a"
+linkSelector = "a"
