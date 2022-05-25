@@ -15,13 +15,6 @@ entrySelector = "ul.highwire-search-results-list li"
 titleSelector = "a span.highwire-cite-title"
 linkSelector = "span a"
 
-[investopedia]
-title = "Investopedia"
-url = "https://www.investopedia.com/"
-entrySelector = ".home-articles__article, .home-essentials__article, .home-hero__article"
-titleSelector = "span"
-linkSelector = "a"
-
 [markozivanovic]
 title = "Marko Zivanovic"
 url = "https://www.markozivanovic.com/"
