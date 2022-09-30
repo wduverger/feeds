@@ -2,9 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cortexfutura.com/articles/</id>
     <title>Cortex Futura</title>
-    <updated>2022-09-30T06:37:03.574Z</updated>
+    <updated>2022-09-30T17:56:08.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cortexfutura.com/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Using Tana's Supertags with Search]]></title>
+        <id>https://www.cortexfutura.com/tana-supertags-plus-search-tana-fundamentals/</id>
+        <link href="https://www.cortexfutura.com/tana-supertags-plus-search-tana-fundamentals/"/>
+        <updated>2022-09-30T17:55:56.704Z</updated>
+        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/tana-supertags-plus-search-tana-fundamentals/" class="svelte-1fj1tr4"><img src="/images/articles/tana-supertags-plus-search-tana-fundamentals/tana-fundamentals-thumbnail-supertags-and-search.jpg" alt="Using Tana's Supertags with Search" class="svelte-1fj1tr4">
+        </a></div>
+      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/tana/" class="svelte-1fj1tr4">Tana</a></span></div>
+        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/tana-supertags-plus-search-tana-fundamentals/" class="svelte-1fj1tr4">Using Tana's Supertags with Search</a></h2></div>
+        <div class="article-descr svelte-1fj1tr4">Learn how to use Tana's supertags with live searches and create amazing workflows.
+        </div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn how to use Supertags in Tana]]></title>
+        <id>https://www.cortexfutura.com/supertag-basics-tana-fundamentals/</id>
+        <link href="https://www.cortexfutura.com/supertag-basics-tana-fundamentals/"/>
+        <updated>2022-09-30T17:55:56.705Z</updated>
+        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/supertag-basics-tana-fundamentals/" class="svelte-1fj1tr4"><img src="/images/articles/supertag-basics-tana-fundamentals/tana-fundamentals-thumbnail-supertag-basics.jpg" alt="Learn how to use Supertags in Tana" class="svelte-1fj1tr4">
+        </a></div>
+      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/tana/" class="svelte-1fj1tr4">Tana</a></span></div>
+        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/supertag-basics-tana-fundamentals/" class="svelte-1fj1tr4">Learn how to use Supertags in Tana</a></h2></div>
+        <div class="article-descr svelte-1fj1tr4">Understand the basics of how to use Tana's supertags.
+        </div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Tana's Live Search Feature]]></title>
+        <id>https://www.cortexfutura.com/live-search-in-tana-fundamentals/</id>
+        <link href="https://www.cortexfutura.com/live-search-in-tana-fundamentals/"/>
+        <updated>2022-09-30T17:55:56.711Z</updated>
+        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/live-search-in-tana-fundamentals/" class="svelte-1fj1tr4"><img src="/images/articles/live-search-in-tana-fundamentals/tana-fundamentals-thumbnail-live-search.jpg" alt="Using Tana's Live Search Feature" class="svelte-1fj1tr4">
+        </a></div>
+      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/tana/" class="svelte-1fj1tr4">Tana</a></span></div>
+        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/live-search-in-tana-fundamentals/" class="svelte-1fj1tr4">Using Tana's Live Search Feature</a></h2></div>
+        <div class="article-descr svelte-1fj1tr4">Learn how to use Tana's live searches.
+        </div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get oriented in Tana's UI]]></title>
+        <id>https://www.cortexfutura.com/introduction-to-tana-ui-tana-fundamentals/</id>
+        <link href="https://www.cortexfutura.com/introduction-to-tana-ui-tana-fundamentals/"/>
+        <updated>2022-09-30T17:55:56.711Z</updated>
+        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/introduction-to-tana-ui-tana-fundamentals/" class="svelte-1fj1tr4"><img src="/img/landing/tana-fundamentals/tana-fundamentals-thumbnail-basic-ui.jpg" alt="Get oriented in Tana's UI" class="svelte-1fj1tr4">
+        </a></div>
+      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/tana/" class="svelte-1fj1tr4">Tana</a></span></div>
+        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/introduction-to-tana-ui-tana-fundamentals/" class="svelte-1fj1tr4">Get oriented in Tana's UI</a></h2></div>
+        <div class="article-descr svelte-1fj1tr4">Get started with Tana by exploring its main UI and navigation features.
+        </div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything is a Node in Tana]]></title>
+        <id>https://www.cortexfutura.com/everything-is-a-node-tana-fundamentals/</id>
+        <link href="https://www.cortexfutura.com/everything-is-a-node-tana-fundamentals/"/>
+        <updated>2022-09-30T17:55:56.711Z</updated>
+        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/everything-is-a-node-tana-fundamentals/" class="svelte-1fj1tr4"><img src="/img/landing/tana-fundamentals/tana-fundamentals-thumbnail-everything-is-a-node.jpg" alt="Everything is a Node in Tana" class="svelte-1fj1tr4">
+        </a></div>
+      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/tana/" class="svelte-1fj1tr4">Tana</a></span></div>
+        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/everything-is-a-node-tana-fundamentals/" class="svelte-1fj1tr4">Everything is a Node in Tana</a></h2></div>
+        <div class="article-descr svelte-1fj1tr4">Learn how to use Tana's nodes.
+        </div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data About Nodes - Fields and Tags in Tana]]></title>
+        <id>https://www.cortexfutura.com/data-about-nodes-tana-fundamentals/</id>
+        <link href="https://www.cortexfutura.com/data-about-nodes-tana-fundamentals/"/>
+        <updated>2022-09-30T17:55:56.711Z</updated>
+        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/data-about-nodes-tana-fundamentals/" class="svelte-1fj1tr4"><img src="/images/articles/data-about-nodes-tana-fundamentals/tana-fundamentals-thumbnail-data-about-nodes.jpg" alt="Data About Nodes - Fields and Tags in Tana" class="svelte-1fj1tr4">
+        </a></div>
+      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/tana/" class="svelte-1fj1tr4">Tana</a></span></div>
+        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/data-about-nodes-tana-fundamentals/" class="svelte-1fj1tr4">Data About Nodes - Fields and Tags in Tana</a></h2></div>
+        <div class="article-descr svelte-1fj1tr4">Learn how to leverage Tana's fields and tags to record data about individual nodes.
+        </div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Time Units for Higher Productivity]]></title>
         <id>https://www.cortexfutura.com/new-time-units-for-higher-productivity/</id>
