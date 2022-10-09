@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wduverger.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-08T17:48:45.690Z</updated>
+    <updated>2022-10-09T05:56:28.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Using Tana's Supertags with Search (Cortex Futura)]]></title>
@@ -401,11 +401,30 @@
         </div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Conformational and oligomeric states of SPOP from small-angle X-ray scattering and molecular dynamics simulations (bioRxiv - amyloid)]]></title>
+        <id>https://www.biorxiv.org/content/10.1101/2022.10.08.511432v1</id>
+        <link href="https://www.biorxiv.org/content/10.1101/2022.10.08.511432v1"/>
+        <updated>2022-10-09T05:56:24.096Z</updated>
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node" data-pisa="biorxiv;2022.10.08.511432v1" data-pisa-master="biorxiv;2022.10.08.511432" data-apath="/biorxiv/early/2022/10/08/2022.10.08.511432.atom" id="biorxivearly2022100820221008511432atom36184421"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+
+      <span class="highwire-cite-title">
+      <a href="/content/10.1101/2022.10.08.511432v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Conformational and oligomeric states of SPOP from small-angle X-ray scattering and molecular dynamics simulations</span></a>    </span>
+  
+      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">F. Emil</span> <span class="nlm-surname">Thomasen</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Matthew J.</span> <span class="nlm-surname">Cuneo</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Tanja</span> <span class="nlm-surname">Mittag</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Kresten</span> <span class="nlm-surname">Lindorff-Larsen</span></span></span></div>
+  
+      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.08.511432; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.08.511432 </span></div>
+  
+  
+      <div class="highwire-cite-extras"><div id="hw-make-citation-0" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;08;2022.10.08.511432.atom" data-seqnum="0"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B08%3B2022.10.08.511432.atom/nojs/0" id="link-save-citation-toggle-0" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+  </div>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tight control of the APP-Mint1 interaction in regulating amyloid production (bioRxiv - amyloid)]]></title>
         <id>https://www.biorxiv.org/content/10.1101/2022.10.07.511363v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.07.511363v1"/>
         <updated>2022-10-08T17:48:41.452Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node" data-pisa="biorxiv;2022.10.07.511363v1" data-pisa-master="biorxiv;2022.10.07.511363" data-apath="/biorxiv/early/2022/10/08/2022.10.07.511363.atom" id="biorxivearly2022100820221007511363atom375753606"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--2" data-pisa="biorxiv;2022.10.07.511363v1" data-pisa-master="biorxiv;2022.10.07.511363" data-seqnum="1" data-apath="/biorxiv/early/2022/10/08/2022.10.07.511363.atom" id="biorxivearly2022100820221007511363atom397851276"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.07.511363v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Tight control of the APP-Mint1 interaction in regulating amyloid production</span></a>    </span>
@@ -415,7 +434,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.07.511363; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.07.511363 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-0" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;08;2022.10.07.511363.atom" data-seqnum="0"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B08%3B2022.10.07.511363.atom/nojs/0" id="link-save-citation-toggle-0" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-1" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;08;2022.10.07.511363.atom" data-seqnum="1"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B08%3B2022.10.07.511363.atom/nojs/1" id="link-save-citation-toggle-1" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -424,7 +443,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.06.30.498284v2</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.06.30.498284v2"/>
         <updated>2022-10-08T17:48:41.453Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--2" data-pisa="biorxiv;2022.06.30.498284v2" data-pisa-master="biorxiv;2022.06.30.498284" data-seqnum="1" data-apath="/biorxiv/early/2022/10/07/2022.06.30.498284.atom" id="biorxivearly2022100720220630498284atom933229163"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--3" data-pisa="biorxiv;2022.06.30.498284v2" data-pisa-master="biorxiv;2022.06.30.498284" data-seqnum="2" data-apath="/biorxiv/early/2022/10/07/2022.06.30.498284.atom" id="biorxivearly2022100720220630498284atom585942328"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.06.30.498284v2" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">High Frequency Oscillations (250-500Hz) in Animal Models of Alzheimer's Disease and Two Animal Models of Epilepsy</span></a>    </span>
@@ -434,7 +453,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.06.30.498284; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.06.30.498284 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-1" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.06.30.498284.atom" data-seqnum="1"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.06.30.498284.atom/nojs/1" id="link-save-citation-toggle-1" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-2" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.06.30.498284.atom" data-seqnum="2"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.06.30.498284.atom/nojs/2" id="link-save-citation-toggle-2" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -443,7 +462,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.10.07.511346v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.07.511346v1"/>
         <updated>2022-10-08T05:51:44.042Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--3" data-pisa="biorxiv;2022.10.07.511346v1" data-pisa-master="biorxiv;2022.10.07.511346" data-seqnum="2" data-apath="/biorxiv/early/2022/10/07/2022.10.07.511346.atom" id="biorxivearly2022100720221007511346atom404197480"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--4" data-pisa="biorxiv;2022.10.07.511346v1" data-pisa-master="biorxiv;2022.10.07.511346" data-seqnum="3" data-apath="/biorxiv/early/2022/10/07/2022.10.07.511346.atom" id="biorxivearly2022100720221007511346atom1651054725"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.07.511346v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Circadian modulation by time-restricted feeding restores brain transcription and slows amyloid deposition in a mouse model of Alzheimer′s disease.</span></a>    </span>
@@ -453,7 +472,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.07.511346; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.07.511346 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-2" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.07.511346.atom" data-seqnum="2"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.07.511346.atom/nojs/2" id="link-save-citation-toggle-2" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-3" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.07.511346.atom" data-seqnum="3"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.07.511346.atom/nojs/3" id="link-save-citation-toggle-3" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -462,7 +481,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.10.07.511366v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.07.511366v1"/>
         <updated>2022-10-08T05:51:44.046Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--4" data-pisa="biorxiv;2022.10.07.511366v1" data-pisa-master="biorxiv;2022.10.07.511366" data-seqnum="3" data-apath="/biorxiv/early/2022/10/07/2022.10.07.511366.atom" id="biorxivearly2022100720221007511366atom478057326"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--5" data-pisa="biorxiv;2022.10.07.511366v1" data-pisa-master="biorxiv;2022.10.07.511366" data-seqnum="4" data-apath="/biorxiv/early/2022/10/07/2022.10.07.511366.atom" id="biorxivearly2022100720221007511366atom422060920"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.07.511366v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Inter-individual variation in human cortical cell type abundance and expression</span></a>    </span>
@@ -472,7 +491,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.07.511366; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.07.511366 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-3" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.07.511366.atom" data-seqnum="3"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.07.511366.atom/nojs/3" id="link-save-citation-toggle-3" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-4" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.07.511366.atom" data-seqnum="4"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.07.511366.atom/nojs/4" id="link-save-citation-toggle-4" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -481,7 +500,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.10.04.510756v2</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.04.510756v2"/>
         <updated>2022-10-08T05:51:44.047Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--5" data-pisa="biorxiv;2022.10.04.510756v2" data-pisa-master="biorxiv;2022.10.04.510756" data-seqnum="4" data-apath="/biorxiv/early/2022/10/07/2022.10.04.510756.atom" id="biorxivearly2022100720221004510756atom766067922"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--6" data-pisa="biorxiv;2022.10.04.510756v2" data-pisa-master="biorxiv;2022.10.04.510756" data-seqnum="5" data-apath="/biorxiv/early/2022/10/07/2022.10.04.510756.atom" id="biorxivearly2022100720221004510756atom1942780752"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.04.510756v2" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Intracellular FUS protein accumulation leads to cytoskeletal, organelle and cellular homeostasis perturbations</span></a>    </span>
@@ -491,7 +510,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.04.510756; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.04.510756 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-4" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.04.510756.atom" data-seqnum="4"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.04.510756.atom/nojs/4" id="link-save-citation-toggle-4" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-5" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.04.510756.atom" data-seqnum="5"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.04.510756.atom/nojs/5" id="link-save-citation-toggle-5" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -500,7 +519,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.10.06.511112v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.06.511112v1"/>
         <updated>2022-10-08T05:51:44.049Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--6" data-pisa="biorxiv;2022.10.06.511112v1" data-pisa-master="biorxiv;2022.10.06.511112" data-seqnum="5" data-apath="/biorxiv/early/2022/10/07/2022.10.06.511112.atom" id="biorxivearly2022100720221006511112atom610656648"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--7" data-pisa="biorxiv;2022.10.06.511112v1" data-pisa-master="biorxiv;2022.10.06.511112" data-seqnum="6" data-apath="/biorxiv/early/2022/10/07/2022.10.06.511112.atom" id="biorxivearly2022100720221006511112atom1179287234"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.06.511112v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">GLUT1 ablation in astrocytes paradoxically improves central and peripheral glucose metabolism via enhanced insulin-stimulated ATP release</span></a>    </span>
@@ -510,7 +529,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.06.511112; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.06.511112 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-5" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.06.511112.atom" data-seqnum="5"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.06.511112.atom/nojs/5" id="link-save-citation-toggle-5" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-6" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.06.511112.atom" data-seqnum="6"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.06.511112.atom/nojs/6" id="link-save-citation-toggle-6" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -519,7 +538,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.10.07.511349v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.07.511349v1"/>
         <updated>2022-10-08T05:51:44.051Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--7" data-pisa="biorxiv;2022.10.07.511349v1" data-pisa-master="biorxiv;2022.10.07.511349" data-seqnum="6" data-apath="/biorxiv/early/2022/10/07/2022.10.07.511349.atom" id="biorxivearly2022100720221007511349atom1838818861"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--8" data-pisa="biorxiv;2022.10.07.511349v1" data-pisa-master="biorxiv;2022.10.07.511349" data-seqnum="7" data-apath="/biorxiv/early/2022/10/07/2022.10.07.511349.atom" id="biorxivearly2022100720221007511349atom1234053639"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.07.511349v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Loss of GABA co-transmission from cholinergic neurons impairs behaviors related to hippocampal, striatal, and medial prefrontal cortex functions</span></a>    </span>
@@ -529,7 +548,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.07.511349; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.07.511349 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-6" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.07.511349.atom" data-seqnum="6"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.07.511349.atom/nojs/6" id="link-save-citation-toggle-6" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-7" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.07.511349.atom" data-seqnum="7"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.07.511349.atom/nojs/7" id="link-save-citation-toggle-7" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -538,7 +557,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.10.06.511163v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.06.511163v1"/>
         <updated>2022-10-08T05:51:44.058Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--8" data-pisa="biorxiv;2022.10.06.511163v1" data-pisa-master="biorxiv;2022.10.06.511163" data-seqnum="7" data-apath="/biorxiv/early/2022/10/07/2022.10.06.511163.atom" id="biorxivearly2022100720221006511163atom791827743"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--9" data-pisa="biorxiv;2022.10.06.511163v1" data-pisa-master="biorxiv;2022.10.06.511163" data-seqnum="8" data-apath="/biorxiv/early/2022/10/07/2022.10.06.511163.atom" id="biorxivearly2022100720221006511163atom1368051044"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.06.511163v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">The striatum drives the ergogenic effects of caffeine</span></a>    </span>
@@ -548,7 +567,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.06.511163; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.06.511163 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-7" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.06.511163.atom" data-seqnum="7"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.06.511163.atom/nojs/7" id="link-save-citation-toggle-7" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-8" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.06.511163.atom" data-seqnum="8"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.06.511163.atom/nojs/8" id="link-save-citation-toggle-8" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -557,7 +576,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.10.05.511008v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.05.511008v1"/>
         <updated>2022-10-08T05:51:44.059Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--9" data-pisa="biorxiv;2022.10.05.511008v1" data-pisa-master="biorxiv;2022.10.05.511008" data-seqnum="8" data-apath="/biorxiv/early/2022/10/07/2022.10.05.511008.atom" id="biorxivearly2022100720221005511008atom1520808315"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--10" data-pisa="biorxiv;2022.10.05.511008v1" data-pisa-master="biorxiv;2022.10.05.511008" data-seqnum="9" data-apath="/biorxiv/early/2022/10/07/2022.10.05.511008.atom" id="biorxivearly2022100720221005511008atom2143985271"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.05.511008v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Super-resolution ultrasound imaging of cerebrovascular impairment in a mouse model of Alzheimer's disease</span></a>    </span>
@@ -567,26 +586,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.05.511008; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.05.511008 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-8" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.05.511008.atom" data-seqnum="8"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.05.511008.atom/nojs/8" id="link-save-citation-toggle-8" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
-  </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spatiotemporal orchestration of multicellular transcriptional programs and communications in spinal cord injury (bioRxiv - amyloid)]]></title>
-        <id>https://www.biorxiv.org/content/10.1101/2022.10.07.511269v1</id>
-        <link href="https://www.biorxiv.org/content/10.1101/2022.10.07.511269v1"/>
-        <updated>2022-10-08T05:51:44.062Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--10" data-pisa="biorxiv;2022.10.07.511269v1" data-pisa-master="biorxiv;2022.10.07.511269" data-seqnum="9" data-apath="/biorxiv/early/2022/10/07/2022.10.07.511269.atom" id="biorxivearly2022100720221007511269atom2056547653"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
-
-      <span class="highwire-cite-title">
-      <a href="/content/10.1101/2022.10.07.511269v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Spatiotemporal orchestration of multicellular transcriptional programs and communications in spinal cord injury</span></a>    </span>
-  
-      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Zeqing</span> <span class="nlm-surname">Wang</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Zhuxia</span> <span class="nlm-surname">Li</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Tianle</span> <span class="nlm-surname">Luan</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Guizhong</span> <span class="nlm-surname">Cui</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">Shunpan</span> <span class="nlm-surname">Shu</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Yiyao</span> <span class="nlm-surname">Liang</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Kai</span> <span class="nlm-surname">Zhang</span></span>, <span class="highwire-citation-author" data-delta="7"><span class="nlm-given-names">Wei</span> <span class="nlm-surname">Yu</span></span>, <span class="highwire-citation-author" data-delta="8"><span class="nlm-given-names">Jihong</span> <span class="nlm-surname">Cui</span></span>, <span class="highwire-citation-author" data-delta="9"><span class="nlm-given-names">Ang</span> <span class="nlm-surname">Li</span></span>, <span class="highwire-citation-author" data-delta="10"><span class="nlm-given-names">Guangdun</span> <span class="nlm-surname">Peng</span></span>, <span class="highwire-citation-author" data-delta="11"><span class="nlm-given-names">Yanshan</span> <span class="nlm-surname">Fang</span></span></span></div>
-  
-      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.07.511269; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.07.511269 </span></div>
-  
-  
-      <div class="highwire-cite-extras"><div id="hw-make-citation-9" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.07.511269.atom" data-seqnum="9"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.07.511269.atom/nojs/9" id="link-save-citation-toggle-9" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-9" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;07;2022.10.05.511008.atom" data-seqnum="9"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B07%3B2022.10.05.511008.atom/nojs/9" id="link-save-citation-toggle-9" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
