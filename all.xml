@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wduverger.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-24T06:43:10.074Z</updated>
+    <updated>2022-10-24T18:00:44.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Using Tana's Supertags with Search (Cortex Futura)]]></title>
@@ -401,11 +401,68 @@
         </div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A genome-wide association study identified new variants associated with mathematical abilities in Chinese children (bioRxiv - amyloid)]]></title>
+        <id>https://www.biorxiv.org/content/10.1101/2022.10.23.513388v1</id>
+        <link href="https://www.biorxiv.org/content/10.1101/2022.10.23.513388v1"/>
+        <updated>2022-10-24T18:00:39.694Z</updated>
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node" data-pisa="biorxiv;2022.10.23.513388v1" data-pisa-master="biorxiv;2022.10.23.513388" data-apath="/biorxiv/early/2022/10/24/2022.10.23.513388.atom" id="biorxivearly2022102420221023513388atom765811328"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+
+      <span class="highwire-cite-title">
+      <a href="/content/10.1101/2022.10.23.513388v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">A genome-wide association study identified new variants associated with mathematical abilities in Chinese children</span></a>    </span>
+  
+      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Liming</span> <span class="nlm-surname">Zhang</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Zhengjun</span> <span class="nlm-surname">Wang</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Zijian</span> <span class="nlm-surname">Zhu</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Qing</span> <span class="nlm-surname">Yang</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">Chen</span> <span class="nlm-surname">Cheng</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Shunan</span> <span class="nlm-surname">Zhao</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Chunyu</span> <span class="nlm-surname">Liu</span></span>, <span class="highwire-citation-author" data-delta="7"><span class="nlm-given-names">Jingjing</span> <span class="nlm-surname">Zhao</span></span></span></div>
+  
+      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.23.513388; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.23.513388 </span></div>
+  
+  
+      <div class="highwire-cite-extras"><div id="hw-make-citation-0" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;24;2022.10.23.513388.atom" data-seqnum="0"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B24%3B2022.10.23.513388.atom/nojs/0" id="link-save-citation-toggle-0" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+  </div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prediction of amyloid β accumulation from multiple biomarkers using a hierarchical Bayesian model (bioRxiv - amyloid)]]></title>
+        <id>https://www.biorxiv.org/content/10.1101/2022.10.21.513271v1</id>
+        <link href="https://www.biorxiv.org/content/10.1101/2022.10.21.513271v1"/>
+        <updated>2022-10-24T18:00:39.702Z</updated>
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--2" data-pisa="biorxiv;2022.10.21.513271v1" data-pisa-master="biorxiv;2022.10.21.513271" data-seqnum="1" data-apath="/biorxiv/early/2022/10/24/2022.10.21.513271.atom" id="biorxivearly2022102420221021513271atom1169246063"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+
+      <span class="highwire-cite-title">
+      <a href="/content/10.1101/2022.10.21.513271v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Prediction of amyloid β accumulation from multiple biomarkers using a hierarchical Bayesian model</span></a>    </span>
+  
+      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Yuichiro</span> <span class="nlm-surname">Yada</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Honda</span> <span class="nlm-surname">Naoki</span></span></span></div>
+  
+      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.21.513271; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.21.513271 </span></div>
+  
+  
+      <div class="highwire-cite-extras"><div id="hw-make-citation-1" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;24;2022.10.21.513271.atom" data-seqnum="1"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B24%3B2022.10.21.513271.atom/nojs/1" id="link-save-citation-toggle-1" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+  </div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Systematic loss of function screens identify pathway specific functional circular RNAs (bioRxiv - amyloid)]]></title>
+        <id>https://www.biorxiv.org/content/10.1101/2022.10.22.513321v2</id>
+        <link href="https://www.biorxiv.org/content/10.1101/2022.10.22.513321v2"/>
+        <updated>2022-10-24T18:00:39.705Z</updated>
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--3" data-pisa="biorxiv;2022.10.22.513321v2" data-pisa-master="biorxiv;2022.10.22.513321" data-seqnum="2" data-apath="/biorxiv/early/2022/10/24/2022.10.22.513321.atom" id="biorxivearly2022102420221022513321atom1868778898"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+
+      <span class="highwire-cite-title">
+      <a href="/content/10.1101/2022.10.22.513321v2" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Systematic loss of function screens identify pathway specific functional circular RNAs</span></a>    </span>
+  
+      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Ling</span> <span class="nlm-surname">Liu</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Matthew</span> <span class="nlm-surname">Neve</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Laura</span> <span class="nlm-surname">Perlaza-Jimenez</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Azelle</span> <span class="nlm-surname">Hawdon</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">Simon J</span> <span class="nlm-surname">Conn</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Jennifer</span> <span class="nlm-surname">Zenker</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Pablo</span> <span class="nlm-surname">Tamayo</span></span>, <span class="highwire-citation-author" data-delta="7"><span class="nlm-given-names">Gregory J</span> <span class="nlm-surname">Goodall</span></span>, <span class="highwire-citation-author" data-delta="8"><span class="nlm-given-names">Joseph</span> <span class="nlm-surname">Rosenbluh</span></span></span></div>
+  
+      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.22.513321; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.22.513321 </span></div>
+  
+  
+      <div class="highwire-cite-extras"><div id="hw-make-citation-2" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;24;2022.10.22.513321.atom" data-seqnum="2"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B24%3B2022.10.22.513321.atom/nojs/2" id="link-save-citation-toggle-2" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+  </div>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The conformational ensemble of an intrinsically disordered protein explains peak shapes under DNP conditions (bioRxiv - amyloid)]]></title>
         <id>https://www.biorxiv.org/content/10.1101/2022.10.22.513343v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.22.513343v1"/>
         <updated>2022-10-24T06:43:05.864Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node" data-pisa="biorxiv;2022.10.22.513343v1" data-pisa-master="biorxiv;2022.10.22.513343" data-apath="/biorxiv/early/2022/10/23/2022.10.22.513343.atom" id="biorxivearly2022102320221022513343atom226729532"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--4" data-pisa="biorxiv;2022.10.22.513343v1" data-pisa-master="biorxiv;2022.10.22.513343" data-seqnum="3" data-apath="/biorxiv/early/2022/10/23/2022.10.22.513343.atom" id="biorxivearly2022102320221022513343atom628404301"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.22.513343v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">The conformational ensemble of an intrinsically disordered protein explains peak shapes under DNP conditions</span></a>    </span>
@@ -415,7 +472,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.22.513343; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.22.513343 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-0" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;23;2022.10.22.513343.atom" data-seqnum="0"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B23%3B2022.10.22.513343.atom/nojs/0" id="link-save-citation-toggle-0" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-3" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;23;2022.10.22.513343.atom" data-seqnum="3"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B23%3B2022.10.22.513343.atom/nojs/3" id="link-save-citation-toggle-3" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -424,7 +481,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.10.22.513345v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.22.513345v1"/>
         <updated>2022-10-24T06:43:05.866Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--2" data-pisa="biorxiv;2022.10.22.513345v1" data-pisa-master="biorxiv;2022.10.22.513345" data-seqnum="1" data-apath="/biorxiv/early/2022/10/23/2022.10.22.513345.atom" id="biorxivearly2022102320221022513345atom522719637"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--5" data-pisa="biorxiv;2022.10.22.513345v1" data-pisa-master="biorxiv;2022.10.22.513345" data-seqnum="4" data-apath="/biorxiv/early/2022/10/23/2022.10.22.513345.atom" id="biorxivearly2022102320221022513345atom1019708494"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.22.513345v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Structural Basis for Selective Proteolysis of ADAM10 Substrates at Membrane-Proximal Sites</span></a>    </span>
@@ -434,7 +491,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.22.513345; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.22.513345 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-1" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;23;2022.10.22.513345.atom" data-seqnum="1"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B23%3B2022.10.22.513345.atom/nojs/1" id="link-save-citation-toggle-1" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-4" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;23;2022.10.22.513345.atom" data-seqnum="4"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B23%3B2022.10.22.513345.atom/nojs/4" id="link-save-citation-toggle-4" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -443,7 +500,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.07.09.499436v2</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.07.09.499436v2"/>
         <updated>2022-10-23T17:51:31.910Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--3" data-pisa="biorxiv;2022.07.09.499436v2" data-pisa-master="biorxiv;2022.07.09.499436" data-seqnum="2" data-apath="/biorxiv/early/2022/10/23/2022.07.09.499436.atom" id="biorxivearly2022102320220709499436atom951223983"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--6" data-pisa="biorxiv;2022.07.09.499436v2" data-pisa-master="biorxiv;2022.07.09.499436" data-seqnum="5" data-apath="/biorxiv/early/2022/10/23/2022.07.09.499436.atom" id="biorxivearly2022102320220709499436atom1924083603"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.07.09.499436v2" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">In-vivo fast non-linear microscopy reveals impairment of fast axonal transport induced by molecular motor imbalances in the brain of zebrafish larvae</span></a>    </span>
@@ -453,7 +510,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.07.09.499436; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.07.09.499436 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-2" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;23;2022.07.09.499436.atom" data-seqnum="2"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B23%3B2022.07.09.499436.atom/nojs/2" id="link-save-citation-toggle-2" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-5" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;23;2022.07.09.499436.atom" data-seqnum="5"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B23%3B2022.07.09.499436.atom/nojs/5" id="link-save-citation-toggle-5" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -462,7 +519,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.10.18.512678v2</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.18.512678v2"/>
         <updated>2022-10-23T17:51:31.916Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--4" data-pisa="biorxiv;2022.10.18.512678v2" data-pisa-master="biorxiv;2022.10.18.512678" data-seqnum="3" data-apath="/biorxiv/early/2022/10/23/2022.10.18.512678.atom" id="biorxivearly2022102320221018512678atom1429230628"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--7" data-pisa="biorxiv;2022.10.18.512678v2" data-pisa-master="biorxiv;2022.10.18.512678" data-seqnum="6" data-apath="/biorxiv/early/2022/10/23/2022.10.18.512678.atom" id="biorxivearly2022102320221018512678atom914689784"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.18.512678v2" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Regulation of adventitial interstitial fluid circulation by heartbeat and respiration</span></a>    </span>
@@ -472,7 +529,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.18.512678; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.18.512678 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-3" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;23;2022.10.18.512678.atom" data-seqnum="3"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B23%3B2022.10.18.512678.atom/nojs/3" id="link-save-citation-toggle-3" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-6" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;23;2022.10.18.512678.atom" data-seqnum="6"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B23%3B2022.10.18.512678.atom/nojs/6" id="link-save-citation-toggle-6" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -481,7 +538,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.03.21.485145v4</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.03.21.485145v4"/>
         <updated>2022-10-23T17:51:31.917Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--5" data-pisa="biorxiv;2022.03.21.485145v4" data-pisa-master="biorxiv;2022.03.21.485145" data-seqnum="4" data-apath="/biorxiv/early/2022/10/23/2022.03.21.485145.atom" id="biorxivearly2022102320220321485145atom122877071"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--8" data-pisa="biorxiv;2022.03.21.485145v4" data-pisa-master="biorxiv;2022.03.21.485145" data-seqnum="7" data-apath="/biorxiv/early/2022/10/23/2022.03.21.485145.atom" id="biorxivearly2022102320220321485145atom98945364"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.03.21.485145v4" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Whole-brain modeling explains the context-dependent effects of cholinergic neuromodulation</span></a>    </span>
@@ -491,7 +548,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.03.21.485145; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.03.21.485145 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-4" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;23;2022.03.21.485145.atom" data-seqnum="4"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B23%3B2022.03.21.485145.atom/nojs/4" id="link-save-citation-toggle-4" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-7" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;23;2022.03.21.485145.atom" data-seqnum="7"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B23%3B2022.03.21.485145.atom/nojs/7" id="link-save-citation-toggle-7" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -500,7 +557,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.10.21.513088v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.21.513088v1"/>
         <updated>2022-10-23T06:01:08.810Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--6" data-pisa="biorxiv;2022.10.21.513088v1" data-pisa-master="biorxiv;2022.10.21.513088" data-seqnum="5" data-apath="/biorxiv/early/2022/10/22/2022.10.21.513088.atom" id="biorxivearly2022102220221021513088atom979150542"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--9" data-pisa="biorxiv;2022.10.21.513088v1" data-pisa-master="biorxiv;2022.10.21.513088" data-seqnum="8" data-apath="/biorxiv/early/2022/10/22/2022.10.21.513088.atom" id="biorxivearly2022102220221021513088atom471676815"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.21.513088v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Brain DNA methylomic analysis of frontotemporal lobar degeneration reveals OTUD4 and CEBPZ in shared dysregulated signatures across pathological subtypes</span></a>    </span>
@@ -510,7 +567,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.21.513088; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.21.513088 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-5" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;22;2022.10.21.513088.atom" data-seqnum="5"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B22%3B2022.10.21.513088.atom/nojs/5" id="link-save-citation-toggle-5" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-8" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;22;2022.10.21.513088.atom" data-seqnum="8"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B22%3B2022.10.21.513088.atom/nojs/8" id="link-save-citation-toggle-8" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -519,7 +576,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.10.21.513206v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.21.513206v1"/>
         <updated>2022-10-23T06:01:08.822Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--7" data-pisa="biorxiv;2022.10.21.513206v1" data-pisa-master="biorxiv;2022.10.21.513206" data-seqnum="6" data-apath="/biorxiv/early/2022/10/22/2022.10.21.513206.atom" id="biorxivearly2022102220221021513206atom1483014520"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--10" data-pisa="biorxiv;2022.10.21.513206v1" data-pisa-master="biorxiv;2022.10.21.513206" data-seqnum="9" data-apath="/biorxiv/early/2022/10/22/2022.10.21.513206.atom" id="biorxivearly2022102220221021513206atom544587829"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.21.513206v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">The cellular Notch1 Protein Promotes KSHV reactivation in an Rta-dependent manner.</span></a>    </span>
@@ -529,64 +586,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.21.513206; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.21.513206 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-6" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;22;2022.10.21.513206.atom" data-seqnum="6"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B22%3B2022.10.21.513206.atom/nojs/6" id="link-save-citation-toggle-6" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
-  </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predictive Network Analysis Identifies JMJD6 and Other Novel Key Drivers in Alzheimer Disease (bioRxiv - amyloid)]]></title>
-        <id>https://www.biorxiv.org/content/10.1101/2022.10.19.512949v1</id>
-        <link href="https://www.biorxiv.org/content/10.1101/2022.10.19.512949v1"/>
-        <updated>2022-10-22T17:50:33.643Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--8" data-pisa="biorxiv;2022.10.19.512949v1" data-pisa-master="biorxiv;2022.10.19.512949" data-seqnum="7" data-apath="/biorxiv/early/2022/10/22/2022.10.19.512949.atom" id="biorxivearly2022102220221019512949atom1656581163"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
-
-      <span class="highwire-cite-title">
-      <a href="/content/10.1101/2022.10.19.512949v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Predictive Network Analysis Identifies JMJD6 and Other Novel Key Drivers in Alzheimer Disease</span></a>    </span>
-  
-      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Julie P</span> <span class="nlm-surname">Merchant</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Kuixi</span> <span class="nlm-surname">Zhu</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Marc Yves Romain</span> <span class="nlm-surname">Henrion</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Syed S.A</span> <span class="nlm-surname">Zaidi</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">Lau</span> <span class="nlm-surname">Branden</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Sara</span> <span class="nlm-surname">Moein</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Melissa L</span> <span class="nlm-surname">Alamprese</span></span>, <span class="highwire-citation-author" data-delta="7"><span class="nlm-given-names">Richard V</span> <span class="nlm-surname">Pearse</span> <span class="nlm-suffix">II</span></span>, <span class="highwire-citation-author" data-delta="8"><span class="nlm-given-names">David  A</span> <span class="nlm-surname">Bennett</span></span>, <span class="highwire-citation-author" data-delta="9"><span class="nlm-given-names">Nilufer</span> <span class="nlm-surname">Ertekin-Taner</span></span>, <span class="highwire-citation-author" data-delta="10"><span class="nlm-given-names">Tracy L</span> <span class="nlm-surname">Young-Pearse</span></span>, <span class="highwire-citation-author" data-delta="11"><span class="nlm-given-names">Rui</span> <span class="nlm-surname">Chang</span></span></span></div>
-  
-      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.19.512949; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.19.512949 </span></div>
-  
-  
-      <div class="highwire-cite-extras"><div id="hw-make-citation-7" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;22;2022.10.19.512949.atom" data-seqnum="7"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B22%3B2022.10.19.512949.atom/nojs/7" id="link-save-citation-toggle-7" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
-  </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A peptide strategy for inhibiting different protein aggregation pathways in disease (bioRxiv - amyloid)]]></title>
-        <id>https://www.biorxiv.org/content/10.1101/2022.10.22.513060v1</id>
-        <link href="https://www.biorxiv.org/content/10.1101/2022.10.22.513060v1"/>
-        <updated>2022-10-22T17:50:33.644Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--9" data-pisa="biorxiv;2022.10.22.513060v1" data-pisa-master="biorxiv;2022.10.22.513060" data-seqnum="8" data-apath="/biorxiv/early/2022/10/22/2022.10.22.513060.atom" id="biorxivearly2022102220221022513060atom1624415090"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
-
-      <span class="highwire-cite-title">
-      <a href="/content/10.1101/2022.10.22.513060v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">A peptide strategy for inhibiting different protein aggregation pathways in disease</span></a>    </span>
-  
-      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Tommaso</span> <span class="nlm-surname">Garfagnini</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Luca</span> <span class="nlm-surname">Ferrari</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Margreet</span> <span class="nlm-surname">Koopman</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Sem</span> <span class="nlm-surname">Halters</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">Eline</span> <span class="nlm-surname">Van Kappel</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Guy</span> <span class="nlm-surname">Mayer</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Madelon</span> <span class="nlm-surname">Maurice</span></span>, <span class="highwire-citation-author" data-delta="7"><span class="nlm-given-names">Stefan</span> <span class="nlm-surname">Rudiger</span></span>, <span class="highwire-citation-author" data-delta="8"><span class="nlm-given-names">Assaf</span> <span class="nlm-surname">Friedler</span></span></span></div>
-  
-      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.22.513060; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.22.513060 </span></div>
-  
-  
-      <div class="highwire-cite-extras"><div id="hw-make-citation-8" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;22;2022.10.22.513060.atom" data-seqnum="8"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B22%3B2022.10.22.513060.atom/nojs/8" id="link-save-citation-toggle-8" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
-  </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systematic loss of function screens identify pathway specific functional circular RNAs (bioRxiv - amyloid)]]></title>
-        <id>https://www.biorxiv.org/content/10.1101/2022.10.22.513321v1</id>
-        <link href="https://www.biorxiv.org/content/10.1101/2022.10.22.513321v1"/>
-        <updated>2022-10-22T17:50:33.645Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--10" data-pisa="biorxiv;2022.10.22.513321v1" data-pisa-master="biorxiv;2022.10.22.513321" data-seqnum="9" data-apath="/biorxiv/early/2022/10/22/2022.10.22.513321.atom" id="biorxivearly2022102220221022513321atom1545335635"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
-
-      <span class="highwire-cite-title">
-      <a href="/content/10.1101/2022.10.22.513321v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Systematic loss of function screens identify pathway specific functional circular RNAs</span></a>    </span>
-  
-      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Ling</span> <span class="nlm-surname">Liu</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Matthew</span> <span class="nlm-surname">Neve</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Laura</span> <span class="nlm-surname">Perlaza-Jimenez</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Azelle</span> <span class="nlm-surname">Hawdon</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">Simon</span> <span class="nlm-surname">Conn</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Jennifer</span> <span class="nlm-surname">Zenker</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Pablo</span> <span class="nlm-surname">Tamayo</span></span>, <span class="highwire-citation-author" data-delta="7"><span class="nlm-given-names">Gregory</span> <span class="nlm-surname">Goodall</span></span>, <span class="highwire-citation-author" data-delta="8"><span class="nlm-given-names">Joseph</span> <span class="nlm-surname">Rosenbluh</span></span></span></div>
-  
-      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.22.513321; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.22.513321 </span></div>
-  
-  
-      <div class="highwire-cite-extras"><div id="hw-make-citation-9" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;22;2022.10.22.513321.atom" data-seqnum="9"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B22%3B2022.10.22.513321.atom/nojs/9" id="link-save-citation-toggle-9" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-9" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;22;2022.10.21.513206.atom" data-seqnum="9"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B22%3B2022.10.21.513206.atom/nojs/9" id="link-save-citation-toggle-9" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
