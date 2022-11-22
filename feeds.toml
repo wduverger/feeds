@@ -22,9 +22,9 @@ entrySelector = ".post h3"
 titleSelector = "a"
 linkSelector = "a"
 
-#[nature]
-#title = "Nature - table of contents"
-#url = "https://www.nature.com/nature/volumes/609/issues/7926"
-#entrySelector = "#Research > ul > li:nth-child(3) article"
-#titleSelector = "a"
-#linkSelector = "a"
+[nature]
+title = "Nature - research articles"
+url = "https://www.nature.com/nature/research-articles"
+entrySelector = "article"
+titleSelector = "a"
+linkSelector = "a"
