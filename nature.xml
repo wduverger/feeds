@@ -2,9 +2,178 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2022-11-23T05:35:45.300Z</updated>
+    <updated>2022-11-23T17:34:37.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Regulation of the mammalian-brain V-ATPase through ultraslow mode-switching]]></title>
+        <id>https://www.nature.com/articles/s41586-022-05472-9</id>
+        <link href="https://www.nature.com/articles/s41586-022-05472-9"/>
+        <updated>2022-11-23T17:34:36.913Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                        <div class="c-card__image">
+                            <picture>
+                                <source type="image/webp" srcset="
+                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-022-05472-9/MediaObjects/41586_2022_5472_Fig1_HTML.png?as=webp 160w,
+                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05472-9/MediaObjects/41586_2022_5472_Fig1_HTML.png?as=webp 290w" sizes="
+                                    (max-width: 640px) 160px,
+                                    (max-width: 1200px) 290px,
+                                    290px">
+                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05472-9/MediaObjects/41586_2022_5472_Fig1_HTML.png" alt="" itemprop="image">
+                            </picture>
+                        </div>
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-022-05472-9" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Regulation of the mammalian-brain V-ATPase through ultraslow mode-switching</a>
+                </h3>
+                
+                    
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
+                            <p>Single-molecule measurements of synaptic vesicles show that V-ATPases do not pump continuously in time but instead stochastically switch between ultralong-lived proton-pumping, inactive and proton-leaky modes.</p>
+                        </div>
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Eleftherios Kosmidis</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Christopher G. Shuttle</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Dimitrios Stamou</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-23" itemprop="datePublished">23 Nov 2022</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emergent charge order in pressurized kagome superconductor CsV3Sb5]]></title>
+        <id>https://www.nature.com/articles/s41586-022-05351-3</id>
+        <link href="https://www.nature.com/articles/s41586-022-05351-3"/>
+        <updated>2022-11-23T17:34:36.913Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                        <div class="c-card__image">
+                            <picture>
+                                <source type="image/webp" srcset="
+                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-022-05351-3/MediaObjects/41586_2022_5351_Fig1_HTML.png?as=webp 160w,
+                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05351-3/MediaObjects/41586_2022_5351_Fig1_HTML.png?as=webp 290w" sizes="
+                                    (max-width: 640px) 160px,
+                                    (max-width: 1200px) 290px,
+                                    290px">
+                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05351-3/MediaObjects/41586_2022_5351_Fig1_HTML.png" alt="" itemprop="image">
+                            </picture>
+                        </div>
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-022-05351-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Emergent charge order in pressurized kagome superconductor CsV<sub>3</sub>Sb<sub>5</sub></a>
+                </h3>
+                
+                    
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
+                            <p>The evolution of CDW and superconductivity with pressure in CsV<sub>3</sub>Sb<sub>5</sub> by <sup>51</sup>V NMR measurements shed new light on the interplay of superconductivity and CDW, revealing new electronic correlation effects in kagome superconductors AV<sub>3</sub>Sb<sub>5</sub>.</p>
+                        </div>
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Lixuan Zheng</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Zhimian Wu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Xianhui Chen</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-23" itemprop="datePublished">23 Nov 2022</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polarized blazar X-rays imply particle acceleration in shocks]]></title>
+        <id>https://www.nature.com/articles/s41586-022-05338-0</id>
+        <link href="https://www.nature.com/articles/s41586-022-05338-0"/>
+        <updated>2022-11-23T17:34:36.913Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                        <div class="c-card__image">
+                            <picture>
+                                <source type="image/webp" srcset="
+                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-022-05338-0/MediaObjects/41586_2022_5338_Fig1_HTML.png?as=webp 160w,
+                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05338-0/MediaObjects/41586_2022_5338_Fig1_HTML.png?as=webp 290w" sizes="
+                                    (max-width: 640px) 160px,
+                                    (max-width: 1200px) 290px,
+                                    290px">
+                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05338-0/MediaObjects/41586_2022_5338_Fig1_HTML.png" alt="" itemprop="image">
+                            </picture>
+                        </div>
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-022-05338-0" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Polarized blazar X-rays imply particle acceleration in shocks</a>
+                </h3>
+                
+                    
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
+                            <p>Polarization measurements are reported for the blazar Mk501, revealing a degree of X-ray polarization that is more than twice the optical value and supporting the shock-accelerated energy-stratified electron population scenario.</p>
+                        </div>
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ioannis Liodakis</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Alan P. Marscher</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Silvia Zane</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access">
+                <span class="u-color-open-access">Open Access</span>
+            </span>
+        
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-23" itemprop="datePublished">23 Nov 2022</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pre-T cell receptor Self-MHC Sampling Restricts Thymocyte Dedifferentiation]]></title>
         <id>https://www.nature.com/articles/s41586-022-05555-7</id>
@@ -899,139 +1068,6 @@
             <span class="c-meta__type">Article</span>
         </span>
             <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-15" itemprop="datePublished">15 Nov 2022</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-viral precision T cell receptor replacement for personalized cell therapy]]></title>
-        <id>https://www.nature.com/articles/s41586-022-05531-1</id>
-        <link href="https://www.nature.com/articles/s41586-022-05531-1"/>
-        <updated>2022-11-22T09:06:18.922Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-022-05531-1" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Non-viral precision T cell receptor replacement for personalized cell therapy</a>
-                </h3>
-                
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Susan P. Foy</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kyle Jacoby</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Stefanie J. Mandl</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-10" itemprop="datePublished">10 Nov 2022</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple pathways for SARS-CoV-2 resistance to nirmatrelvir]]></title>
-        <id>https://www.nature.com/articles/s41586-022-05514-2</id>
-        <link href="https://www.nature.com/articles/s41586-022-05514-2"/>
-        <updated>2022-11-22T09:06:18.923Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-022-05514-2" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Multiple pathways for SARS-CoV-2 resistance to nirmatrelvir</a>
-                </h3>
-                
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Sho Iketani</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Hiroshi Mohri</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">David D. Ho</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-09" itemprop="datePublished">09 Nov 2022</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parenchymal border macrophages regulate the flow dynamics of the cerebrospinal fluid]]></title>
-        <id>https://www.nature.com/articles/s41586-022-05397-3</id>
-        <link href="https://www.nature.com/articles/s41586-022-05397-3"/>
-        <updated>2022-11-22T09:06:18.924Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-022-05397-3/MediaObjects/41586_2022_5397_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05397-3/MediaObjects/41586_2022_5397_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05397-3/MediaObjects/41586_2022_5397_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-022-05397-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Parenchymal border macrophages regulate the flow dynamics of the cerebrospinal fluid</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Perivascular and leptomeningeal macrophages, collectively termed here&nbsp;parenchymal border macrophages, are shown to regulate flow dynamics of cerebrospinal fluid, implicating this cell population as new therapeutic targets in neurological diseases such as Alzheimer’s.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Antoine Drieu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Siling Du</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jonathan Kipnis</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-09" itemprop="datePublished">09 Nov 2022</time>
         
         
         
