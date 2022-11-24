@@ -2,9 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2022-11-24T05:35:23.492Z</updated>
+    <updated>2022-11-24T17:35:44.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Antiviral signaling by a cyclic nucleotide activated CRISPR protease]]></title>
+        <id>https://www.nature.com/articles/s41586-022-05571-7</id>
+        <link href="https://www.nature.com/articles/s41586-022-05571-7"/>
+        <updated>2022-11-24T17:35:43.691Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-022-05571-7" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Antiviral signaling by a cyclic nucleotide activated CRISPR protease</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Christophe Rouillon</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Niels Schneberger</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Gregor Hagelueken</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-24" itemprop="datePublished">24 Nov 2022</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Singlet and triplet Cooper pair splitting in hybrid superconducting nanowires]]></title>
         <id>https://www.nature.com/articles/s41586-022-05352-2</id>
@@ -289,6 +328,61 @@
     </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MYC multimers shield stalled replication forks from RNA polymerase]]></title>
+        <id>https://www.nature.com/articles/s41586-022-05469-4</id>
+        <link href="https://www.nature.com/articles/s41586-022-05469-4"/>
+        <updated>2022-11-24T17:35:43.700Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                        <div class="c-card__image">
+                            <picture>
+                                <source type="image/webp" srcset="
+                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-022-05469-4/MediaObjects/41586_2022_5469_Fig1_HTML.png?as=webp 160w,
+                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05469-4/MediaObjects/41586_2022_5469_Fig1_HTML.png?as=webp 290w" sizes="
+                                    (max-width: 640px) 160px,
+                                    (max-width: 1200px) 290px,
+                                    290px">
+                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05469-4/MediaObjects/41586_2022_5469_Fig1_HTML.png" alt="" itemprop="image">
+                            </picture>
+                        </div>
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-022-05469-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">MYC multimers shield stalled replication forks from RNA polymerase</a>
+                </h3>
+                
+                    
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
+                            <p>MYC dissociation from active promoters alters its interactions with proteins involved in transcription termination and RNA processing, influencing DNA repair and thus, potentially, tumour cell growth.</p>
+                        </div>
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Daniel Solvie</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Apoorva Baluapuri</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Martin Eilers</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-23" itemprop="datePublished">23 Nov 2022</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Structured cerebellar connectivity supports resilient pattern separation]]></title>
         <id>https://www.nature.com/articles/s41586-022-05471-w</id>
         <link href="https://www.nature.com/articles/s41586-022-05471-w"/>
@@ -381,6 +475,61 @@
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
     <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Lixuan Zheng</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Zhimian Wu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Xianhui Chen</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-23" itemprop="datePublished">23 Nov 2022</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spin cross-correlation experiments in an electron entangler]]></title>
+        <id>https://www.nature.com/articles/s41586-022-05436-z</id>
+        <link href="https://www.nature.com/articles/s41586-022-05436-z"/>
+        <updated>2022-11-24T17:35:43.703Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                        <div class="c-card__image">
+                            <picture>
+                                <source type="image/webp" srcset="
+                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-022-05436-z/MediaObjects/41586_2022_5436_Fig1_HTML.png?as=webp 160w,
+                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05436-z/MediaObjects/41586_2022_5436_Fig1_HTML.png?as=webp 290w" sizes="
+                                    (max-width: 640px) 160px,
+                                    (max-width: 1200px) 290px,
+                                    290px">
+                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05436-z/MediaObjects/41586_2022_5436_Fig1_HTML.png" alt="" itemprop="image">
+                            </picture>
+                        </div>
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-022-05436-z" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Spin cross-correlation experiments in an electron entangler</a>
+                </h3>
+                
+                    
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
+                            <p>Spin correlation experiments are demonstrated in an electron entangler device based on&nbsp;the ‘splitting’ of Cooper pairs from a superconductor, which can&nbsp;potentially be used to investigate many fundamental phases and processes related to the electron spin.</p>
+                        </div>
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Arunav Bordoloi</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Valentina Zannier</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Andreas Baumgartner</span></li>
 </ul>
 
                 
@@ -922,175 +1071,6 @@
     <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
             <span class="c-meta__type">Article</span>
         </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-16" itemprop="datePublished">16 Nov 2022</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin–orbit microlaser emitting in a four-dimensional Hilbert space]]></title>
-        <id>https://www.nature.com/articles/s41586-022-05339-z</id>
-        <link href="https://www.nature.com/articles/s41586-022-05339-z"/>
-        <updated>2022-11-22T09:06:18.911Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-022-05339-z/MediaObjects/41586_2022_5339_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05339-z/MediaObjects/41586_2022_5339_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05339-z/MediaObjects/41586_2022_5339_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-022-05339-z" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Spin–orbit microlaser emitting in a four-dimensional Hilbert space</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>A fully integrated semiconductor microlaser that exploits spin–orbit coupling of light emits in a four-dimensional Hilbert space, with flexible control of up to six degrees of freedom.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Zhifeng Zhang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Haoqi Zhao</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Liang Feng</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-16" itemprop="datePublished">16 Nov 2022</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using machine learning to assess the livelihood impact of electricity access]]></title>
-        <id>https://www.nature.com/articles/s41586-022-05322-8</id>
-        <link href="https://www.nature.com/articles/s41586-022-05322-8"/>
-        <updated>2022-11-22T09:06:18.912Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-022-05322-8/MediaObjects/41586_2022_5322_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05322-8/MediaObjects/41586_2022_5322_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05322-8/MediaObjects/41586_2022_5322_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-022-05322-8" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Using machine learning to assess the livelihood impact of electricity access</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Advancements in satellite imagery and machine learning can be used to infer the causal impact of electricity access on livelihoods, providing a low-cost, generalizable approach to evaluating public policy in data-spare environments.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Nathan Ratledge</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Gabe Cadamuro</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Marshall Burke</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-16" itemprop="datePublished">16 Nov 2022</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medin co-aggregates with vascular amyloid-β in Alzheimer’s disease]]></title>
-        <id>https://www.nature.com/articles/s41586-022-05440-3</id>
-        <link href="https://www.nature.com/articles/s41586-022-05440-3"/>
-        <updated>2022-11-22T09:06:18.914Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-022-05440-3/MediaObjects/41586_2022_5440_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05440-3/MediaObjects/41586_2022_5440_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05440-3/MediaObjects/41586_2022_5440_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-022-05440-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Medin co-aggregates with vascular amyloid-β in Alzheimer’s disease</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Medin promotes the formation of vascular aggregates with amyloid-β in mouse models and in human patients with Alzheimer’s disease, and is associated with vascular defects and cognitive decline.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jessica Wagner</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Karoline Degenhardt</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jonas J. Neher</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access">
-                <span class="u-color-open-access">Open Access</span>
-            </span>
-        
             <time class="c-meta__item c-meta__item--block-at-lg" datetime="2022-11-16" itemprop="datePublished">16 Nov 2022</time>
         
         
