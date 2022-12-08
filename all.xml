@@ -2,410 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wduverger.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-07T17:35:08.349Z</updated>
+    <updated>2022-12-08T05:34:43.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Using Tana's Supertags with Search (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/tana-supertags-plus-search-tana-fundamentals/</id>
-        <link href="https://www.cortexfutura.com/tana-supertags-plus-search-tana-fundamentals/"/>
-        <updated>2022-09-30T17:55:56.704Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/tana-supertags-plus-search-tana-fundamentals/" class="svelte-1fj1tr4"><img src="/images/articles/tana-supertags-plus-search-tana-fundamentals/tana-fundamentals-thumbnail-supertags-and-search.jpg" alt="Using Tana's Supertags with Search" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/tana/" class="svelte-1fj1tr4">Tana</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/tana-supertags-plus-search-tana-fundamentals/" class="svelte-1fj1tr4">Using Tana's Supertags with Search</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Learn how to use Tana's supertags with live searches and create amazing workflows.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn how to use Supertags in Tana (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/supertag-basics-tana-fundamentals/</id>
-        <link href="https://www.cortexfutura.com/supertag-basics-tana-fundamentals/"/>
-        <updated>2022-09-30T17:55:56.705Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/supertag-basics-tana-fundamentals/" class="svelte-1fj1tr4"><img src="/images/articles/supertag-basics-tana-fundamentals/tana-fundamentals-thumbnail-supertag-basics.jpg" alt="Learn how to use Supertags in Tana" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/tana/" class="svelte-1fj1tr4">Tana</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/supertag-basics-tana-fundamentals/" class="svelte-1fj1tr4">Learn how to use Supertags in Tana</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Understand the basics of how to use Tana's supertags.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Tana's Live Search Feature (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/live-search-in-tana-fundamentals/</id>
-        <link href="https://www.cortexfutura.com/live-search-in-tana-fundamentals/"/>
-        <updated>2022-09-30T17:55:56.711Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/live-search-in-tana-fundamentals/" class="svelte-1fj1tr4"><img src="/images/articles/live-search-in-tana-fundamentals/tana-fundamentals-thumbnail-live-search.jpg" alt="Using Tana's Live Search Feature" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/tana/" class="svelte-1fj1tr4">Tana</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/live-search-in-tana-fundamentals/" class="svelte-1fj1tr4">Using Tana's Live Search Feature</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Learn how to use Tana's live searches.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get oriented in Tana's UI (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/introduction-to-tana-ui-tana-fundamentals/</id>
-        <link href="https://www.cortexfutura.com/introduction-to-tana-ui-tana-fundamentals/"/>
-        <updated>2022-09-30T17:55:56.711Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/introduction-to-tana-ui-tana-fundamentals/" class="svelte-1fj1tr4"><img src="/img/landing/tana-fundamentals/tana-fundamentals-thumbnail-basic-ui.jpg" alt="Get oriented in Tana's UI" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/tana/" class="svelte-1fj1tr4">Tana</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/introduction-to-tana-ui-tana-fundamentals/" class="svelte-1fj1tr4">Get oriented in Tana's UI</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Get started with Tana by exploring its main UI and navigation features.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything is a Node in Tana (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/everything-is-a-node-tana-fundamentals/</id>
-        <link href="https://www.cortexfutura.com/everything-is-a-node-tana-fundamentals/"/>
-        <updated>2022-09-30T17:55:56.711Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/everything-is-a-node-tana-fundamentals/" class="svelte-1fj1tr4"><img src="/img/landing/tana-fundamentals/tana-fundamentals-thumbnail-everything-is-a-node.jpg" alt="Everything is a Node in Tana" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/tana/" class="svelte-1fj1tr4">Tana</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/everything-is-a-node-tana-fundamentals/" class="svelte-1fj1tr4">Everything is a Node in Tana</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Learn how to use Tana's nodes.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data About Nodes - Fields and Tags in Tana (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/data-about-nodes-tana-fundamentals/</id>
-        <link href="https://www.cortexfutura.com/data-about-nodes-tana-fundamentals/"/>
-        <updated>2022-09-30T17:55:56.711Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/data-about-nodes-tana-fundamentals/" class="svelte-1fj1tr4"><img src="/images/articles/data-about-nodes-tana-fundamentals/tana-fundamentals-thumbnail-data-about-nodes.jpg" alt="Data About Nodes - Fields and Tags in Tana" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/tana/" class="svelte-1fj1tr4">Tana</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/data-about-nodes-tana-fundamentals/" class="svelte-1fj1tr4">Data About Nodes - Fields and Tags in Tana</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Learn how to leverage Tana's fields and tags to record data about individual nodes.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Time Units for Higher Productivity (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/new-time-units-for-higher-productivity/</id>
-        <link href="https://www.cortexfutura.com/new-time-units-for-higher-productivity/"/>
-        <updated>2022-08-10T17:42:10.203Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/new-time-units-for-higher-productivity/" class="svelte-1fj1tr4"><img src="/images/articles/new-time-units-for-higher-productivity/new-time-units-for-higher-productivity_thumbnail.jpg" alt="New Time Units for Higher Productivity" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/productivity/" class="svelte-1fj1tr4">Productivity</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/new-time-units-for-higher-productivity/" class="svelte-1fj1tr4">New Time Units for Higher Productivity</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Our common measures of time never worked for me for time management. So I invented my own.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Input Channel Audit (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/input-channel-audit/</id>
-        <link href="https://www.cortexfutura.com/input-channel-audit/"/>
-        <updated>2022-05-23T14:11:04.661Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/input-channel-audit/" class="svelte-1fj1tr4"><img src="/images/articles/input-channel-audit/input-channel-audit_thumbnail.webp" alt="The Input Channel Audit" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Atomic Essay: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/attention-design/" class="svelte-1fj1tr4">Attention Design</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/input-channel-audit/" class="svelte-1fj1tr4">The Input Channel Audit</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">A quick How To guide for shaping your information diet
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Develop Strong Criteria for Input Triage (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/develop-strong-criteria-for-input-triage/</id>
-        <link href="https://www.cortexfutura.com/develop-strong-criteria-for-input-triage/"/>
-        <updated>2022-05-23T14:11:04.662Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/develop-strong-criteria-for-input-triage/" class="svelte-1fj1tr4"><img src="/images/articles/develop-strong-criteria-for-input-triage/develop-strong-criteria-for-input-triage_thumbnail.jpg" alt="Develop Strong Criteria for Input Triage" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Atomic Essay: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/attention-design/" class="svelte-1fj1tr4">Attention Design</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/develop-strong-criteria-for-input-triage/" class="svelte-1fj1tr4">Develop Strong Criteria for Input Triage</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">'How in the world. You need less Twitter in your life.' I had, again, discarded my guard rails of attention design and failed at input triage.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Seven Questions At The Heart Of Knowledge Ops (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/seven-questions-knowledge-ops/</id>
-        <link href="https://www.cortexfutura.com/seven-questions-knowledge-ops/"/>
-        <updated>2022-05-23T14:11:04.663Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/seven-questions-knowledge-ops/" class="svelte-1fj1tr4"><img src="/images/articles/seven-questions-knowledge-ops/seven-questions-knowledge-ops_thumbnail.jpg" alt="The Seven Questions At The Heart Of Knowledge Ops" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/knowledge-ops/" class="svelte-1fj1tr4">Knowledge Ops</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/seven-questions-knowledge-ops/" class="svelte-1fj1tr4">The Seven Questions At The Heart Of Knowledge Ops</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Personal Knowledge Management is too restrictive – you want to think about all seven of these questions instead.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Grazing – Feeding Model of Information Gathering (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/grazing-feeding-model-information-gathering/</id>
-        <link href="https://www.cortexfutura.com/grazing-feeding-model-information-gathering/"/>
-        <updated>2022-05-23T14:11:04.665Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/grazing-feeding-model-information-gathering/" class="svelte-1fj1tr4"><img src="/images/articles/grazing-feeding-model-information-gathering/grazing-feeding-model_thumbnail.jpg" alt="The Grazing – Feeding Model of Information Gathering" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/knowledge-ops/" class="svelte-1fj1tr4">Knowledge Ops</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/grazing-feeding-model-information-gathering/" class="svelte-1fj1tr4">The Grazing – Feeding Model of Information Gathering</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">On the Internet, information is limitless. The Grazing-Feeding Model of Information Gathering helps you know how you're engaging with that information.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadly, Constraints Are Real (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/constraints-are-real/</id>
-        <link href="https://www.cortexfutura.com/constraints-are-real/"/>
-        <updated>2022-05-23T14:11:04.666Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/constraints-are-real/" class="svelte-1fj1tr4"><img src="/images/articles/constraints-are-real/constraints-are-real_thumbnail.jpg" alt="Sadly, Constraints Are Real" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Atomic Essay: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/constraints/" class="svelte-1fj1tr4">Constraints</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/constraints-are-real/" class="svelte-1fj1tr4">Sadly, Constraints Are Real</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">For the last 15 years I've ignored one fundamental truth: real constraints exist. Here's what I'm trying now.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adversarial Reading (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/adversarial-reading/</id>
-        <link href="https://www.cortexfutura.com/adversarial-reading/"/>
-        <updated>2022-05-23T14:11:04.667Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/adversarial-reading/" class="svelte-1fj1tr4"><img src="/images/articles/adversarial-reading/algorithm_of_thought_thumbnail-squashed.jpg" alt="Adversarial Reading" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/algorithm-of-thought/" class="svelte-1fj1tr4">Algorithm of Thought</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/adversarial-reading/" class="svelte-1fj1tr4">Adversarial Reading</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Bullshit is everywhere, and these algorithms of thought help you do more adversarial reading.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to improve a process (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/how-to-improve-a-process/</id>
-        <link href="https://www.cortexfutura.com/how-to-improve-a-process/"/>
-        <updated>2022-05-23T14:11:04.667Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/how-to-improve-a-process/" class="svelte-1fj1tr4"><img src="/images/articles/how-to-improve-a-process/how-to-improve-a-process_thumbnail.jpg" alt="How to improve a process" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Atomic Essay: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/productivity/" class="svelte-1fj1tr4">Productivity</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/how-to-improve-a-process/" class="svelte-1fj1tr4">How to improve a process</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">With taking notes as an example, let's talk about how to improve any process.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Fiddle With Your Note-Taking System (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/dont-fiddle-with-your-note-taking-system/</id>
-        <link href="https://www.cortexfutura.com/dont-fiddle-with-your-note-taking-system/"/>
-        <updated>2022-05-23T14:11:04.668Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/dont-fiddle-with-your-note-taking-system/" class="svelte-1fj1tr4"><img src="/images/articles/dont-fiddle-with-your-note-taking-system/dont-fiddle-with-your-note-taking-system_thumbnail.jpg" alt="Don't Fiddle With Your Note-Taking System" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Atomic Essay: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/note-taking/" class="svelte-1fj1tr4">Note-taking</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/dont-fiddle-with-your-note-taking-system/" class="svelte-1fj1tr4">Don't Fiddle With Your Note-Taking System</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">You should stick to one note-taking system and fiddle with it as little as possible. That's a myth.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Rid of Peer Review and Academic Journals (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/getting-rid-of-peer-review/</id>
-        <link href="https://www.cortexfutura.com/getting-rid-of-peer-review/"/>
-        <updated>2022-05-23T14:11:04.669Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/getting-rid-of-peer-review/" class="svelte-1fj1tr4"><img src="/images/articles/getting-rid-of-peer-review/getting-rid-of-peer-review_thumb.jpg" alt="Get Rid of Peer Review and Academic Journals" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/peer-review/" class="svelte-1fj1tr4">Peer Review</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/getting-rid-of-peer-review/" class="svelte-1fj1tr4">Get Rid of Peer Review and Academic Journals</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Why to get rid of peer review and academic journals as we know them – and possibly what to do instead.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Actually Need to Context Switch (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/you-actually-need-to-context-switch/</id>
-        <link href="https://www.cortexfutura.com/you-actually-need-to-context-switch/"/>
-        <updated>2022-05-23T14:11:04.669Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/you-actually-need-to-context-switch/" class="svelte-1fj1tr4"><img src="/images/articles/you-actually-need-to-context-switch/you-actually-need-to-context-switch_thumbnail.jpg" alt="You Actually Need to Context Switch" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Atomic Essay: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/productivity/" class="svelte-1fj1tr4">Productivity</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/you-actually-need-to-context-switch/" class="svelte-1fj1tr4">You Actually Need to Context Switch</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Common wisdom says that you need to avoid context switching. That's only half true – sometimes you need to context switch.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Context Switch Like a Pro (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/how-to-context-switch-like-a-pro/</id>
-        <link href="https://www.cortexfutura.com/how-to-context-switch-like-a-pro/"/>
-        <updated>2022-05-23T14:11:04.670Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/how-to-context-switch-like-a-pro/" class="svelte-1fj1tr4"><img src="/images/articles/how-to-context-switch-like-a-pro/workcycle-example_squashed.jpg" alt="How to Context Switch Like a Pro" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/productivity/" class="svelte-1fj1tr4">Productivity</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/how-to-context-switch-like-a-pro/" class="svelte-1fj1tr4">How to Context Switch Like a Pro</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Context switching is unavoidable – but you can make it less costly by combining a couple of simple strategies.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Tale of Two Biases: How To Read The News (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/selection-description-bias-news/</id>
-        <link href="https://www.cortexfutura.com/selection-description-bias-news/"/>
-        <updated>2022-05-23T14:11:04.671Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/selection-description-bias-news/" class="svelte-1fj1tr4"><img src="/images/articles/selection-description-bias-news/selection-description-bias-squashed.jpg" alt="A Tale of Two Biases: How To Read The News" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/reading/" class="svelte-1fj1tr4">Reading</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/selection-description-bias-news/" class="svelte-1fj1tr4">A Tale of Two Biases: How To Read The News</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Counter two frequent biases while reading the news: Selection Bias and Description Bias.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use Roam Research for Interstitial Journaling (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/interstitial-journaling-roam-research/</id>
-        <link href="https://www.cortexfutura.com/interstitial-journaling-roam-research/"/>
-        <updated>2022-05-23T14:11:04.671Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/interstitial-journaling-roam-research/" class="svelte-1fj1tr4"><img src="/images/articles/interstitial-journaling-roam-research/interstitial_journaling_roam_research_thumbnail.png" alt="How to use Roam Research for Interstitial Journaling" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/interstitial-journaling/" class="svelte-1fj1tr4">Interstitial Journaling</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/interstitial-journaling-roam-research/" class="svelte-1fj1tr4">How to use Roam Research for Interstitial Journaling</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Interstitial Journaling is a great technique for minimizing context switching costs and staying productive. Here's how I use it in Roam Reserch.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Pick Zotero As A Reference Manager (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/why-zotero-reference-manager/</id>
-        <link href="https://www.cortexfutura.com/why-zotero-reference-manager/"/>
-        <updated>2022-05-23T14:11:04.672Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/why-zotero-reference-manager/" class="svelte-1fj1tr4"><img src="/images/articles/why-zotero-reference-manager/why-zotero-reference-manager_thumbnail.jpg" alt="Why You Should Pick Zotero As A Reference Manager" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/academic-workflow/" class="svelte-1fj1tr4">Academic Workflow</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/why-zotero-reference-manager/" class="svelte-1fj1tr4">Why You Should Pick Zotero As A Reference Manager</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">A guide to reference managers, what you should expect from them and why Zotero is the reference manager you should use - whether you're in academia or not.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behavior First, Theory Second (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/behavior-first-theory-second/</id>
-        <link href="https://www.cortexfutura.com/behavior-first-theory-second/"/>
-        <updated>2022-05-23T14:11:04.676Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/behavior-first-theory-second/" class="svelte-1fj1tr4"><img src="/images/articles/behavior-first-theory-second/behavior-first-theory-second_thumb.jpg" alt="Behavior First, Theory Second" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/learning/" class="svelte-1fj1tr4">Learning</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/behavior-first-theory-second/" class="svelte-1fj1tr4">Behavior First, Theory Second</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Behavior and Theory are two heuristics that can help you in deciding between courses and teachers.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[True Algorithms of Thought Have Arrived (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/algorithms-of-thought-have-arrived/</id>
-        <link href="https://www.cortexfutura.com/algorithms-of-thought-have-arrived/"/>
-        <updated>2022-05-23T14:11:04.677Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/algorithms-of-thought-have-arrived/" class="svelte-1fj1tr4"><img src="/images/articles/algorithms-of-thought-have-arrived/algorithm_of_thought_thumbnail-squashed.jpg" alt="True Algorithms of Thought Have Arrived" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/algorithm-of-thought/" class="svelte-1fj1tr4">Algorithm of Thought</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/algorithms-of-thought-have-arrived/" class="svelte-1fj1tr4">True Algorithms of Thought Have Arrived</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Can you imagine being able to transfer 'mental software' between people? It's now possible, by using Algorithms of Thought in Roam Research.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power of Keystone Habits with Roam Research (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/keystone-habits-with-roam-research/</id>
-        <link href="https://www.cortexfutura.com/keystone-habits-with-roam-research/"/>
-        <updated>2022-05-23T14:11:04.687Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/keystone-habits-with-roam-research/" class="svelte-1fj1tr4"><img src="/images/articles/keystone-habits-with-roam-research/keystone-habits-with-roam-research-thumbnail.jpg" alt="The Power of Keystone Habits with Roam Research" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/programming-attention/" class="svelte-1fj1tr4">Programming Attention</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/keystone-habits-with-roam-research/" class="svelte-1fj1tr4">The Power of Keystone Habits with Roam Research</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">How to use Roam Research as your keystone habit to regularly revisit writing that is important to you, using the ∆ feature in Roam.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zotero and Roam Research (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/zotero-and-roam-research/</id>
-        <link href="https://www.cortexfutura.com/zotero-and-roam-research/"/>
-        <updated>2022-05-23T14:11:04.688Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/zotero-and-roam-research/" class="svelte-1fj1tr4"><img src="/images/articles/zotero-and-roam-research/zotero-and-roam-research_thumbnail.jpg" alt="Zotero and Roam Research" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/academic-workflow/" class="svelte-1fj1tr4">Academic Workflow</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/zotero-and-roam-research/" class="svelte-1fj1tr4">Zotero and Roam Research</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">A guide for using Roam Research together with Zotero to get the most out of your citation metadata.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A short (preliminary) guide to Spaced Repetition in Roam Research (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/preliminary-spaced-repetition-roam/</id>
-        <link href="https://www.cortexfutura.com/preliminary-spaced-repetition-roam/"/>
-        <updated>2022-05-23T14:11:04.689Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/preliminary-spaced-repetition-roam/" class="svelte-1fj1tr4"><img src="/images/articles/preliminary-spaced-repetition-roam/prelim_srs_thumbnail.jpg" alt="A short (preliminary) guide to Spaced Repetition in Roam Research" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/spaced-repetition/" class="svelte-1fj1tr4">Spaced Repetition</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/preliminary-spaced-repetition-roam/" class="svelte-1fj1tr4">A short (preliminary) guide to Spaced Repetition in Roam Research</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">How to use Roam Research's new Delta feature to do Spaced Repetition and never forget anything again.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My grandfather's research technique - Index, Proto-Zettelkasten, Paper (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/my-grandfathers-research-technique/</id>
-        <link href="https://www.cortexfutura.com/my-grandfathers-research-technique/"/>
-        <updated>2022-05-23T14:11:04.690Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/my-grandfathers-research-technique/" class="svelte-1fj1tr4"><img src="/images/articles/my-grandfathers-research-technique/kawerau_1984_ch6_thumbnail.jpg" alt="My grandfather's research technique - Index, Proto-Zettelkasten, Paper" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/zettelkasten/" class="svelte-1fj1tr4">Zettelkasten</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/my-grandfathers-research-technique/" class="svelte-1fj1tr4">My grandfather's research technique - Index, Proto-Zettelkasten, Paper</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">My grandfather's way of doing history research before the computer age. Using paper and a meticulous process, he built something close to a Zettelkasten.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to cure Highlight Dementia (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/how-to-cure-highlight-dementia/</id>
-        <link href="https://www.cortexfutura.com/how-to-cure-highlight-dementia/"/>
-        <updated>2022-05-23T14:11:04.692Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/how-to-cure-highlight-dementia/" class="svelte-1fj1tr4"><img src="/images/articles/how-to-cure-highlight-dementia/highlight_dementia_thumbnail.jpg" alt="How to cure Highlight Dementia" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/reading/" class="svelte-1fj1tr4">Reading</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/how-to-cure-highlight-dementia/" class="svelte-1fj1tr4">How to cure Highlight Dementia</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">How to make sure that you never lose insights when reading and highlighting. Because Highlight Dementia is completely preventable.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Actor's Concepts and Inventing Discovery (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/actors-concepts-inventing-discovery/</id>
-        <link href="https://www.cortexfutura.com/actors-concepts-inventing-discovery/"/>
-        <updated>2022-05-23T14:11:04.693Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/actors-concepts-inventing-discovery/" class="svelte-1fj1tr4"><img src="/images/articles/how-to-cure-highlight-dementia/highlight_dementia_thumbnail.jpg" alt="Actor's Concepts and Inventing Discovery" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/reading/" class="svelte-1fj1tr4">Reading</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/actors-concepts-inventing-discovery/" class="svelte-1fj1tr4">Actor's Concepts and Inventing Discovery</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">How discovery became an actor's concept - and what you can use that for. Can you play chess without knowing that you are doing so?
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with Algorithms of Thought (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/getting-started-algorithms-of-thought/</id>
-        <link href="https://www.cortexfutura.com/getting-started-algorithms-of-thought/"/>
-        <updated>2022-05-23T14:11:04.693Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/getting-started-algorithms-of-thought/" class="svelte-1fj1tr4"><img src="/images/articles/getting-started-algorithms-of-thought/algorithm_of_thought_thumbnail-squashed.jpg" alt="Getting Started with Algorithms of Thought" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/reading/" class="svelte-1fj1tr4">Reading</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/getting-started-algorithms-of-thought/" class="svelte-1fj1tr4">Getting Started with Algorithms of Thought</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">An introduction to Algorithms of Thought - how they differ from Mental Models and how to use them in Roam Research.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Universal-X - Of Polymaths and other fantastic creatures (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/universal-x-of-polymaths/</id>
-        <link href="https://www.cortexfutura.com/universal-x-of-polymaths/"/>
-        <updated>2022-05-23T14:11:04.694Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/universal-x-of-polymaths/" class="svelte-1fj1tr4"><img src="/images/articles/universal-x-of-polymaths/universal-x-of-polymaths-thumbnail.jpg" alt="Universal-X - Of Polymaths and other fantastic creatures" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/polymathy/" class="svelte-1fj1tr4">Polymathy</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/universal-x-of-polymaths/" class="svelte-1fj1tr4">Universal-X - Of Polymaths and other fantastic creatures</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">There are words you can't use to describe yourself without sounding like an utter ass. Imagine asking someone at a party who they are and they respond with 'Nice to meet you, I'm a brilliant photographer/physicist/writer' - instant, life-long friends you'll be, no?
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Right to Disagree (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/right-to-disagree/</id>
-        <link href="https://www.cortexfutura.com/right-to-disagree/"/>
-        <updated>2022-05-23T14:11:04.695Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/right-to-disagree/" class="svelte-1fj1tr4"><img src="/images/articles/right-to-disagree/right_to_disagree_thumb-squashed.jpg" alt="The Right to Disagree" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/algorithm-of-thought/" class="svelte-1fj1tr4">Algorithm of Thought</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/right-to-disagree/" class="svelte-1fj1tr4">The Right to Disagree</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">Contrary to popular belief, you can't just disagree with someone because you feel like it. You have to __earn__ the right to disagree with someone's position.
-        </div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Gruvbox Theme for Roam Research (Cortex Futura)]]></title>
-        <id>https://www.cortexfutura.com/gruvbox-theme/</id>
-        <link href="https://www.cortexfutura.com/gruvbox-theme/"/>
-        <updated>2022-05-23T14:11:04.695Z</updated>
-        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/gruvbox-theme/" class="svelte-1fj1tr4"><img src="/images/articles/gruvbox-theme/gruvbox-light_thumbnail.jpg" alt="A Gruvbox Theme for Roam Research" class="svelte-1fj1tr4">
-        </a></div>
-      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/roam-research/" class="svelte-1fj1tr4">Roam Research</a></span></div>
-        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/gruvbox-theme/" class="svelte-1fj1tr4">A Gruvbox Theme for Roam Research</a></h2></div>
-        <div class="article-descr svelte-1fj1tr4">How to create a Gruvbox-style color theme for Roam Research using Roam's built-in CSS capabilities.
-        </div></div>]]></content>
+        <title type="html"><![CDATA[Rewiring Cancer Drivers to Activate Apoptosis (bioRxiv - amyloid)]]></title>
+        <id>https://www.biorxiv.org/content/10.1101/2022.12.04.517548v1</id>
+        <link href="https://www.biorxiv.org/content/10.1101/2022.12.04.517548v1"/>
+        <updated>2022-12-08T05:34:35.966Z</updated>
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node" data-pisa="biorxiv;2022.12.04.517548v1" data-pisa-master="biorxiv;2022.12.04.517548" data-apath="/biorxiv/early/2022/12/07/2022.12.04.517548.atom" id="biorxivearly2022120720221204517548atom963929440"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+
+      <span class="highwire-cite-title">
+      <a href="/content/10.1101/2022.12.04.517548v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Rewiring Cancer Drivers to Activate Apoptosis</span></a>    </span>
+  
+      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Sai P</span> <span class="nlm-surname">Gourisankar</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Andrey</span> <span class="nlm-surname">Krokhotin</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Wenzhi</span> <span class="nlm-surname">Ji</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Xiaofan</span> <span class="nlm-surname">Liu</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">Chiung-ying</span> <span class="nlm-surname">Chang</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Samuel H</span> <span class="nlm-surname">Kim</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Zhengnian</span> <span class="nlm-surname">Li</span></span>, <span class="highwire-citation-author" data-delta="7"><span class="nlm-given-names">Wendy</span> <span class="nlm-surname">Wenderski</span></span>, <span class="highwire-citation-author" data-delta="8"><span class="nlm-given-names">Juste M</span> <span class="nlm-surname">Simanauskaite</span></span>, <span class="highwire-citation-author" data-delta="9"><span class="nlm-given-names">Tinghu</span> <span class="nlm-surname">Zhang</span></span>, <span class="highwire-citation-author" data-delta="10"><span class="nlm-given-names">Nathanael S</span> <span class="nlm-surname">Gray</span></span>, <span class="highwire-citation-author" data-delta="11"><span class="nlm-given-names">Gerald R</span> <span class="nlm-surname">Crabtree</span></span></span></div>
+  
+      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.12.04.517548; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.12.04.517548 </span></div>
+  
+  
+      <div class="highwire-cite-extras"><div id="hw-make-citation-0" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;07;2022.12.04.517548.atom" data-seqnum="0"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B07%3B2022.12.04.517548.atom/nojs/0" id="link-save-citation-toggle-0" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+  </div>
+</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Astrocyte transcriptomic changes along the spatiotemporal progression of Alzheimer's disease (bioRxiv - amyloid)]]></title>
         <id>https://www.biorxiv.org/content/10.1101/2022.12.03.518999v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.12.03.518999v1"/>
         <updated>2022-12-07T17:35:00.169Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node" data-pisa="biorxiv;2022.12.03.518999v1" data-pisa-master="biorxiv;2022.12.03.518999" data-apath="/biorxiv/early/2022/12/07/2022.12.03.518999.atom" id="biorxivearly2022120720221203518999atom1573663751"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--2" data-pisa="biorxiv;2022.12.03.518999v1" data-pisa-master="biorxiv;2022.12.03.518999" data-seqnum="1" data-apath="/biorxiv/early/2022/12/07/2022.12.03.518999.atom" id="biorxivearly2022120720221203518999atom1878655937"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.12.03.518999v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Astrocyte transcriptomic changes along the spatiotemporal progression of Alzheimer's disease</span></a>    </span>
@@ -415,7 +38,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.12.03.518999; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.12.03.518999 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-0" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;07;2022.12.03.518999.atom" data-seqnum="0"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B07%3B2022.12.03.518999.atom/nojs/0" id="link-save-citation-toggle-0" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-1" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;07;2022.12.03.518999.atom" data-seqnum="1"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B07%3B2022.12.03.518999.atom/nojs/1" id="link-save-citation-toggle-1" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -424,7 +47,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.12.06.519252v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.12.06.519252v1"/>
         <updated>2022-12-07T17:35:00.173Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--2" data-pisa="biorxiv;2022.12.06.519252v1" data-pisa-master="biorxiv;2022.12.06.519252" data-seqnum="1" data-apath="/biorxiv/early/2022/12/06/2022.12.06.519252.atom" id="biorxivearly2022120620221206519252atom141937839"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--3" data-pisa="biorxiv;2022.12.06.519252v1" data-pisa-master="biorxiv;2022.12.06.519252" data-seqnum="2" data-apath="/biorxiv/early/2022/12/06/2022.12.06.519252.atom" id="biorxivearly2022120620221206519252atom2038296573"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.12.06.519252v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Substrate profiling of the metalloproteinase ovastacin – Implications for its physiological function in mammalian fertilization</span></a>    </span>
@@ -434,7 +57,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.12.06.519252; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.12.06.519252 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-1" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;06;2022.12.06.519252.atom" data-seqnum="1"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B06%3B2022.12.06.519252.atom/nojs/1" id="link-save-citation-toggle-1" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-2" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;06;2022.12.06.519252.atom" data-seqnum="2"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B06%3B2022.12.06.519252.atom/nojs/2" id="link-save-citation-toggle-2" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -443,7 +66,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.12.06.519347v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.12.06.519347v1"/>
         <updated>2022-12-07T17:35:00.173Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--3" data-pisa="biorxiv;2022.12.06.519347v1" data-pisa-master="biorxiv;2022.12.06.519347" data-seqnum="2" data-apath="/biorxiv/early/2022/12/06/2022.12.06.519347.atom" id="biorxivearly2022120620221206519347atom464604688"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--4" data-pisa="biorxiv;2022.12.06.519347v1" data-pisa-master="biorxiv;2022.12.06.519347" data-seqnum="3" data-apath="/biorxiv/early/2022/12/06/2022.12.06.519347.atom" id="biorxivearly2022120620221206519347atom1823301864"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.12.06.519347v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Structural Model for Self-Limiting β-strand Arrangement Within an Alzheimer's Amyloid-β Oligomer</span></a>    </span>
@@ -453,7 +76,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.12.06.519347; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.12.06.519347 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-2" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;06;2022.12.06.519347.atom" data-seqnum="2"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B06%3B2022.12.06.519347.atom/nojs/2" id="link-save-citation-toggle-2" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-3" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;06;2022.12.06.519347.atom" data-seqnum="3"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B06%3B2022.12.06.519347.atom/nojs/3" id="link-save-citation-toggle-3" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -462,7 +85,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.12.05.519234v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.12.05.519234v1"/>
         <updated>2022-12-07T17:35:00.174Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--4" data-pisa="biorxiv;2022.12.05.519234v1" data-pisa-master="biorxiv;2022.12.05.519234" data-seqnum="3" data-apath="/biorxiv/early/2022/12/06/2022.12.05.519234.atom" id="biorxivearly2022120620221205519234atom124953467"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--5" data-pisa="biorxiv;2022.12.05.519234v1" data-pisa-master="biorxiv;2022.12.05.519234" data-seqnum="4" data-apath="/biorxiv/early/2022/12/06/2022.12.05.519234.atom" id="biorxivearly2022120620221205519234atom489797996"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.12.05.519234v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Unexpected finding of Fusobacterium varium abundance in cattle rumen: implications for liver abscess interventions</span></a>    </span>
@@ -472,7 +95,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.12.05.519234; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.12.05.519234 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-3" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;06;2022.12.05.519234.atom" data-seqnum="3"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B06%3B2022.12.05.519234.atom/nojs/3" id="link-save-citation-toggle-3" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-4" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;06;2022.12.05.519234.atom" data-seqnum="4"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B06%3B2022.12.05.519234.atom/nojs/4" id="link-save-citation-toggle-4" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -481,7 +104,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2021.10.07.463498v2</id>
         <link href="https://www.biorxiv.org/content/10.1101/2021.10.07.463498v2"/>
         <updated>2022-12-07T05:34:51.879Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--5" data-pisa="biorxiv;2021.10.07.463498v2" data-pisa-master="biorxiv;2021.10.07.463498" data-seqnum="4" data-apath="/biorxiv/early/2022/12/06/2021.10.07.463498.atom" id="biorxivearly2022120620211007463498atom1315688135"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--6" data-pisa="biorxiv;2021.10.07.463498v2" data-pisa-master="biorxiv;2021.10.07.463498" data-seqnum="5" data-apath="/biorxiv/early/2022/12/06/2021.10.07.463498.atom" id="biorxivearly2022120620211007463498atom542316757"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2021.10.07.463498v2" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Morphodynamical cell state description via live-cell imaging trajectory embedding</span></a>    </span>
@@ -491,7 +114,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2021.10.07.463498; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2021.10.07.463498 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-4" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;06;2021.10.07.463498.atom" data-seqnum="4"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B06%3B2021.10.07.463498.atom/nojs/4" id="link-save-citation-toggle-4" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-5" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;06;2021.10.07.463498.atom" data-seqnum="5"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B06%3B2021.10.07.463498.atom/nojs/5" id="link-save-citation-toggle-5" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -500,7 +123,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.12.04.519021v2</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.12.04.519021v2"/>
         <updated>2022-12-06T17:35:14.980Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--6" data-pisa="biorxiv;2022.12.04.519021v2" data-pisa-master="biorxiv;2022.12.04.519021" data-seqnum="5" data-apath="/biorxiv/early/2022/12/06/2022.12.04.519021.atom" id="biorxivearly2022120620221204519021atom1758988612"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--7" data-pisa="biorxiv;2022.12.04.519021v2" data-pisa-master="biorxiv;2022.12.04.519021" data-seqnum="6" data-apath="/biorxiv/early/2022/12/06/2022.12.04.519021.atom" id="biorxivearly2022120620221204519021atom437694013"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.12.04.519021v2" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Elucidation of Amyloid-Beta′s Gambit in Oligomerisation: Truncated Aβ fragments of residues Aβ1-23, Aβ1-24 and Aβ1-25 rapidly seed to form SDS-stable, low molecular weight Aβ oligomers that impair synaptic plasticity.</span></a>    </span>
@@ -510,7 +133,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.12.04.519021; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.12.04.519021 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-5" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;06;2022.12.04.519021.atom" data-seqnum="5"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B06%3B2022.12.04.519021.atom/nojs/5" id="link-save-citation-toggle-5" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-6" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;06;2022.12.04.519021.atom" data-seqnum="6"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B06%3B2022.12.04.519021.atom/nojs/6" id="link-save-citation-toggle-6" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -519,17 +142,17 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.12.05.519143v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.12.05.519143v1"/>
         <updated>2022-12-06T17:35:14.983Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--7" data-pisa="biorxiv;2022.12.05.519143v1" data-pisa-master="biorxiv;2022.12.05.519143" data-seqnum="6" data-apath="/biorxiv/early/2022/12/05/2022.12.05.519143.atom" id="biorxivearly2022120520221205519143atom1749114652"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--8" data-pisa="biorxiv;2022.12.05.519143v1" data-pisa-master="biorxiv;2022.12.05.519143" data-seqnum="7" data-apath="/biorxiv/early/2022/12/05/2022.12.05.519143.atom" id="biorxivearly2022120520221205519143atom1593185765"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.12.05.519143v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Sex-specific microglial responses to glucocerebrosidase inhibition: relevance to GBA1-linked Parkinson disease</span></a>    </span>
   
-      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Paolo</span> <span class="nlm-surname">Ciana</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Electra</span> <span class="nlm-surname">Brunialti</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Alessandro</span> <span class="nlm-surname">Villa</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Marco</span> <span class="nlm-surname">Toffoli</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">Sara</span> <span class="nlm-surname">Lucas Del Pozo</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Nicoletta</span> <span class="nlm-surname">Rizzi</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Clara</span> <span class="nlm-surname">Meda</span></span>, <span class="highwire-citation-author" data-delta="7"><span class="nlm-given-names">Adriana Caterina</span> <span class="nlm-surname">Maggi</span></span>, <span class="highwire-citation-author" data-delta="8"><span class="nlm-given-names">Anthony H.V.</span> <span class="nlm-surname">Schapira</span></span></span></div>
+      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Electra</span> <span class="nlm-surname">Brunialti</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Alessandro</span> <span class="nlm-surname">Villa</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Marco</span> <span class="nlm-surname">Toffoli</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Sara Lucas</span> <span class="nlm-surname">Del Pozo</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">Nicoletta</span> <span class="nlm-surname">Rizzi</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Clara</span> <span class="nlm-surname">Meda</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Adriana</span> <span class="nlm-surname">Maggi</span></span>, <span class="highwire-citation-author" data-delta="7"><span class="nlm-given-names">Anthony H. V.</span> <span class="nlm-surname">Schapira</span></span>, <span class="highwire-citation-author" data-delta="8"><span class="nlm-given-names">Paolo</span> <span class="nlm-surname">Ciana</span></span></span></div>
   
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.12.05.519143; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.12.05.519143 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-6" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;05;2022.12.05.519143.atom" data-seqnum="6"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B05%3B2022.12.05.519143.atom/nojs/6" id="link-save-citation-toggle-6" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-7" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;05;2022.12.05.519143.atom" data-seqnum="7"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B05%3B2022.12.05.519143.atom/nojs/7" id="link-save-citation-toggle-7" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -538,7 +161,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.12.05.519102v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.12.05.519102v1"/>
         <updated>2022-12-06T17:35:14.983Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--8" data-pisa="biorxiv;2022.12.05.519102v1" data-pisa-master="biorxiv;2022.12.05.519102" data-seqnum="7" data-apath="/biorxiv/early/2022/12/05/2022.12.05.519102.atom" id="biorxivearly2022120520221205519102atom254820342"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--9" data-pisa="biorxiv;2022.12.05.519102v1" data-pisa-master="biorxiv;2022.12.05.519102" data-seqnum="8" data-apath="/biorxiv/early/2022/12/05/2022.12.05.519102.atom" id="biorxivearly2022120520221205519102atom660279661"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.12.05.519102v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Ketamine’s rapid antidepressant effects are mediated by Ca<sup>2+</sup>-permeable AMPA receptors in the hippocampus</span></a>    </span>
@@ -548,7 +171,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.12.05.519102; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.12.05.519102 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-7" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;05;2022.12.05.519102.atom" data-seqnum="7"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B05%3B2022.12.05.519102.atom/nojs/7" id="link-save-citation-toggle-7" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-8" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;05;2022.12.05.519102.atom" data-seqnum="8"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B05%3B2022.12.05.519102.atom/nojs/8" id="link-save-citation-toggle-8" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -557,7 +180,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.12.04.519066v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.12.04.519066v1"/>
         <updated>2022-12-06T17:35:14.987Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--9" data-pisa="biorxiv;2022.12.04.519066v1" data-pisa-master="biorxiv;2022.12.04.519066" data-seqnum="8" data-apath="/biorxiv/early/2022/12/05/2022.12.04.519066.atom" id="biorxivearly2022120520221204519066atom1519342799"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--10" data-pisa="biorxiv;2022.12.04.519066v1" data-pisa-master="biorxiv;2022.12.04.519066" data-seqnum="9" data-apath="/biorxiv/early/2022/12/05/2022.12.04.519066.atom" id="biorxivearly2022120520221204519066atom246812975"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.12.04.519066v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Older age is associated with a shift from ventral to dorsal PCC in pathways connecting the DMN with visual and limbic areas and a directionality shift in pathways connecting the DMN with sensorimotor areas</span></a>    </span>
@@ -567,26 +190,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.12.04.519066; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.12.04.519066 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-8" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;05;2022.12.04.519066.atom" data-seqnum="8"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B05%3B2022.12.04.519066.atom/nojs/8" id="link-save-citation-toggle-8" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
-  </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPSC-Derived PSEN2 (N141I) Astrocytes and Microglia Exhibit a Primed Inflammatory Phenotype (bioRxiv - amyloid)]]></title>
-        <id>https://www.biorxiv.org/content/10.1101/2022.12.05.518134v1</id>
-        <link href="https://www.biorxiv.org/content/10.1101/2022.12.05.518134v1"/>
-        <updated>2022-12-06T17:35:14.988Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node--10" data-pisa="biorxiv;2022.12.05.518134v1" data-pisa-master="biorxiv;2022.12.05.518134" data-seqnum="9" data-apath="/biorxiv/early/2022/12/05/2022.12.05.518134.atom" id="biorxivearly2022120520221205518134atom684296938"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
-
-      <span class="highwire-cite-title">
-      <a href="/content/10.1101/2022.12.05.518134v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">iPSC-Derived PSEN2 (N141I) Astrocytes and Microglia Exhibit a Primed Inflammatory Phenotype</span></a>    </span>
-  
-      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Michael A.</span> <span class="nlm-surname">Sullivan</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Samuel D.</span> <span class="nlm-surname">Lane</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Sarah R.</span> <span class="nlm-surname">Ball</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Margaret</span> <span class="nlm-surname">Sunde</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">G. Gregory.</span> <span class="nlm-surname">Neely</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Cesar</span> <span class="nlm-surname">Moreno</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Eryn L.</span> <span class="nlm-surname">Werry</span></span>, <span class="highwire-citation-author" data-delta="7"><span class="nlm-given-names">Michael</span> <span class="nlm-surname">Kassiou</span></span></span></div>
-  
-      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.12.05.518134; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.12.05.518134 </span></div>
-  
-  
-      <div class="highwire-cite-extras"><div id="hw-make-citation-9" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;05;2022.12.05.518134.atom" data-seqnum="9"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B05%3B2022.12.05.518134.atom/nojs/9" id="link-save-citation-toggle-9" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-9" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;12;05;2022.12.04.519066.atom" data-seqnum="9"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B12%3B05%3B2022.12.04.519066.atom/nojs/9" id="link-save-citation-toggle-9" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
