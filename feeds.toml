@@ -10,7 +10,7 @@ linkSelector = "h2 a"
 
 [biorxiv]
 title = "bioRxiv - amyloid"
-url = "https://www.biorxiv.org/search/amyloid%252BOR%252B%2522inclusion%252Bbody%2522%252BOR%252B%2522amorphous%252Baggregate%2522%20numresults%3A10%20sort%3Apublication-date%20direction%3Adescending"
+url = "https://www.biorxiv.org/search/amyloid%20jcode%3Abiorxiv%20numresults%3A75%20sort%3Apublication-date%20direction%3Adescending%20format_result%3Astandard"
 entrySelector = "ul.highwire-search-results-list li"
 titleSelector = "a span.highwire-cite-title"
 linkSelector = "span a"
