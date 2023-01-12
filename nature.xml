@@ -2,9 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2023-01-12T05:34:31.960Z</updated>
+    <updated>2023-01-12T17:44:21.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Targeting TBK1 to overcome resistance to cancer immunotherapy]]></title>
+        <id>https://www.nature.com/articles/s41586-023-05704-6</id>
+        <link href="https://www.nature.com/articles/s41586-023-05704-6"/>
+        <updated>2023-01-12T17:44:21.331Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-023-05704-6" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Targeting TBK1 to overcome resistance to cancer immunotherapy</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yi Sun</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Or-yam Revach</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Russell W. Jenkins</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-01-12" itemprop="datePublished">12 Jan 2023</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spike and nsp6 are key determinants of SARS-CoV-2 Omicron BA.1 attenuation]]></title>
         <id>https://www.nature.com/articles/s41586-023-05697-2</id>
@@ -993,45 +1032,6 @@
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
     <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Adina D. Feinstein</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Michael Radica</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Xi Zhang</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-01-09" itemprop="datePublished">09 Jan 2023</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Early Release Science of the exoplanet WASP-39b with JWST NIRSpec PRISM]]></title>
-        <id>https://www.nature.com/articles/s41586-022-05677-y</id>
-        <link href="https://www.nature.com/articles/s41586-022-05677-y"/>
-        <updated>2023-01-09T17:38:05.695Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-022-05677-y" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Early Release Science of the exoplanet WASP-39b with JWST NIRSpec PRISM</a>
-                </h3>
-                
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Z. Rustamkulov</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">D. K. Sing</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">S. Zieba</span></li>
 </ul>
 
                 
