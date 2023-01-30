@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cortexfutura.com/articles/</id>
     <title>Cortex Futura</title>
-    <updated>2023-01-30T05:34:49.359Z</updated>
+    <updated>2023-01-30T17:35:30.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cortexfutura.com/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[You're a Computer Athlete]]></title>
+        <id>https://www.cortexfutura.com/computer-athlete/</id>
+        <link href="https://www.cortexfutura.com/computer-athlete/"/>
+        <updated>2023-01-30T17:35:03.285Z</updated>
+        <content type="html"><![CDATA[<div class="article-thumb svelte-1fj1tr4"><a href="/computer-athlete/" class="svelte-1fj1tr4"><img src="/images/articles/computer-athlete/computer-athlete_thumbnail.webp" alt="You're a Computer Athlete" class="svelte-1fj1tr4">
+        </a></div>
+      <div class="article-info svelte-1fj1tr4"><div class="article-category svelte-1fj1tr4">Article: <span class="article-highlight-eyebrow-cat svelte-1fj1tr4"><a href="/c/productivity/" class="svelte-1fj1tr4">Productivity</a></span></div>
+        <div class="article-title svelte-1fj1tr4"><h2 style="margin-top: 0em;" class="svelte-1fj1tr4"><a href="/computer-athlete/" class="svelte-1fj1tr4">You're a Computer Athlete</a></h2></div>
+        <div class="article-descr svelte-1fj1tr4">You're likely a professional computer user – you should behave like the athlete that you are
+        </div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Tana's Supertags with Search]]></title>
         <id>https://www.cortexfutura.com/tana-supertags-plus-search-tana-fundamentals/</id>
