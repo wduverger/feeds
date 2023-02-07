@@ -2,9 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2023-02-06T05:34:35.519Z</updated>
+    <updated>2023-02-07T05:34:46.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Universal logic with encoded spin qubits in silicon]]></title>
+        <id>https://www.nature.com/articles/s41586-023-05777-3</id>
+        <link href="https://www.nature.com/articles/s41586-023-05777-3"/>
+        <updated>2023-02-07T05:34:45.351Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-023-05777-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Universal logic with encoded spin qubits in silicon</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Aaron J. Weinstein</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Matthew D. Reed</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Matthew G. Borselli</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-02-06" itemprop="datePublished">06 Feb 2023</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reply to: GOT1 constrains TH17 cell differentiation, while promoting iTreg cell differentiation]]></title>
         <id>https://www.nature.com/articles/s41586-022-05603-2</id>
@@ -1041,61 +1080,6 @@
             <span class="c-meta__type">Article</span>
         </span>
             <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-01-26" itemprop="datePublished">26 Jan 2023</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Organic reaction mechanism classification using machine learning]]></title>
-        <id>https://www.nature.com/articles/s41586-022-05639-4</id>
-        <link href="https://www.nature.com/articles/s41586-022-05639-4"/>
-        <updated>2023-01-25T17:34:34.857Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-022-05639-4/MediaObjects/41586_2022_5639_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05639-4/MediaObjects/41586_2022_5639_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05639-4/MediaObjects/41586_2022_5639_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-022-05639-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Organic reaction mechanism classification using machine learning</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Mechanistic elucidation through currently available kinetic analysis is limited by mathematical approximations and human interpretation, here&nbsp;a deep neural network model has been trained to analyse ordinary kinetic data and automatically elucidate the corresponding mechanism class.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jordi Burés</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Igor Larrosa</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-01-25" itemprop="datePublished">25 Jan 2023</time>
         
         
         
