@@ -2,9 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2023-02-16T05:35:17.313Z</updated>
+    <updated>2023-02-16T17:34:54.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Controlled growth of perovskite layers with volatile alkylammonium chlorides]]></title>
+        <id>https://www.nature.com/articles/s41586-023-05825-y</id>
+        <link href="https://www.nature.com/articles/s41586-023-05825-y"/>
+        <updated>2023-02-16T17:34:54.092Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-023-05825-y" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Controlled growth of perovskite layers with volatile alkylammonium chlorides</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jaewang Park</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jongbeom Kim</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Sang Il Seok</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-02-16" itemprop="datePublished">16 Feb 2023</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The case for standardizing gene nomenclature in vertebrates]]></title>
         <id>https://www.nature.com/articles/s41586-022-05633-w</id>
@@ -1015,57 +1054,6 @@
             
     <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
             <span class="c-meta__type">Article</span>
-        </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-02-08" itemprop="datePublished">08 Feb 2023</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reply to: Concerns about data linking delta land gain to human action]]></title>
-        <id>https://www.nature.com/articles/s41586-022-05625-w</id>
-        <link href="https://www.nature.com/articles/s41586-022-05625-w"/>
-        <updated>2023-02-08T17:35:05.874Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-022-05625-w/MediaObjects/41586_2022_5625_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05625-w/MediaObjects/41586_2022_5625_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05625-w/MediaObjects/41586_2022_5625_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-022-05625-w" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Reply to: Concerns about data linking delta land gain to human action</a>
-                </h3>
-                
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">J. H. Nienhuis</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">A. D. Ashton</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">T. E. Törnqvist</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Matters Arising</span>
         </span>
             <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-02-08" itemprop="datePublished">08 Feb 2023</time>
         
