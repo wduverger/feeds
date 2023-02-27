@@ -2,9 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2023-02-27T05:35:06.085Z</updated>
+    <updated>2023-02-27T17:36:40.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Ubiquitin-like Conjugation by Bacterial cGAS Enhances Anti-phage Defence]]></title>
+        <id>https://www.nature.com/articles/s41586-023-05862-7</id>
+        <link href="https://www.nature.com/articles/s41586-023-05862-7"/>
+        <updated>2023-02-27T17:36:39.830Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-023-05862-7" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Ubiquitin-like Conjugation by Bacterial cGAS Enhances Anti-phage Defence</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Justin M. Jenson</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Tuo Li</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Zhijian J. Chen</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-02-27" itemprop="datePublished">27 Feb 2023</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continuous Symmetry Breaking in a Two-dimensional Rydberg Array]]></title>
+        <id>https://www.nature.com/articles/s41586-023-05859-2</id>
+        <link href="https://www.nature.com/articles/s41586-023-05859-2"/>
+        <updated>2023-02-27T17:36:39.835Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-023-05859-2" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Continuous Symmetry Breaking in a Two-dimensional Rydberg Array</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Cheng Chen</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Guillaume Bornet</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Antoine Browaeys</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-02-27" itemprop="datePublished">27 Feb 2023</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A population of red candidate massive galaxies ~600 Myr after the Big Bang]]></title>
         <id>https://www.nature.com/articles/s41586-023-05786-2</id>
@@ -978,120 +1056,6 @@
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
     <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Louise Malle</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Roosheel S. Patel</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Dusan Bogunovic</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-02-22" itemprop="datePublished">22 Feb 2023</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suppressing quantum errors by scaling a surface code logical qubit]]></title>
-        <id>https://www.nature.com/articles/s41586-022-05434-1</id>
-        <link href="https://www.nature.com/articles/s41586-022-05434-1"/>
-        <updated>2023-02-22T17:35:51.620Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-022-05434-1/MediaObjects/41586_2022_5434_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05434-1/MediaObjects/41586_2022_5434_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-022-05434-1/MediaObjects/41586_2022_5434_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-022-05434-1" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Suppressing quantum errors by scaling a surface code logical qubit</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>A study demonstrating&nbsp;increasing error suppression with larger surface code logical qubits, implemented on a superconducting quantum processor.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Rajeev Acharya</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Igor Aleiner</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ningfeng Zhu</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access">
-                <span class="u-color-open-access">Open Access</span>
-            </span>
-        
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-02-22" itemprop="datePublished">22 Feb 2023</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sequence determinant of small RNA production by DICER]]></title>
-        <id>https://www.nature.com/articles/s41586-023-05722-4</id>
-        <link href="https://www.nature.com/articles/s41586-023-05722-4"/>
-        <updated>2023-02-22T17:35:51.625Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-05722-4/MediaObjects/41586_2023_5722_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05722-4/MediaObjects/41586_2023_5722_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05722-4/MediaObjects/41586_2023_5722_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-023-05722-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Sequence determinant of small RNA production by DICER</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Massively parallel assays reveal a highly conserved sequence motif termed the GYM motif, which potentiates RNA interference by directing Dicer-mediated small RNA processing.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Young-Yoon Lee</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Haedong Kim</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">V. Narry Kim</span></li>
 </ul>
 
                 
