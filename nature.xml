@@ -2,9 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2023-03-28T05:34:49.671Z</updated>
+    <updated>2023-03-28T17:34:26.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Suppressed phase segregation for triple-junction perovskite solar cells]]></title>
+        <id>https://www.nature.com/articles/s41586-023-06006-7</id>
+        <link href="https://www.nature.com/articles/s41586-023-06006-7"/>
+        <updated>2023-03-28T17:34:26.266Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-023-06006-7" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Suppressed phase segregation for triple-junction perovskite solar cells</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Zaiwei Wang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Lewei Zeng</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Edward Sargent</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-03-28" itemprop="datePublished">28 Mar 2023</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High atmospheric metal enrichment for a Saturn-mass planet]]></title>
         <id>https://www.nature.com/articles/s41586-023-05984-y</id>
@@ -1008,65 +1047,6 @@
     <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
             <span class="c-meta__type">Article</span>
         </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-03-22" itemprop="datePublished">22 Mar 2023</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RBFOX2 modulates a metastatic signature of alternative splicing in pancreatic cancer]]></title>
-        <id>https://www.nature.com/articles/s41586-023-05820-3</id>
-        <link href="https://www.nature.com/articles/s41586-023-05820-3"/>
-        <updated>2023-03-22T17:36:47.730Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-05820-3/MediaObjects/41586_2023_5820_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05820-3/MediaObjects/41586_2023_5820_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05820-3/MediaObjects/41586_2023_5820_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-023-05820-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">RBFOX2 modulates a metastatic signature of alternative splicing in pancreatic cancer</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Analysis of messenger RNA splicing in a large cohort of pancreatic ductal adenocarcinoma tumours identifies differential splicing correlating with disease progression, associated with the the splicing regulator RBFOX2.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Amina Jbara</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kuan-Ting Lin</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Rotem Karni</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access">
-                <span class="u-color-open-access">Open Access</span>
-            </span>
-        
             <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-03-22" itemprop="datePublished">22 Mar 2023</time>
         
         
