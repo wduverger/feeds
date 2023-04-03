@@ -2,9 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2023-04-03T05:34:42.725Z</updated>
+    <updated>2023-04-03T17:34:45.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
+    <entry>
+        <title type="html"><![CDATA[SARS-CoV-2 Omicron boosting induces de novo B cell response in humans]]></title>
+        <id>https://www.nature.com/articles/s41586-023-06025-4</id>
+        <link href="https://www.nature.com/articles/s41586-023-06025-4"/>
+        <updated>2023-04-03T17:34:45.028Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-023-06025-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">SARS-CoV-2 Omicron boosting induces <i>de novo</i> B cell response in humans</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Wafaa B. Alsoussi</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Sameer Kumar Malladi</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ali H. Ellebedy</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-04-03" itemprop="datePublished">03 Apr 2023</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copper-Catalyzed Enantioconvergent Alkylation of Oxygen Nucleophiles]]></title>
         <id>https://www.nature.com/articles/s41586-023-06001-y</id>
@@ -980,65 +1019,6 @@
     <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
             <span class="c-meta__type">Article</span>
         </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-03-29" itemprop="datePublished">29 Mar 2023</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programmable protein delivery with a bacterial contractile injection system]]></title>
-        <id>https://www.nature.com/articles/s41586-023-05870-7</id>
-        <link href="https://www.nature.com/articles/s41586-023-05870-7"/>
-        <updated>2023-03-29T18:05:47.853Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-05870-7/MediaObjects/41586_2023_5870_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05870-7/MediaObjects/41586_2023_5870_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05870-7/MediaObjects/41586_2023_5870_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-023-05870-7" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Programmable protein delivery with a bacterial contractile injection system</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>The tail fibre of an extracellular contractile injection system (eCIS) from <i>Photorhabdus asymbiotica</i> recognizes targets expressed on eukaryotic&nbsp;host cells, and can be reprogrammed to target specific organisms and cell types for delivery of novel protein payloads.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Joseph Kreitz</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Mirco J. Friedrich</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Feng Zhang</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access">
-                <span class="u-color-open-access">Open Access</span>
-            </span>
-        
             <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-03-29" itemprop="datePublished">29 Mar 2023</time>
         
         
