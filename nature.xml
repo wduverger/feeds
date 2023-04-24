@@ -2,9 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2023-04-24T05:34:31.567Z</updated>
+    <updated>2023-04-24T17:34:15.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Bipolar impact and phasing of Heinrich-type climate variability]]></title>
+        <id>https://www.nature.com/articles/s41586-023-05875-2</id>
+        <link href="https://www.nature.com/articles/s41586-023-05875-2"/>
+        <updated>2023-04-24T17:34:14.713Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                        <div class="c-card__image">
+                            <picture>
+                                <source type="image/webp" srcset="
+                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-05875-2/MediaObjects/41586_2023_5875_Fig1_HTML.png?as=webp 160w,
+                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05875-2/MediaObjects/41586_2023_5875_Fig1_HTML.png?as=webp 290w" sizes="
+                                    (max-width: 640px) 160px,
+                                    (max-width: 1200px) 290px,
+                                    290px">
+                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05875-2/MediaObjects/41586_2023_5875_Fig1_HTML.png" alt="" itemprop="image">
+                            </picture>
+                        </div>
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-023-05875-2" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Bipolar impact and phasing of Heinrich-type climate variability</a>
+                </h3>
+                
+                    
+                        <div data-test="article-description" class="c-card__summary u-mt-0 u-mb-16 u-hide-sm-max" itemprop="description">
+                            <p>Ice-core data show that extreme iceberg discharge events in the North Atlantic had no detectable impact on Greenland temperatures but are synchronous with abrupt acceleration of Antarctic warming.</p>
+                        </div>
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kaden C. Martin</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Christo Buizert</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Todd A. Sowers</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-04-24" itemprop="datePublished">24 Apr 2023</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strain-promoted reactions of 1,2,3-cyclohexatriene and its derivatives]]></title>
         <id>https://www.nature.com/articles/s41586-023-06075-8</id>
@@ -1052,65 +1107,6 @@
     <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
             <span class="c-meta__type">Matters Arising</span>
         </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-04-12" itemprop="datePublished">12 Apr 2023</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic–transcriptomic evolution in lung cancer and metastasis]]></title>
-        <id>https://www.nature.com/articles/s41586-023-05706-4</id>
-        <link href="https://www.nature.com/articles/s41586-023-05706-4"/>
-        <updated>2023-04-12T17:34:21.011Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-05706-4/MediaObjects/41586_2023_5706_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05706-4/MediaObjects/41586_2023_5706_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05706-4/MediaObjects/41586_2023_5706_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-023-05706-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Genomic–transcriptomic evolution in lung cancer and metastasis</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mt-0 u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Computational and machine-learning approaches that integrate genomic and transcriptomic variation from paired primary and metastatic non-small cell lung cancer samples from the TRACERx cohort reveal the role of transcriptional events in tumour evolution.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Carlos Martínez-Ruiz</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">James R. M. Black</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Nicholas McGranahan</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access">
-                <span class="u-color-open-access">Open Access</span>
-            </span>
-        
             <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-04-12" itemprop="datePublished">12 Apr 2023</time>
         
         
