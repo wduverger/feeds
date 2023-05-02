@@ -2,9 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2023-05-02T05:34:11.321Z</updated>
+    <updated>2023-05-02T17:34:41.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity]]></title>
+        <id>https://www.nature.com/articles/s41586-023-06127-z</id>
+        <link href="https://www.nature.com/articles/s41586-023-06127-z"/>
+        <updated>2023-05-02T17:34:41.243Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-023-06127-z" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">He Zhang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Liang Zhang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Liang Huang</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
+            <span class="c-meta__type">Article</span>
+        </span>
+            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-05-02" itemprop="datePublished">02 May 2023</time>
+        
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Near-frictionless ion transport within triazine framework membranes]]></title>
         <id>https://www.nature.com/articles/s41586-023-05888-x</id>
@@ -1076,65 +1115,6 @@
     <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
             <span class="c-meta__type">Article</span>
         </span>
-            <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-04-26" itemprop="datePublished">26 Apr 2023</time>
-        
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-range inhibition synchronizes and updates prefrontal task activity]]></title>
-        <id>https://www.nature.com/articles/s41586-023-06012-9</id>
-        <link href="https://www.nature.com/articles/s41586-023-06012-9"/>
-        <updated>2023-04-26T17:35:28.960Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06012-9/MediaObjects/41586_2023_6012_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06012-9/MediaObjects/41586_2023_6012_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06012-9/MediaObjects/41586_2023_6012_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-023-06012-9" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Long-range inhibition synchronizes and updates prefrontal task activity</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mt-0 u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Rule-shift behavioural experiments in mice demonstrate that callosal projections of parvalbumin-expressing neurons switch prefrontal circuits from maintenance mode to rule-learning mode by gating inputs from other callosal inputs that maintain previous rule representations.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kathleen K. A. Cho</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jingcheng Shi</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Vikaas S. Sohal</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta"><span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type">
-            <span class="c-meta__type">Article</span>
-        </span>
-            <span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access">
-                <span class="u-color-open-access">Open Access</span>
-            </span>
-        
             <time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-04-26" itemprop="datePublished">26 Apr 2023</time>
         
         
