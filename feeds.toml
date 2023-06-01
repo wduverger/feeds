@@ -17,7 +17,7 @@ linkSelector = "span a"
 
 [biorxiv-afm]
 title = "bioRxiv - amyloid"
-url = "https://www.biorxiv.org/search/%2522atomic%252Bforce%252Bmicroscopy%2522%20numresults%3A10%75sort%3Apublication-date%20direction%3Adescending%20format_result%3Astandard""
+url = "https://www.biorxiv.org/search/%2522atomic%252Bforce%252Bmicroscopy%2522%20numresults%3A10%75sort%3Apublication-date%20direction%3Adescending%20format_result%3Astandard"
 entrySelector = "ul.highwire-search-results-list li"
 titleSelector = "a span.highwire-cite-title"
 linkSelector = "span a"
