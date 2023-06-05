@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2023-06-05T05:34:50.532Z</updated>
+    <updated>2023-06-05T17:35:04.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Spatial variations in aromatic hydrocarbon emission in a dust-rich galaxy]]></title>
+        <id>https://www.nature.com/articles/s41586-023-05998-6</id>
+        <link href="https://www.nature.com/articles/s41586-023-05998-6"/>
+        <updated>2023-06-05T17:35:03.620Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                        <div class="c-card__image">
+                            <picture>
+                                <source type="image/webp" srcset="
+                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-05998-6/MediaObjects/41586_2023_5998_Fig1_HTML.png?as=webp 160w,
+                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05998-6/MediaObjects/41586_2023_5998_Fig1_HTML.png?as=webp 290w" sizes="
+                                    (max-width: 640px) 160px,
+                                    (max-width: 1200px) 290px,
+                                    290px">
+                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05998-6/MediaObjects/41586_2023_5998_Fig1_HTML.png" alt="" itemprop="image">
+                            </picture>
+                        </div>
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-023-05998-6" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Spatial variations in aromatic hydrocarbon emission in a dust-rich galaxy</a>
+                </h3>
+                
+                    
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
+                            <p>We present James Webb Space Telescope observations that detect the 3.3 μm polycyclic aromatic hydrocarbon feature in a galaxy observed less than 1.5 billion years after the Big Bang.</p>
+                        </div>
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Justin S. Spilker</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kedar A. Phadke</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Katherine E. Whitaker</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-06-05" itemprop="datePublished">05 Jun 2023</time>
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A broadband thermal emission spectrum of the ultra-hot Jupiter WASP-18b]]></title>
         <id>https://www.nature.com/articles/s41586-023-06230-1</id>
@@ -963,58 +1015,6 @@
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
     <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Zongqiang Li</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Shuaijiabin Chen</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Sen-Fang Sui</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-05-31" itemprop="datePublished">31 May 2023</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hallmarks of transcriptional intratumour heterogeneity across a thousand tumours]]></title>
-        <id>https://www.nature.com/articles/s41586-023-06130-4</id>
-        <link href="https://www.nature.com/articles/s41586-023-06130-4"/>
-        <updated>2023-05-31T17:34:50.621Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06130-4/MediaObjects/41586_2023_6130_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06130-4/MediaObjects/41586_2023_6130_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06130-4/MediaObjects/41586_2023_6130_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-023-06130-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Hallmarks of transcriptional intratumour heterogeneity across a thousand tumours</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>A study identifies 41 consensus gene expression meta-programs that are coordinately upregulated in subpopulations of malignant&nbsp;cells across tumour types, providing a comprehensive picture of hallmarks of intratumour heterogeneity.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Avishai Gavish</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Michael Tyler</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Itay Tirosh</span></li>
 </ul>
 
                 
