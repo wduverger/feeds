@@ -2,9 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2023-06-19T05:35:01.504Z</updated>
+    <updated>2023-06-19T17:35:02.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Structural basis for the binding of DNP and purine nucleotides onto UCP1]]></title>
+        <id>https://www.nature.com/articles/s41586-023-06332-w</id>
+        <link href="https://www.nature.com/articles/s41586-023-06332-w"/>
+        <updated>2023-06-19T17:35:01.988Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-023-06332-w" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Structural basis for the binding of DNP and purine nucleotides onto UCP1</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yunlu Kang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Lei Chen</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-06-19" itemprop="datePublished">19 Jun 2023</time>
+        
+        
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No thick carbon dioxide atmosphere on the rocky exoplanet TRAPPIST-1 c]]></title>
+        <id>https://www.nature.com/articles/s41586-023-06232-z</id>
+        <link href="https://www.nature.com/articles/s41586-023-06232-z"/>
+        <updated>2023-06-19T17:35:01.989Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                        <div class="c-card__image">
+                            <picture>
+                                <source type="image/webp" srcset="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06232-z/MediaObjects/41586_2023_6232_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06232-z/MediaObjects/41586_2023_6232_Fig1_HTML.png?as=webp 290w" sizes="
+                                    (max-width: 640px) 160px,
+                                    (max-width: 1200px) 290px,
+                                    290px">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06232-z/MediaObjects/41586_2023_6232_Fig1_HTML.png" alt="" itemprop="image">
+                            </picture>
+                        </div>
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-023-06232-z" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">No thick carbon dioxide atmosphere on the rocky exoplanet TRAPPIST-1 c</a>
+                </h3>
+                
+                    
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
+                            <p>The detection of thermal emission from the rocky exoplanet TRAPPIST-1 c using the Mid-Infrared Instrument on the James Webb Space Telescope reveals a dayside brightness temperature that disfavours a thick, CO<sub>2</sub>-rich atmosphere.</p>
+                        </div>
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Sebastian Zieba</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Laura Kreidberg</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Gabrielle Suissa</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-06-19" itemprop="datePublished">19 Jun 2023</time>
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Signatures of Fractional Quantum Anomalous Hall States in Twisted MoTe2]]></title>
         <id>https://www.nature.com/articles/s41586-023-06289-w</id>
@@ -53,12 +141,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06121-5/MediaObjects/41586_2023_6121_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06121-5/MediaObjects/41586_2023_6121_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06121-5/MediaObjects/41586_2023_6121_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06121-5/MediaObjects/41586_2023_6121_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06121-5/MediaObjects/41586_2023_6121_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06121-5/MediaObjects/41586_2023_6121_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -105,12 +193,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06087-4/MediaObjects/41586_2023_6087_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06087-4/MediaObjects/41586_2023_6087_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06087-4/MediaObjects/41586_2023_6087_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06087-4/MediaObjects/41586_2023_6087_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06087-4/MediaObjects/41586_2023_6087_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06087-4/MediaObjects/41586_2023_6087_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -157,12 +245,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06022-7/MediaObjects/41586_2023_6022_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06022-7/MediaObjects/41586_2023_6022_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06022-7/MediaObjects/41586_2023_6022_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06022-7/MediaObjects/41586_2023_6022_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06022-7/MediaObjects/41586_2023_6022_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06022-7/MediaObjects/41586_2023_6022_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -209,12 +297,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06041-4/MediaObjects/41586_2023_6041_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06041-4/MediaObjects/41586_2023_6041_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06041-4/MediaObjects/41586_2023_6041_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06041-4/MediaObjects/41586_2023_6041_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06041-4/MediaObjects/41586_2023_6041_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06041-4/MediaObjects/41586_2023_6041_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -261,12 +349,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06173-7/MediaObjects/41586_2023_6173_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06173-7/MediaObjects/41586_2023_6173_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06173-7/MediaObjects/41586_2023_6173_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06173-7/MediaObjects/41586_2023_6173_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06173-7/MediaObjects/41586_2023_6173_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06173-7/MediaObjects/41586_2023_6173_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -313,12 +401,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06065-w/MediaObjects/41586_2023_6065_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06065-w/MediaObjects/41586_2023_6065_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06065-w/MediaObjects/41586_2023_6065_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06065-w/MediaObjects/41586_2023_6065_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06065-w/MediaObjects/41586_2023_6065_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06065-w/MediaObjects/41586_2023_6065_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -365,12 +453,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06197-z/MediaObjects/41586_2023_6197_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06197-z/MediaObjects/41586_2023_6197_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06197-z/MediaObjects/41586_2023_6197_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06197-z/MediaObjects/41586_2023_6197_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06197-z/MediaObjects/41586_2023_6197_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06197-z/MediaObjects/41586_2023_6197_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -417,12 +505,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06204-3/MediaObjects/41586_2023_6204_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06204-3/MediaObjects/41586_2023_6204_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06204-3/MediaObjects/41586_2023_6204_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06204-3/MediaObjects/41586_2023_6204_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06204-3/MediaObjects/41586_2023_6204_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06204-3/MediaObjects/41586_2023_6204_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -469,12 +557,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06096-3/MediaObjects/41586_2023_6096_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06096-3/MediaObjects/41586_2023_6096_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06096-3/MediaObjects/41586_2023_6096_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06096-3/MediaObjects/41586_2023_6096_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06096-3/MediaObjects/41586_2023_6096_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06096-3/MediaObjects/41586_2023_6096_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -521,12 +609,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06150-0/MediaObjects/41586_2023_6150_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06150-0/MediaObjects/41586_2023_6150_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06150-0/MediaObjects/41586_2023_6150_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06150-0/MediaObjects/41586_2023_6150_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06150-0/MediaObjects/41586_2023_6150_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06150-0/MediaObjects/41586_2023_6150_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -573,12 +661,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06216-z/MediaObjects/41586_2023_6216_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06216-z/MediaObjects/41586_2023_6216_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06216-z/MediaObjects/41586_2023_6216_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06216-z/MediaObjects/41586_2023_6216_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06216-z/MediaObjects/41586_2023_6216_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06216-z/MediaObjects/41586_2023_6216_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -625,12 +713,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-05987-9/MediaObjects/41586_2023_5987_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05987-9/MediaObjects/41586_2023_5987_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-05987-9/MediaObjects/41586_2023_5987_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05987-9/MediaObjects/41586_2023_5987_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05987-9/MediaObjects/41586_2023_5987_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-05987-9/MediaObjects/41586_2023_5987_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -677,12 +765,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06134-0/MediaObjects/41586_2023_6134_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06134-0/MediaObjects/41586_2023_6134_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06134-0/MediaObjects/41586_2023_6134_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06134-0/MediaObjects/41586_2023_6134_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06134-0/MediaObjects/41586_2023_6134_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06134-0/MediaObjects/41586_2023_6134_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -729,12 +817,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06186-2/MediaObjects/41586_2023_6186_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06186-2/MediaObjects/41586_2023_6186_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06186-2/MediaObjects/41586_2023_6186_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06186-2/MediaObjects/41586_2023_6186_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06186-2/MediaObjects/41586_2023_6186_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06186-2/MediaObjects/41586_2023_6186_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -781,12 +869,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06205-2/MediaObjects/41586_2023_6205_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06205-2/MediaObjects/41586_2023_6205_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06205-2/MediaObjects/41586_2023_6205_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06205-2/MediaObjects/41586_2023_6205_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06205-2/MediaObjects/41586_2023_6205_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06205-2/MediaObjects/41586_2023_6205_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -833,12 +921,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06082-9/MediaObjects/41586_2023_6082_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06082-9/MediaObjects/41586_2023_6082_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06082-9/MediaObjects/41586_2023_6082_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06082-9/MediaObjects/41586_2023_6082_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06082-9/MediaObjects/41586_2023_6082_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06082-9/MediaObjects/41586_2023_6082_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -885,12 +973,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06059-8/MediaObjects/41586_2023_6059_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06059-8/MediaObjects/41586_2023_6059_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06059-8/MediaObjects/41586_2023_6059_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06059-8/MediaObjects/41586_2023_6059_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06059-8/MediaObjects/41586_2023_6059_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06059-8/MediaObjects/41586_2023_6059_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -911,110 +999,6 @@
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
     <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Masahiro Yoshida</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Shumpei Katsuno</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Susumu Noda</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-06-14" itemprop="datePublished">14 Jun 2023</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Break-induced replication orchestrates resection-dependent template switching]]></title>
-        <id>https://www.nature.com/articles/s41586-023-06177-3</id>
-        <link href="https://www.nature.com/articles/s41586-023-06177-3"/>
-        <updated>2023-06-14T17:35:40.056Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06177-3/MediaObjects/41586_2023_6177_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06177-3/MediaObjects/41586_2023_6177_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06177-3/MediaObjects/41586_2023_6177_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-023-06177-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Break-induced replication orchestrates resection-dependent template switching</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Break-induced telomere synthesis initiates recruitment of the SNM1A nuclease, which promotes DNA end resection that in turn allows template switching to enable bypass of lesions.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Tianpeng Zhang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yashpal Rawal</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Roger A. Greenberg</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2023-06-14" itemprop="datePublished">14 Jun 2023</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genetic stabilization of attenuated oral vaccines against poliovirus types 1 and 3]]></title>
-        <id>https://www.nature.com/articles/s41586-023-06212-3</id>
-        <link href="https://www.nature.com/articles/s41586-023-06212-3"/>
-        <updated>2023-06-14T17:35:40.057Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    //media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-023-06212-3/MediaObjects/41586_2023_6212_Fig1_HTML.png?as=webp 160w,
-                                    //media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06212-3/MediaObjects/41586_2023_6212_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="//media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-023-06212-3/MediaObjects/41586_2023_6212_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-023-06212-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Genetic stabilization of attenuated oral vaccines against poliovirus types 1 and 3</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Mouse experiments and deep sequencing confirmed that two additional live attenuated vaccine candidates against type 1 and 3 polioviruses remained attenuated and preserved all documented nOPV2 characteristics concerning genetic stability following accelerated virus evolution.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ming Te Yeh</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Matthew Smith</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Andrew Macadam</span></li>
 </ul>
 
                 
