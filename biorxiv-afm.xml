@@ -2,15 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.biorxiv.org/search/%2522atomic%252Bforce%252Bmicroscopy%2522%20numresults%3A10%75sort%3Apublication-date%20direction%3Adescending%20format_result%3Astandard</id>
     <title>bioRxiv - amyloid</title>
-    <updated>2024-01-11T17:34:24.542Z</updated>
+    <updated>2024-01-12T05:34:46.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.biorxiv.org/search/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Flap endonuclease Substrate Interactions studied using Dynamic Single-Molecule Atomic Force Microscopy]]></title>
+        <id>https://www.biorxiv.org/content/10.1101/2024.01.10.574983v1</id>
+        <link href="https://www.biorxiv.org/content/10.1101/2024.01.10.574983v1"/>
+        <updated>2024-01-12T05:34:38.764Z</updated>
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2024-01-11-20240110574983" data-pisa="biorxiv;2024.01.10.574983v1" data-pisa-master="biorxiv;2024.01.10.574983" data-apath="/biorxiv/early/2024/01/11/2024.01.10.574983.atom" id="node-biorxivearly2024011120240110574983atom1785060058"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+
+      <span class="highwire-cite-title">
+      <a href="/content/10.1101/2024.01.10.574983v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Flap endonuclease Substrate Interactions studied using Dynamic Single-Molecule Atomic Force Microscopy</span></a>    </span>
+  
+      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Vinny</span> <span class="nlm-surname">Verma</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Emma L</span> <span class="nlm-surname">Brudenell</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Sophie</span> <span class="nlm-surname">Cussons</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Janine</span> <span class="nlm-surname">Phipps</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">Su Chii</span> <span class="nlm-surname">Kong</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Jon R</span> <span class="nlm-surname">Sayers</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Jamie Kayne</span> <span class="nlm-surname">Hobbs</span></span></span></div>
+  
+      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2024.01.10.574983; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2024.01.10.574983 </span></div>
+  
+  
+      <div class="highwire-cite-extras"><div id="hw-make-citation-0" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2024;01;11;2024.01.10.574983.atom" data-seqnum="0"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2024%3B01%3B11%3B2024.01.10.574983.atom/nojs/0" id="link-save-citation-toggle-0" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+  </div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Atom filtering algorithm and GPU-accelerated calculation of simulation atomic force microscopy images]]></title>
         <id>https://www.biorxiv.org/content/10.1101/2023.11.15.567294v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2023.11.15.567294v1"/>
         <updated>2024-01-11T17:34:16.648Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2023-11-17-20231115567294" data-pisa="biorxiv;2023.11.15.567294v1" data-pisa-master="biorxiv;2023.11.15.567294" data-apath="/biorxiv/early/2023/11/17/2023.11.15.567294.atom" id="node-biorxivearly2023111720231115567294atom181579184"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2023-11-17-20231115567294" data-pisa="biorxiv;2023.11.15.567294v1" data-pisa-master="biorxiv;2023.11.15.567294" data-seqnum="1" data-apath="/biorxiv/early/2023/11/17/2023.11.15.567294.atom" id="node-biorxivearly2023111720231115567294atom1741018052"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2023.11.15.567294v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Atom filtering algorithm and GPU-accelerated calculation of simulation atomic force microscopy images</span></a>    </span>
@@ -20,7 +39,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2023.11.15.567294; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2023.11.15.567294 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-0" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2023;11;17;2023.11.15.567294.atom" data-seqnum="0"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2023%3B11%3B17%3B2023.11.15.567294.atom/nojs/0" id="link-save-citation-toggle-0" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-1" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2023;11;17;2023.11.15.567294.atom" data-seqnum="1"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2023%3B11%3B17%3B2023.11.15.567294.atom/nojs/1" id="link-save-citation-toggle-1" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -29,7 +48,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2023.07.05.547812v2</id>
         <link href="https://www.biorxiv.org/content/10.1101/2023.07.05.547812v2"/>
         <updated>2024-01-11T17:34:16.651Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2023-07-16-20230705547812" data-pisa="biorxiv;2023.07.05.547812v2" data-pisa-master="biorxiv;2023.07.05.547812" data-seqnum="1" data-apath="/biorxiv/early/2023/07/16/2023.07.05.547812.atom" id="node-biorxivearly2023071620230705547812atom1995047370"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2023-07-16-20230705547812" data-pisa="biorxiv;2023.07.05.547812v2" data-pisa-master="biorxiv;2023.07.05.547812" data-seqnum="2" data-apath="/biorxiv/early/2023/07/16/2023.07.05.547812.atom" id="node-biorxivearly2023071620230705547812atom415330857"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2023.07.05.547812v2" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Trace_y: Software algorithms for structural analysis of individual helical filaments by three-dimensional contact point reconstruction atomic force microscopy</span></a>    </span>
@@ -39,7 +58,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2023.07.05.547812; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2023.07.05.547812 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-1" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2023;07;16;2023.07.05.547812.atom" data-seqnum="1"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2023%3B07%3B16%3B2023.07.05.547812.atom/nojs/1" id="link-save-citation-toggle-1" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-2" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2023;07;16;2023.07.05.547812.atom" data-seqnum="2"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2023%3B07%3B16%3B2023.07.05.547812.atom/nojs/2" id="link-save-citation-toggle-2" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -48,7 +67,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2023.03.04.531114v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2023.03.04.531114v1"/>
         <updated>2024-01-11T17:34:16.653Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2023-03-06-20230304531114" data-pisa="biorxiv;2023.03.04.531114v1" data-pisa-master="biorxiv;2023.03.04.531114" data-seqnum="2" data-apath="/biorxiv/early/2023/03/06/2023.03.04.531114.atom" id="node-biorxivearly2023030620230304531114atom2130973436"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2023-03-06-20230304531114" data-pisa="biorxiv;2023.03.04.531114v1" data-pisa-master="biorxiv;2023.03.04.531114" data-seqnum="3" data-apath="/biorxiv/early/2023/03/06/2023.03.04.531114.atom" id="node-biorxivearly2023030620230304531114atom1484596281"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2023.03.04.531114v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Optimization of somatic embryogenesis in <em>Euterpe edulis</em> Martius using auxin analogs and atomic force microscopy</span></a>    </span>
@@ -58,7 +77,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2023.03.04.531114; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2023.03.04.531114 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-2" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2023;03;06;2023.03.04.531114.atom" data-seqnum="2"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2023%3B03%3B06%3B2023.03.04.531114.atom/nojs/2" id="link-save-citation-toggle-2" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-3" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2023;03;06;2023.03.04.531114.atom" data-seqnum="3"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2023%3B03%3B06%3B2023.03.04.531114.atom/nojs/3" id="link-save-citation-toggle-3" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -67,7 +86,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.10.06.511133v2</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.06.511133v2"/>
         <updated>2024-01-11T17:34:16.656Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2022-10-13-20221006511133" data-pisa="biorxiv;2022.10.06.511133v2" data-pisa-master="biorxiv;2022.10.06.511133" data-seqnum="3" data-apath="/biorxiv/early/2022/10/13/2022.10.06.511133.atom" id="node-biorxivearly2022101320221006511133atom189089812"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2022-10-13-20221006511133" data-pisa="biorxiv;2022.10.06.511133v2" data-pisa-master="biorxiv;2022.10.06.511133" data-seqnum="4" data-apath="/biorxiv/early/2022/10/13/2022.10.06.511133.atom" id="node-biorxivearly2022101320221006511133atom1198027860"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.06.511133v2" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Atomic force microscopy evidences the underlying fibrillar formation mechanism of S100A9 neurodegenerative protein family</span></a>    </span>
@@ -77,7 +96,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.06.511133; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.06.511133 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-3" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;13;2022.10.06.511133.atom" data-seqnum="3"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B13%3B2022.10.06.511133.atom/nojs/3" id="link-save-citation-toggle-3" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-4" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;13;2022.10.06.511133.atom" data-seqnum="4"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B13%3B2022.10.06.511133.atom/nojs/4" id="link-save-citation-toggle-4" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -86,7 +105,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.10.07.511277v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.10.07.511277v1"/>
         <updated>2024-01-11T17:34:16.657Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2022-10-10-20221007511277" data-pisa="biorxiv;2022.10.07.511277v1" data-pisa-master="biorxiv;2022.10.07.511277" data-seqnum="4" data-apath="/biorxiv/early/2022/10/10/2022.10.07.511277.atom" id="node-biorxivearly2022101020221007511277atom716467909"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2022-10-10-20221007511277" data-pisa="biorxiv;2022.10.07.511277v1" data-pisa-master="biorxiv;2022.10.07.511277" data-seqnum="5" data-apath="/biorxiv/early/2022/10/10/2022.10.07.511277.atom" id="node-biorxivearly2022101020221007511277atom74267759"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.10.07.511277v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Quantifying the mechanical properties of yeast <em>Candida albicans</em> using atomic force microscopy-based force spectroscopy</span></a>    </span>
@@ -96,7 +115,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.10.07.511277; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.10.07.511277 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-4" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;10;2022.10.07.511277.atom" data-seqnum="4"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B10%3B2022.10.07.511277.atom/nojs/4" id="link-save-citation-toggle-4" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-5" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;10;10;2022.10.07.511277.atom" data-seqnum="5"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B10%3B10%3B2022.10.07.511277.atom/nojs/5" id="link-save-citation-toggle-5" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -105,7 +124,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.09.24.509314v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.09.24.509314v1"/>
         <updated>2024-01-11T17:34:16.659Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2022-09-26-20220924509314" data-pisa="biorxiv;2022.09.24.509314v1" data-pisa-master="biorxiv;2022.09.24.509314" data-seqnum="5" data-apath="/biorxiv/early/2022/09/26/2022.09.24.509314.atom" id="node-biorxivearly2022092620220924509314atom1293134678"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2022-09-26-20220924509314" data-pisa="biorxiv;2022.09.24.509314v1" data-pisa-master="biorxiv;2022.09.24.509314" data-seqnum="6" data-apath="/biorxiv/early/2022/09/26/2022.09.24.509314.atom" id="node-biorxivearly2022092620220924509314atom1083699026"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.09.24.509314v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">End-to-End Differentiable Blind Tip Reconstruction for Noisy Atomic Force Microscopy Images</span></a>    </span>
@@ -115,7 +134,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.09.24.509314; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.09.24.509314 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-5" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;09;26;2022.09.24.509314.atom" data-seqnum="5"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B09%3B26%3B2022.09.24.509314.atom/nojs/5" id="link-save-citation-toggle-5" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-6" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;09;26;2022.09.24.509314.atom" data-seqnum="6"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B09%3B26%3B2022.09.24.509314.atom/nojs/6" id="link-save-citation-toggle-6" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -124,7 +143,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2022.02.03.478991v2</id>
         <link href="https://www.biorxiv.org/content/10.1101/2022.02.03.478991v2"/>
         <updated>2024-01-11T17:34:16.660Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2022-02-04-202202034789911" data-pisa="biorxiv;2022.02.03.478991v2" data-pisa-master="biorxiv;2022.02.03.478991" data-seqnum="6" data-apath="/biorxiv/early/2022/02/04/2022.02.03.478991.1.atom" id="node-biorxivearly20220204202202034789911atom589874864"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2022-02-04-202202034789911" data-pisa="biorxiv;2022.02.03.478991v2" data-pisa-master="biorxiv;2022.02.03.478991" data-seqnum="7" data-apath="/biorxiv/early/2022/02/04/2022.02.03.478991.1.atom" id="node-biorxivearly20220204202202034789911atom975859714"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2022.02.03.478991v2" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Force sensing on cells and tissues by atomic force microscopy</span></a>    </span>
@@ -134,7 +153,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.02.03.478991; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.02.03.478991 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-6" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;02;04;2022.02.03.478991.1.atom" data-seqnum="6"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B02%3B04%3B2022.02.03.478991.1.atom/nojs/6" id="link-save-citation-toggle-6" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-7" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;02;04;2022.02.03.478991.1.atom" data-seqnum="7"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B02%3B04%3B2022.02.03.478991.1.atom/nojs/7" id="link-save-citation-toggle-7" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -143,7 +162,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2021.09.23.461481v4</id>
         <link href="https://www.biorxiv.org/content/10.1101/2021.09.23.461481v4"/>
         <updated>2024-01-11T17:34:16.662Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2022-07-05-20210923461481" data-pisa="biorxiv;2021.09.23.461481v4" data-pisa-master="biorxiv;2021.09.23.461481" data-seqnum="7" data-apath="/biorxiv/early/2022/07/05/2021.09.23.461481.atom" id="node-biorxivearly2022070520210923461481atom1691597082"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2022-07-05-20210923461481" data-pisa="biorxiv;2021.09.23.461481v4" data-pisa-master="biorxiv;2021.09.23.461481" data-seqnum="8" data-apath="/biorxiv/early/2022/07/05/2021.09.23.461481.atom" id="node-biorxivearly2022070520210923461481atom650525371"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2021.09.23.461481v4" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Mechanical characterisation of the developing cell wall layers of tension wood fibres by Atomic Force Microscopy</span></a>    </span>
@@ -153,7 +172,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2021.09.23.461481; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2021.09.23.461481 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-7" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;07;05;2021.09.23.461481.atom" data-seqnum="7"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B07%3B05%3B2021.09.23.461481.atom/nojs/7" id="link-save-citation-toggle-7" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-8" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;07;05;2021.09.23.461481.atom" data-seqnum="8"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B07%3B05%3B2021.09.23.461481.atom/nojs/8" id="link-save-citation-toggle-8" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
@@ -162,7 +181,7 @@
         <id>https://www.biorxiv.org/content/10.1101/2021.10.26.465876v1</id>
         <link href="https://www.biorxiv.org/content/10.1101/2021.10.26.465876v1"/>
         <updated>2024-01-11T17:34:16.666Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2021-10-26-20211026465876" data-pisa="biorxiv;2021.10.26.465876v1" data-pisa-master="biorxiv;2021.10.26.465876" data-seqnum="8" data-apath="/biorxiv/early/2021/10/26/2021.10.26.465876.atom" id="node-biorxivearly2021102620211026465876atom1765012426"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2021-10-26-20211026465876" data-pisa="biorxiv;2021.10.26.465876v1" data-pisa-master="biorxiv;2021.10.26.465876" data-seqnum="9" data-apath="/biorxiv/early/2021/10/26/2021.10.26.465876.atom" id="node-biorxivearly2021102620211026465876atom1642039003"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
 
       <span class="highwire-cite-title">
       <a href="/content/10.1101/2021.10.26.465876v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Eukaryotic CRFK cells motion characterized with atomic force microscopy</span></a>    </span>
@@ -172,26 +191,7 @@
       <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2021.10.26.465876; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2021.10.26.465876 </span></div>
   
   
-      <div class="highwire-cite-extras"><div id="hw-make-citation-8" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2021;10;26;2021.10.26.465876.atom" data-seqnum="8"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2021%3B10%3B26%3B2021.10.26.465876.atom/nojs/8" id="link-save-citation-toggle-8" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
-  </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dimerization processes for light-regulated transcription factor Photozipper visualized by high-speed atomic force microscopy]]></title>
-        <id>https://www.biorxiv.org/content/10.1101/2022.03.27.485139v1</id>
-        <link href="https://www.biorxiv.org/content/10.1101/2022.03.27.485139v1"/>
-        <updated>2024-01-11T17:34:16.666Z</updated>
-        <content type="html"><![CDATA[<div class="highwire-article-citation highwire-citation-type-highwire-article node-biorxiv-early-2022-03-28-20220327485139" data-pisa="biorxiv;2022.03.27.485139v1" data-pisa-master="biorxiv;2022.03.27.485139" data-seqnum="9" data-apath="/biorxiv/early/2022/03/28/2022.03.27.485139.atom" id="node-biorxivearly2022032820220327485139atom1548008642"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
-
-      <span class="highwire-cite-title">
-      <a href="/content/10.1101/2022.03.27.485139v1" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Dimerization processes for light-regulated transcription factor Photozipper visualized by high-speed atomic force microscopy</span></a>    </span>
-  
-      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Akihiro</span> <span class="nlm-surname">Tsuji</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Hayato</span> <span class="nlm-surname">Yamashita</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Osamu</span> <span class="nlm-surname">Hisatomi</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Masayuki</span> <span class="nlm-surname">Abe</span></span></span></div>
-  
-      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">bioRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2022.03.27.485139; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2022.03.27.485139 </span></div>
-  
-  
-      <div class="highwire-cite-extras"><div id="hw-make-citation-9" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2022;03;28;2022.03.27.485139.atom" data-seqnum="9"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2022%3B03%3B28%3B2022.03.27.485139.atom/nojs/9" id="link-save-citation-toggle-9" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
+      <div class="highwire-cite-extras"><div id="hw-make-citation-9" class="hw-make-citation hw-make-citation-processed" data-encoded-apath=";biorxiv;early;2021;10;26;2021.10.26.465876.atom" data-seqnum="9"><a href="/highwire-save-citation/saveapath/%3Bbiorxiv%3Bearly%3B2021%3B10%3B26%3B2021.10.26.465876.atom/nojs/9" id="link-save-citation-toggle-9" class="link-save-citation-save use-ajax hw-link-save-unsave-catation link-icon ajax-processed" title="Save"><span class="icon-plus"></span> <span class="title">Add to Selected Citations</span></a></div></div>
   </div>
 </div>]]></content>
     </entry>
