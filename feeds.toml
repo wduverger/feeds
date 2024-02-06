@@ -35,3 +35,10 @@ url = "https://www.nature.com/nature/research-articles"
 entrySelector = "article"
 titleSelector = "a"
 linkSelector = "a"
+
+[brady-johnston]
+title = "Brady Johnston"
+url = "https://bradyajohnston.github.io"
+entrySelector = "div.card-body.post-contents"
+titleSelector = "h5"
+linkSelector = "h5"
