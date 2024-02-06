@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bradyajohnston.github.io</id>
+    <title>Brady Johnston</title>
+    <updated>2024-02-06T20:46:07.575Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://bradyajohnston.github.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Plotting Fluorescent Spectra]]></title>
+        <id>https://bradyajohnston.github.io</id>
+        <link href="https://bradyajohnston.github.io"/>
+        <updated>2024-02-06T20:46:06.052Z</updated>
+        <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
+Plotting Fluorescent Spectra
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('ggplot2'); return false;">
+ggplot2
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+R
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('coding'); return false;">
+coding
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('fluoresence'); return false;">
+fluoresence
+</div>
+</div>
+<div class="card-text listing-description">
+How do we go about plotting some spectral data from fluorophores, to get something like below?
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Brady Johnston
+</div>
+<div class="listing-date">
+Sep 3, 2022
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactively Visualising Proteins]]></title>
+        <id>https://bradyajohnston.github.io</id>
+        <link href="https://bradyajohnston.github.io"/>
+        <updated>2024-02-06T20:46:06.052Z</updated>
+        <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
+Interactively Visualising Proteins
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bioinformatics'); return false;">
+bioinformatics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+R
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('protein'); return false;">
+protein
+</div>
+</div>
+<div class="card-text listing-description">
+Recently I’ve been doing a lot of structural bioinformatics. To avoid having to export my results into PyMol of Chimerax, I wanted a better solution that could embed the results more easily into the report that I was writing.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Brady Johnston
+</div>
+<div class="listing-date">
+Feb 15, 2021
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualising Global Rubbish]]></title>
+        <id>https://bradyajohnston.github.io</id>
+        <link href="https://bradyajohnston.github.io"/>
+        <updated>2024-02-06T20:46:06.053Z</updated>
+        <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
+Visualising Global Rubbish
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+R
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('tidytuesday'); return false;">
+tidytuesday
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data vis'); return false;">
+data vis
+</div>
+</div>
+<div class="card-text listing-description">
+For this week’s #tidytuesday, I visualise the vast dataset of rubbish collected on the beaches all over the world.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Brady Johnston
+</div>
+<div class="listing-date">
+Jan 31, 2021
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R for Biologists]]></title>
+        <id>https://bradyajohnston.github.io</id>
+        <link href="https://bradyajohnston.github.io"/>
+        <updated>2024-02-06T20:46:06.054Z</updated>
+        <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
+R for Biologists
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+R
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('tutorial'); return false;">
+tutorial
+</div>
+</div>
+<div class="card-text listing-description">
+A couple of months ago I ran (with lots of help for content) an R for biologists workshop.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Brady Johnston
+</div>
+<div class="listing-date">
+Jul 7, 2020
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Praise for pdb-tools]]></title>
+        <id>https://bradyajohnston.github.io</id>
+        <link href="https://bradyajohnston.github.io"/>
+        <updated>2024-02-06T20:46:06.056Z</updated>
+        <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
+Praise for <code>pdb-tools</code>
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
+python
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('structural biology'); return false;">
+structural biology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bash'); return false;">
+bash
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="images/pdb-tools.png" class="img-fluid figure-img" alt="Logo for the software package pdb-tools, showing a swiss-army-knife with molecular bonds instead of tools.">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Brady Johnston
+</div>
+<div class="listing-date">
+Jun 9, 2020
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender for Biochemists.]]></title>
+        <id>https://bradyajohnston.github.io</id>
+        <link href="https://bradyajohnston.github.io"/>
+        <updated>2024-02-06T20:46:06.057Z</updated>
+        <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
+Blender for Biochemists.
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('blender'); return false;">
+blender
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('sciart'); return false;">
+sciart
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('youtube'); return false;">
+youtube
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('tutorial'); return false;">
+tutorial
+</div>
+</div>
+<div class="card-text listing-description">
+I’ve started my journey into the realm of youtube.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Brady Johnston
+</div>
+<div class="listing-date">
+May 6, 2020
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rendering around crashes with Animation Nodes]]></title>
+        <id>https://bradyajohnston.github.io</id>
+        <link href="https://bradyajohnston.github.io"/>
+        <updated>2024-02-06T20:46:06.058Z</updated>
+        <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
+Rendering around crashes with Animation Nodes
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('blender'); return false;">
+blender
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('structural biology'); return false;">
+structural biology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('nodes'); return false;">
+nodes
+</div>
+</div>
+<div class="card-text listing-description">
+Can we make some pixelated protein art?
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Brady Johnston
+</div>
+<div class="listing-date">
+Apr 5, 2020
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFP as a Hat]]></title>
+        <id>https://bradyajohnston.github.io</id>
+        <link href="https://bradyajohnston.github.io"/>
+        <updated>2024-02-06T20:46:06.059Z</updated>
+        <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
+GFP as a Hat
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('blender'); return false;">
+blender
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('protein'); return false;">
+protein
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('AR'); return false;">
+AR
+</div>
+</div>
+<div class="card-text listing-description">
+As I was drifting off to sleep one night, the thought hit me:
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Brady Johnston
+</div>
+<div class="listing-date">
+Aug 16, 2019
+</div>
+</div>]]></content>
+    </entry>
+</feed>
