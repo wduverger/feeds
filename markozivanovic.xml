@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.markozivanovic.com/</id>
     <title>Marko Zivanovic</title>
-    <updated>2024-03-03T17:34:53.526Z</updated>
+    <updated>2024-03-04T06:05:44.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.markozivanovic.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Considerate Digital Communication]]></title>
+        <id>https://www.markozivanovic.com/considerate-digital-communication/</id>
+        <link href="https://www.markozivanovic.com/considerate-digital-communication/"/>
+        <updated>2024-03-04T06:05:36.605Z</updated>
+        <content type="html"><![CDATA[<a href="/considerate-digital-communication/">Considerate Digital Communication</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virtual coffee with strangers]]></title>
         <id>https://www.markozivanovic.com/virtual-coffee-with-strangers/</id>
@@ -67,12 +74,5 @@
         <link href="https://www.markozivanovic.com/tell-me-when-i-suck/"/>
         <updated>2022-05-23T14:11:17.126Z</updated>
         <content type="html"><![CDATA[<a href="/tell-me-when-i-suck/">Tell me when I suck</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winning over the TL;DR crowd]]></title>
-        <id>https://www.markozivanovic.com/winning-over-the-tldr-crowd/</id>
-        <link href="https://www.markozivanovic.com/winning-over-the-tldr-crowd/"/>
-        <updated>2022-05-23T14:11:17.127Z</updated>
-        <content type="html"><![CDATA[<a href="/winning-over-the-tldr-crowd/">Winning over the TL;DR crowd</a>]]></content>
     </entry>
 </feed>
