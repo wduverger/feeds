@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.markozivanovic.com/</id>
     <title>Marko Zivanovic</title>
-    <updated>2024-03-06T05:38:27.647Z</updated>
+    <updated>2024-03-07T05:34:24.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.markozivanovic.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Some productivity metrics are evil]]></title>
+        <id>https://www.markozivanovic.com/some-productivity-metrics-are-evil/</id>
+        <link href="https://www.markozivanovic.com/some-productivity-metrics-are-evil/"/>
+        <updated>2024-03-07T05:34:16.444Z</updated>
+        <content type="html"><![CDATA[<a href="/some-productivity-metrics-are-evil/">Some productivity metrics are evil</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Considerate Digital Communication]]></title>
         <id>https://www.markozivanovic.com/considerate-digital-communication/</id>
@@ -67,12 +74,5 @@
         <link href="https://www.markozivanovic.com/optimist-pessimist-and-realist-comment-on-tech/"/>
         <updated>2022-05-23T14:11:17.125Z</updated>
         <content type="html"><![CDATA[<a href="/optimist-pessimist-and-realist-comment-on-tech/">Optimist, pessimist, and realist comment on tech</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell me when I suck]]></title>
-        <id>https://www.markozivanovic.com/tell-me-when-i-suck/</id>
-        <link href="https://www.markozivanovic.com/tell-me-when-i-suck/"/>
-        <updated>2022-05-23T14:11:17.126Z</updated>
-        <content type="html"><![CDATA[<a href="/tell-me-when-i-suck/">Tell me when I suck</a>]]></content>
     </entry>
 </feed>
