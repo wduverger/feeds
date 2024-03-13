@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2024-03-12T17:35:46.410Z</updated>
+    <updated>2024-03-13T05:34:11.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
     <entry>
@@ -10,13 +10,13 @@
         <id>https://www.nature.com/articles/s41586-024-07270-x</id>
         <link href="https://www.nature.com/articles/s41586-024-07270-x"/>
         <updated>2024-03-12T17:35:42.009Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height" data-gtm-vis-polling-id50443292_3937="628" data-gtm-vis-polling-id50443292_3812="656" data-gtm-vis-polling-id50443292_3939="684">
             
                 
                     
                 
             
-            <div class="c-card__body u-display-flex u-flex-direction-column">
+            <div class="c-card__body u-display-flex u-flex-direction-column" data-gtm-vis-polling-id50443292_3937="629" data-gtm-vis-polling-id50443292_3812="657" data-gtm-vis-polling-id50443292_3939="685">
                 <h3 class="c-card__title" itemprop="name headline">
                     <a href="/articles/s41586-024-07270-x" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Structures and activation mechanism of the Gabija anti-phage system</a>
                 </h3>
@@ -35,7 +35,7 @@
         </div>
         
             
-    <div class="c-card__section c-meta">
+    <div class="c-card__section c-meta" data-gtm-vis-polling-id50443292_3937="630" data-gtm-vis-polling-id50443292_3812="658" data-gtm-vis-polling-id50443292_3939="686">
         <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2024-03-12" itemprop="datePublished">12 Mar 2024</time>
         
         
@@ -46,11 +46,11 @@
         <id>https://www.nature.com/articles/s41586-024-07136-2</id>
         <link href="https://www.nature.com/articles/s41586-024-07136-2"/>
         <updated>2024-03-11T17:34:28.252Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height" data-gtm-vis-polling-id50443292_3937="632" data-gtm-vis-polling-id50443292_3812="660" data-gtm-vis-polling-id50443292_3939="688">
             
                 
                     
-                        <div class="c-card__image">
+                        <div class="c-card__image" data-gtm-vis-polling-id50443292_3937="633" data-gtm-vis-polling-id50443292_3812="661" data-gtm-vis-polling-id50443292_3939="689">
                             <picture>
                                 <source type="image/webp" srcset="
                                     https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-07136-2/MediaObjects/41586_2024_7136_Fig1_HTML.png?as=webp 160w,
@@ -64,13 +64,13 @@
                     
                 
             
-            <div class="c-card__body u-display-flex u-flex-direction-column">
+            <div class="c-card__body u-display-flex u-flex-direction-column" data-gtm-vis-polling-id50443292_3937="634" data-gtm-vis-polling-id50443292_3812="662" data-gtm-vis-polling-id50443292_3939="690">
                 <h3 class="c-card__title" itemprop="name headline">
                     <a href="/articles/s41586-024-07136-2" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">All-optical frequency division on-chip using a single laser</a>
                 </h3>
                 
                     
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description" data-gtm-vis-polling-id50443292_3937="635" data-gtm-vis-polling-id50443292_3812="663" data-gtm-vis-polling-id50443292_3939="691">
                             <p>We demonstrate an all-optical, mode-locking, Kerr-comb frequency division method that provides a chip-scale microwave source that is extremely versatile, accurate, stable and has ultralow noise, using only a single continuous-wave laser.</p>
                         </div>
                     
@@ -87,7 +87,7 @@
         </div>
         
             
-    <div class="c-card__section c-meta">
+    <div class="c-card__section c-meta" data-gtm-vis-polling-id50443292_3937="636" data-gtm-vis-polling-id50443292_3812="664" data-gtm-vis-polling-id50443292_3939="692">
         <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2024-03-11" itemprop="datePublished">11 Mar 2024</time>
         
         
