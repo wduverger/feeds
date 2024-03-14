@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2024-03-13T17:35:06.288Z</updated>
+    <updated>2024-03-14T05:34:39.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png</icon>
     <entry>
@@ -10,11 +10,11 @@
         <id>https://www.nature.com/articles/s41586-024-07181-x</id>
         <link href="https://www.nature.com/articles/s41586-024-07181-x"/>
         <updated>2024-03-13T17:35:02.114Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height" data-gtm-vis-polling-id50443292_3937="654" data-gtm-vis-polling-id50443292_3939="679" data-gtm-vis-polling-id50443292_3812="705">
             
                 
                     
-                        <div class="c-card__image">
+                        <div class="c-card__image" data-gtm-vis-polling-id50443292_3937="655" data-gtm-vis-polling-id50443292_3939="680" data-gtm-vis-polling-id50443292_3812="706">
                             <picture>
                                 <source type="image/webp" srcset="
                                     https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-07181-x/MediaObjects/41586_2024_7181_Fig1_HTML.png?as=webp 160w,
@@ -28,13 +28,13 @@
                     
                 
             
-            <div class="c-card__body u-display-flex u-flex-direction-column">
+            <div class="c-card__body u-display-flex u-flex-direction-column" data-gtm-vis-polling-id50443292_3937="656" data-gtm-vis-polling-id50443292_3939="681" data-gtm-vis-polling-id50443292_3812="707">
                 <h3 class="c-card__title" itemprop="name headline">
                     <a href="/articles/s41586-024-07181-x" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Couple-close construction of polycyclic rings from diradicals</a>
                 </h3>
                 
                     
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description" data-gtm-vis-polling-id50443292_3937="657" data-gtm-vis-polling-id50443292_3939="682" data-gtm-vis-polling-id50443292_3812="708">
                             <p>A couple-close approach used to build semisaturated ring systems from dual radical precursors allows sampling of regions of underexplored chemical space, leading to an annulation that can be used for late-stage functionalization of pharmaceutical scaffolds.</p>
                         </div>
                     
@@ -51,7 +51,7 @@
         </div>
         
             
-    <div class="c-card__section c-meta">
+    <div class="c-card__section c-meta" data-gtm-vis-polling-id50443292_3937="658" data-gtm-vis-polling-id50443292_3939="683" data-gtm-vis-polling-id50443292_3812="709">
         <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2024-03-13" itemprop="datePublished">13 Mar 2024</time>
         
         
@@ -86,7 +86,7 @@
                 </h3>
                 
                     
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description" data-gtm-vis-polling-id50443292_3937="659" data-gtm-vis-polling-id50443292_3939="684" data-gtm-vis-polling-id50443292_3812="710">
                             <p>The hippocampal dentate spike, an understudied population event that frequently occurs between sharp-wave ripples, may underlie a mechanism re-engaging the brain with the external world during synchronous population events, and support memory during non-locomotor behaviour.</p>
                         </div>
                     
