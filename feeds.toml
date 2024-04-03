@@ -42,3 +42,10 @@ url = "https://bradyajohnston.github.io"
 entrySelector = "div.card-body.post-contents"
 titleSelector = "h5"
 linkSelector = "h5"
+
+[zimmo]
+title = "Zimmo"
+url = "https://www.zimmo.be/nl/zoeken/?search=eyJmaWx0ZXIiOnsic3RhdHVzIjp7ImluIjpbIlRPX1JFTlQiXX0sInByaWNlIjp7InVua25vd24iOnRydWUsInJhbmdlIjp7Im1pbiI6OTAwLCJtYXgiOjE1MDB9fSwiY2F0ZWdvcnkiOnsiaW4iOlsiSE9VU0UiLCJBUEFSVE1FTlQiXX0sInBsYWNlSWQiOnsiaW4iOlsyMjZdfX0sInBhZ2luZyI6eyJmcm9tIjowLCJzaXplIjoxOX0sInNvcnRpbmciOlt7InR5cGUiOiJEQVRFIiwib3JkZXIiOiJERVNDIn1dfQ%3D%3D&p=1#gallery"
+entrySelector = ".property-item"
+titleSelector = ".property-item_address"
+linkselector = "a"
