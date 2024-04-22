@@ -2,9 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2024-04-22T05:34:14.105Z</updated>
+    <updated>2024-04-22T17:34:21.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Star Formation Shut Down by Multiphase Gas Outflow in a Galaxy at a Redshift of 2.45]]></title>
+        <id>https://www.nature.com/articles/s41586-024-07412-1</id>
+        <link href="https://www.nature.com/articles/s41586-024-07412-1"/>
+        <updated>2024-04-22T17:34:14.439Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-024-07412-1" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Star Formation Shut Down by Multiphase Gas Outflow in a Galaxy at a Redshift of 2.45</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Sirio Belli</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Minjung Park</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Rainer Weinberger</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2024-04-22" itemprop="datePublished">22 Apr 2024</time>
+        
+        
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multimodal cell atlas of the ageing human skeletal muscle]]></title>
+        <id>https://www.nature.com/articles/s41586-024-07348-6</id>
+        <link href="https://www.nature.com/articles/s41586-024-07348-6"/>
+        <updated>2024-04-22T17:34:14.441Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                        <div class="c-card__image">
+                            <picture>
+                                <source type="image/webp" srcset="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-07348-6/MediaObjects/41586_2024_7348_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07348-6/MediaObjects/41586_2024_7348_Fig1_HTML.png?as=webp 290w" sizes="
+                                    (max-width: 640px) 160px,
+                                    (max-width: 1200px) 290px,
+                                    290px">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07348-6/MediaObjects/41586_2024_7348_Fig1_HTML.png" alt="" itemprop="image">
+                            </picture>
+                        </div>
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-024-07348-6" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Multimodal cell atlas of the ageing human skeletal muscle</a>
+                </h3>
+                
+                    
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
+                            <p>The Human Muscle Ageing Cell Atlas provides a series of integrated cellular and molecular explanations for sarcopenia and frailty development in advanced ages.</p>
+                        </div>
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yiwei Lai</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ignacio Ramírez-Pardo</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Miguel A. Esteban</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2024-04-22" itemprop="datePublished">22 Apr 2024</time>
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DNA glycosylases provide antiviral defence in prokaryotes]]></title>
         <id>https://www.nature.com/articles/s41586-024-07329-9</id>
@@ -937,110 +1025,6 @@
             
     <div class="c-card__section c-meta">
         <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2024-04-17" itemprop="datePublished">17 Apr 2024</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laser spectroscopy of triply charged 229Th isomer for a nuclear clock]]></title>
-        <id>https://www.nature.com/articles/s41586-024-07296-1</id>
-        <link href="https://www.nature.com/articles/s41586-024-07296-1"/>
-        <updated>2024-04-17T17:34:05.343Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-07296-1/MediaObjects/41586_2024_7296_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07296-1/MediaObjects/41586_2024_7296_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07296-1/MediaObjects/41586_2024_7296_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-07296-1" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Laser spectroscopy of triply charged <sup>229</sup>Th isomer for a nuclear clock</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>The trapping of triply charged <sup>229m</sup>Th<sup>3+</sup> is described and its nuclear decay half-life determined, showing useful properties for the development of a nuclear clock and applications in the search for new physics.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Atsushi Yamaguchi</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yudai Shigekawa</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Hidetoshi Katori</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2024-04-17" itemprop="datePublished">17 Apr 2024</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Promiscuous G-protein activation by the calcium-sensing receptor]]></title>
-        <id>https://www.nature.com/articles/s41586-024-07331-1</id>
-        <link href="https://www.nature.com/articles/s41586-024-07331-1"/>
-        <updated>2024-04-17T17:34:05.345Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-07331-1/MediaObjects/41586_2024_7331_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07331-1/MediaObjects/41586_2024_7331_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07331-1/MediaObjects/41586_2024_7331_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-07331-1" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Promiscuous G-protein activation by the calcium-sensing receptor</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Structures of the human calcium-sensing receptor can be bound into complex with G proteins from three different Gα subtypes while maintaining G-protein-binding specificity.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Hao Zuo</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jinseo Park</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Qing R. Fan</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2024-04-17" itemprop="datePublished">17 Apr 2024</time>
         
         
     </div>]]></content>
