@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.markozivanovic.com/</id>
     <title>Marko Zivanovic</title>
-    <updated>2024-05-20T05:35:52.965Z</updated>
+    <updated>2024-05-20T17:35:02.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.markozivanovic.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[How AI Personalization Fuels Groupthink and Uniformity]]></title>
+        <id>https://www.markozivanovic.com/how-ai-personalization-fuels-groupthink-and-uniformity/</id>
+        <link href="https://www.markozivanovic.com/how-ai-personalization-fuels-groupthink-and-uniformity/"/>
+        <updated>2024-05-20T17:34:51.112Z</updated>
+        <content type="html"><![CDATA[<a href="/how-ai-personalization-fuels-groupthink-and-uniformity/">How AI Personalization Fuels Groupthink and Uniformity</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The roaming office: Don’t be *that* remote worker]]></title>
         <id>https://www.markozivanovic.com/the-roaming-office-dont-be-that-remote-worker/</id>
@@ -67,12 +74,5 @@
         <link href="https://www.markozivanovic.com/the-downward-spiral-of-digital-beggars/"/>
         <updated>2022-05-23T14:11:17.121Z</updated>
         <content type="html"><![CDATA[<a href="/the-downward-spiral-of-digital-beggars/">The downward spiral of digital beggars</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The "If I can do it, so can you" bullshit]]></title>
-        <id>https://www.markozivanovic.com/the-if-i-can-do-it-so-can-you-bullshit/</id>
-        <link href="https://www.markozivanovic.com/the-if-i-can-do-it-so-can-you-bullshit/"/>
-        <updated>2022-05-23T14:11:17.121Z</updated>
-        <content type="html"><![CDATA[<a href="/the-if-i-can-do-it-so-can-you-bullshit/">The "If I can do it, so can you" bullshit</a>]]></content>
     </entry>
 </feed>
