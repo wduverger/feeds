@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.markozivanovic.com/</id>
     <title>Marko Zivanovic</title>
-    <updated>2024-06-25T05:34:58.949Z</updated>
+    <updated>2024-06-25T17:34:27.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.markozivanovic.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Developer Empowerment and Enablement Framework (DEEF)]]></title>
+        <id>https://www.markozivanovic.com/developer-empowerment-and-enablement-framework-deef/</id>
+        <link href="https://www.markozivanovic.com/developer-empowerment-and-enablement-framework-deef/"/>
+        <updated>2024-06-25T17:34:18.802Z</updated>
+        <content type="html"><![CDATA[<a href="/developer-empowerment-and-enablement-framework-deef/">Developer Empowerment and Enablement Framework (DEEF)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clearly Defined Expectations and Responsibilities (CDER)]]></title>
         <id>https://www.markozivanovic.com/clearly-defined-expectations-and-responsibilities-cder/</id>
@@ -67,12 +74,5 @@
         <link href="https://www.markozivanovic.com/virtual-coffee-with-strangers/"/>
         <updated>2022-08-03T05:53:23.789Z</updated>
         <content type="html"><![CDATA[<a href="/virtual-coffee-with-strangers/">Virtual coffee with strangers</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You're not dumb, the prerequisites are bullshit]]></title>
-        <id>https://www.markozivanovic.com/youre-not-dumb-the-prerequisites-are-bullshit/</id>
-        <link href="https://www.markozivanovic.com/youre-not-dumb-the-prerequisites-are-bullshit/"/>
-        <updated>2022-05-23T14:11:17.121Z</updated>
-        <content type="html"><![CDATA[<a href="/youre-not-dumb-the-prerequisites-are-bullshit/">You're not dumb, the prerequisites are bullshit</a>]]></content>
     </entry>
 </feed>
