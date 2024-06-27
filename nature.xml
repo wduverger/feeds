@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2024-06-26T17:34:29.170Z</updated>
+    <updated>2024-06-27T05:37:47.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png</icon>
     <entry>
@@ -858,6 +858,58 @@
     </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Unconventional superconductivity in chiral molecule–TaS2 hybrid superlattices]]></title>
+        <id>https://www.nature.com/articles/s41586-024-07625-4</id>
+        <link href="https://www.nature.com/articles/s41586-024-07625-4"/>
+        <updated>2024-06-27T05:37:42.583Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                        <div class="c-card__image">
+                            <picture>
+                                <source type="image/webp" srcset="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-07625-4/MediaObjects/41586_2024_7625_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07625-4/MediaObjects/41586_2024_7625_Fig1_HTML.png?as=webp 290w" sizes="
+                                    (max-width: 640px) 160px,
+                                    (max-width: 1200px) 290px,
+                                    290px">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07625-4/MediaObjects/41586_2024_7625_Fig1_HTML.png" alt="" itemprop="image">
+                            </picture>
+                        </div>
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-024-07625-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Unconventional superconductivity in chiral molecule–TaS<sub>2</sub> hybrid superlattices</a>
+                </h3>
+                
+                    
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
+                            <p>By incorporating chiral molecules into conventional superconductor lattices such as TaS<sub>2</sub> to form a hybrid superlattice, non-centrosymmetry could be introduced and can be shown to help lead to unconventional superconductivity.</p>
+                        </div>
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Zhong Wan</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Gang Qiu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Xiangfeng Duan</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2024-06-26" itemprop="datePublished">26 Jun 2024</time>
+        
+        
+    </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Brain Chimeroids reveal individual susceptibility to neurotoxic triggers]]></title>
         <id>https://www.nature.com/articles/s41586-024-07578-8</id>
         <link href="https://www.nature.com/articles/s41586-024-07578-8"/>
@@ -947,58 +999,6 @@
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
     <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Peng Liu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kaushik Panda</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">R. Keith Slotkin</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2024-06-26" itemprop="datePublished">26 Jun 2024</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bridge RNAs direct programmable recombination of target and donor DNA]]></title>
-        <id>https://www.nature.com/articles/s41586-024-07552-4</id>
-        <link href="https://www.nature.com/articles/s41586-024-07552-4"/>
-        <updated>2024-06-26T17:34:24.054Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-07552-4/MediaObjects/41586_2024_7552_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07552-4/MediaObjects/41586_2024_7552_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07552-4/MediaObjects/41586_2024_7552_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-07552-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Bridge RNAs direct programmable recombination of target and donor DNA</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>A bispecific&nbsp;non-coding RNA expressed by the IS110 family of mobile genetic elements forms the basis of a programmable genome-editing system that enables the insertion, excision or inversion of specific target DNA sequences.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Matthew G. Durrant</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Nicholas T. Perry</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Patrick D. Hsu</span></li>
 </ul>
 
                 
