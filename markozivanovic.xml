@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.markozivanovic.com/</id>
     <title>Marko Zivanovic</title>
-    <updated>2024-07-12T05:35:05.371Z</updated>
+    <updated>2024-07-12T17:35:12.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.markozivanovic.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Managing High Performers]]></title>
+        <id>https://www.markozivanovic.com/managing-high-performers/</id>
+        <link href="https://www.markozivanovic.com/managing-high-performers/"/>
+        <updated>2024-07-12T17:35:03.712Z</updated>
+        <content type="html"><![CDATA[<a href="/managing-high-performers/">Managing High Performers</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low Latency Performance Management (LLPM)]]></title>
+        <id>https://www.markozivanovic.com/low-latency-performance-management-llpm/</id>
+        <link href="https://www.markozivanovic.com/low-latency-performance-management-llpm/"/>
+        <updated>2024-07-12T17:35:03.714Z</updated>
+        <content type="html"><![CDATA[<a href="/low-latency-performance-management-llpm/">Low Latency Performance Management (LLPM)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Developer Empowerment and Enablement Framework (DEEF)]]></title>
         <id>https://www.markozivanovic.com/developer-empowerment-and-enablement-framework-deef/</id>
@@ -60,19 +74,5 @@
         <link href="https://www.markozivanovic.com/some-productivity-metrics-are-evil/"/>
         <updated>2024-03-07T05:34:16.444Z</updated>
         <content type="html"><![CDATA[<a href="/some-productivity-metrics-are-evil/">Some productivity metrics are evil</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Considerate Digital Communication]]></title>
-        <id>https://www.markozivanovic.com/considerate-digital-communication/</id>
-        <link href="https://www.markozivanovic.com/considerate-digital-communication/"/>
-        <updated>2024-03-04T06:05:36.605Z</updated>
-        <content type="html"><![CDATA[<a href="/considerate-digital-communication/">Considerate Digital Communication</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual coffee with strangers]]></title>
-        <id>https://www.markozivanovic.com/virtual-coffee-with-strangers/</id>
-        <link href="https://www.markozivanovic.com/virtual-coffee-with-strangers/"/>
-        <updated>2022-08-03T05:53:23.789Z</updated>
-        <content type="html"><![CDATA[<a href="/virtual-coffee-with-strangers/">Virtual coffee with strangers</a>]]></content>
     </entry>
 </feed>
