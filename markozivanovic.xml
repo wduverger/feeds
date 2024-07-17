@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.markozivanovic.com/</id>
     <title>Marko Zivanovic</title>
-    <updated>2024-07-17T05:36:09.169Z</updated>
+    <updated>2024-07-17T17:34:40.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.markozivanovic.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Effective Communication Strategies]]></title>
+        <id>https://www.markozivanovic.com/effective-communication-strategies/</id>
+        <link href="https://www.markozivanovic.com/effective-communication-strategies/"/>
+        <updated>2024-07-17T17:34:31.556Z</updated>
+        <content type="html"><![CDATA[<a href="/effective-communication-strategies/">Effective Communication Strategies</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Managing High Performers]]></title>
         <id>https://www.markozivanovic.com/managing-high-performers/</id>
@@ -67,12 +74,5 @@
         <link href="https://www.markozivanovic.com/ill-take-it-slow-today/"/>
         <updated>2024-03-12T17:35:38.031Z</updated>
         <content type="html"><![CDATA[<a href="/ill-take-it-slow-today/">I'll take it slow today</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some productivity metrics are evil]]></title>
-        <id>https://www.markozivanovic.com/some-productivity-metrics-are-evil/</id>
-        <link href="https://www.markozivanovic.com/some-productivity-metrics-are-evil/"/>
-        <updated>2024-03-07T05:34:16.444Z</updated>
-        <content type="html"><![CDATA[<a href="/some-productivity-metrics-are-evil/">Some productivity metrics are evil</a>]]></content>
     </entry>
 </feed>
