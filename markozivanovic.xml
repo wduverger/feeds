@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.markozivanovic.com/</id>
     <title>Marko Zivanovic</title>
-    <updated>2024-11-10T05:36:48.432Z</updated>
+    <updated>2024-11-10T17:34:53.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.markozivanovic.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Setting and Managing Expectations]]></title>
+        <id>https://www.markozivanovic.com/setting-and-managing-expectations/</id>
+        <link href="https://www.markozivanovic.com/setting-and-managing-expectations/"/>
+        <updated>2024-11-10T17:34:44.427Z</updated>
+        <content type="html"><![CDATA[<a href="/setting-and-managing-expectations/">Setting and Managing Expectations</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Effective Communication Strategies]]></title>
         <id>https://www.markozivanovic.com/effective-communication-strategies/</id>
@@ -67,12 +74,5 @@
         <link href="https://www.markozivanovic.com/the-roaming-office-dont-be-that-remote-worker/"/>
         <updated>2024-03-14T17:34:31.343Z</updated>
         <content type="html"><![CDATA[<a href="/the-roaming-office-dont-be-that-remote-worker/">The roaming office: Don’t be *that* remote worker</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'll take it slow today]]></title>
-        <id>https://www.markozivanovic.com/ill-take-it-slow-today/</id>
-        <link href="https://www.markozivanovic.com/ill-take-it-slow-today/"/>
-        <updated>2024-03-12T17:35:38.031Z</updated>
-        <content type="html"><![CDATA[<a href="/ill-take-it-slow-today/">I'll take it slow today</a>]]></content>
     </entry>
 </feed>
