@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.markozivanovic.com/</id>
     <title>Marko Zivanovic</title>
-    <updated>2024-11-21T17:38:55.209Z</updated>
+    <updated>2024-11-22T05:39:58.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.markozivanovic.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Falsehoods Programmers Believe About the IT Industry]]></title>
+        <id>https://www.markozivanovic.com/falsehoods-programmers-believe-about-the-it-industry/</id>
+        <link href="https://www.markozivanovic.com/falsehoods-programmers-believe-about-the-it-industry/"/>
+        <updated>2024-11-22T05:39:49.252Z</updated>
+        <content type="html"><![CDATA[<a href="/falsehoods-programmers-believe-about-the-it-industry/">Falsehoods Programmers Believe About the IT Industry</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Setting and Managing Expectations]]></title>
         <id>https://www.markozivanovic.com/setting-and-managing-expectations/</id>
@@ -67,12 +74,5 @@
         <link href="https://www.markozivanovic.com/how-ai-personalization-fuels-groupthink-and-uniformity/"/>
         <updated>2024-05-20T17:34:51.112Z</updated>
         <content type="html"><![CDATA[<a href="/how-ai-personalization-fuels-groupthink-and-uniformity/">How AI Personalization Fuels Groupthink and Uniformity</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The roaming office: Don’t be *that* remote worker]]></title>
-        <id>https://www.markozivanovic.com/the-roaming-office-dont-be-that-remote-worker/</id>
-        <link href="https://www.markozivanovic.com/the-roaming-office-dont-be-that-remote-worker/"/>
-        <updated>2024-03-14T17:34:31.343Z</updated>
-        <content type="html"><![CDATA[<a href="/the-roaming-office-dont-be-that-remote-worker/">The roaming office: Don’t be *that* remote worker</a>]]></content>
     </entry>
 </feed>
