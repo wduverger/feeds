@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2025-01-08T05:38:15.941Z</updated>
+    <updated>2025-01-08T17:37:05.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png</icon>
     <entry>
-        <title type="html"><![CDATA[Reply to: Limitations of ice cores in reconstructing temperature seasonality]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08182-6</id>
-        <link href="https://www.nature.com/articles/s41586-024-08182-6"/>
-        <updated>2025-01-01T17:35:24.499Z</updated>
+        <title type="html"><![CDATA[Reply to: Amino acids and KLHL22 do not activate mTORC1 via DEPDC5 degradation]]></title>
+        <id>https://www.nature.com/articles/s41586-024-07975-z</id>
+        <link href="https://www.nature.com/articles/s41586-024-07975-z"/>
+        <updated>2025-01-08T17:37:00.446Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -17,12 +17,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08182-6/MediaObjects/41586_2024_8182_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08182-6/MediaObjects/41586_2024_8182_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-07975-z/MediaObjects/41586_2024_7975_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07975-z/MediaObjects/41586_2024_7975_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08182-6/MediaObjects/41586_2024_8182_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07975-z/MediaObjects/41586_2024_7975_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -30,15 +30,15 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08182-6" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Reply to: Limitations of ice cores in reconstructing temperature seasonality</a>
+                    <a href="/articles/s41586-024-07975-z" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Reply to: Amino acids and KLHL22 do not activate mTORC1 via DEPDC5 degradation</a>
                 </h3>
                 
                     
                 
                 
                     
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Tyler R. Jones</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kurt M. Cuffey</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Bradley R. Markle</span></li>
+<ul data-test="author-list" class="c-author-list c-author-list--compact">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jie Chen</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yuhui Ou</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ying Liu</span></li>
 </ul>
 
                 
@@ -48,16 +48,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Matters Arising</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Matters Arising</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Limitations of ice cores in reconstructing temperature seasonality]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08181-7</id>
-        <link href="https://www.nature.com/articles/s41586-024-08181-7"/>
-        <updated>2025-01-01T17:35:24.501Z</updated>
+        <title type="html"><![CDATA[Amino acids and KLHL22 do not activate mTORC1 via DEPDC5 degradation]]></title>
+        <id>https://www.nature.com/articles/s41586-024-07974-0</id>
+        <link href="https://www.nature.com/articles/s41586-024-07974-0"/>
+        <updated>2025-01-08T17:37:00.447Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -65,12 +65,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08181-7/MediaObjects/41586_2024_8181_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08181-7/MediaObjects/41586_2024_8181_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-07974-0/MediaObjects/41586_2024_7974_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07974-0/MediaObjects/41586_2024_7974_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08181-7/MediaObjects/41586_2024_8181_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07974-0/MediaObjects/41586_2024_7974_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -78,7 +78,7 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08181-7" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Limitations of ice cores in reconstructing temperature seasonality</a>
+                    <a href="/articles/s41586-024-07974-0" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Amino acids and KLHL22 do not activate mTORC1 via DEPDC5 degradation</a>
                 </h3>
                 
                     
@@ -86,7 +86,7 @@
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">T. Laepple</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">T. Münch</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">M. Hörhold</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Max L. Valenstein</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Pranav V. Lalgudi</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">David M. Sabatini</span></li>
 </ul>
 
                 
@@ -96,16 +96,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Matters Arising</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Matters Arising</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GaAs nano-ridge laser diodes fully fabricated in a 300-mm CMOS pilot line]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08364-2</id>
-        <link href="https://www.nature.com/articles/s41586-024-08364-2"/>
-        <updated>2025-01-01T17:35:24.501Z</updated>
+        <title type="html"><![CDATA[β-C−H bond functionalization of ketones and esters by cationic Pd complexes]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08281-4</id>
+        <link href="https://www.nature.com/articles/s41586-024-08281-4"/>
+        <updated>2025-01-08T17:37:00.447Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -113,12 +113,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08364-2/MediaObjects/41586_2024_8364_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08364-2/MediaObjects/41586_2024_8364_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08281-4/MediaObjects/41586_2024_8281_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08281-4/MediaObjects/41586_2024_8281_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08364-2/MediaObjects/41586_2024_8364_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08281-4/MediaObjects/41586_2024_8281_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -126,19 +126,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08364-2" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">GaAs nano-ridge laser diodes fully fabricated in a 300-mm CMOS pilot line</a>
+                    <a href="/articles/s41586-024-08281-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">β-C−H bond functionalization of ketones and esters by cationic Pd complexes</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>A new integration approach, nano-ridge engineering, enables electrically driven GaAs-based laser diodes to be fabricated on Si wafers in a complementary metal–oxide–semiconductor (CMOS) pilot line,&nbsp;showing potential for the integration of laser diodes in a Si photonics platform.</p>
+                            <p>Diverse methyl β-C−H functionalizations of ketones and esters&nbsp;are enabled by cationic Pd(II) complexes with MPANA ligands, offering access to spirocyclic and fused ring systems through enhanced catalyst–substrate affinity.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yannick De Koninck</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Charles Caer</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Joris Van Campenhout</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yi-Hao Li</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Nikita Chekshin</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jin-Quan Yu</span></li>
 </ul>
 
                 
@@ -148,16 +148,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bone marrow niches orchestrate stem-cell hierarchy and immune tolerance]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08352-6</id>
-        <link href="https://www.nature.com/articles/s41586-024-08352-6"/>
-        <updated>2025-01-01T17:35:24.502Z</updated>
+        <title type="html"><![CDATA[Heritable polygenic editing: the next frontier in genomic medicine?]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08300-4</id>
+        <link href="https://www.nature.com/articles/s41586-024-08300-4"/>
+        <updated>2025-01-08T17:37:00.448Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -165,12 +165,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08352-6/MediaObjects/41586_2024_8352_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08352-6/MediaObjects/41586_2024_8352_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08300-4/MediaObjects/41586_2024_8300_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08300-4/MediaObjects/41586_2024_8300_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08352-6/MediaObjects/41586_2024_8352_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08300-4/MediaObjects/41586_2024_8300_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -178,19 +178,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08352-6" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Bone marrow niches orchestrate stem-cell hierarchy and immune tolerance</a>
+                    <a href="/articles/s41586-024-08300-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Heritable polygenic editing: the next frontier in genomic medicine?</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Previously undescribed hierarchical arrangements in haematopoietic stem cells and their niches that mediate both regenerative potential and immune privilege are identified.</p>
+                            <p>We discuss the potential consequences and ethical concerns of polygenic genome editing of human embryos to alter specific variants associated with polygenic diseases, highlighting the possibility of reducing disease susceptibility while exacerbating health inequalities.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kazuhiro Furuhashi</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Miwako Kakiuchi</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Joji Fujisaki</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Peter M. Visscher</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Christopher Gyngell</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Julian Savulescu</span></li>
 </ul>
 
                 
@@ -200,16 +200,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Analysis</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upconverting microgauges reveal intraluminal force dynamics in vivo]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08331-x</id>
-        <link href="https://www.nature.com/articles/s41586-024-08331-x"/>
-        <updated>2025-01-01T17:35:24.504Z</updated>
+        <title type="html"><![CDATA[Hippocampal neuronal activity is aligned with action plans]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08397-7</id>
+        <link href="https://www.nature.com/articles/s41586-024-08397-7"/>
+        <updated>2025-01-08T17:37:00.459Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -217,12 +217,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08331-x/MediaObjects/41586_2024_8331_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08331-x/MediaObjects/41586_2024_8331_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08397-7/MediaObjects/41586_2024_8397_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08397-7/MediaObjects/41586_2024_8397_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08331-x/MediaObjects/41586_2024_8331_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08397-7/MediaObjects/41586_2024_8397_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -230,19 +230,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08331-x" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Upconverting microgauges reveal intraluminal force dynamics in vivo</a>
+                    <a href="/articles/s41586-024-08397-7" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Hippocampal neuronal activity is aligned with action plans</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Nanoparticle-based ‘microgauges’ are developed for in vivo force sensing and deployed in <i>C. elegans</i> to investigate how mechanical force correlates with electrical signalling in neuromuscular organs.</p>
+                            <p>Using high-density electrophysiological recordings, how internally generated cell assemblies are updated by action plans to meet external goals is explored.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jason R. Casar</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Claire A. McLellan</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jennifer A. Dionne</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ipshita Zutshi</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Athina Apostolelli</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">György Buzsáki</span></li>
 </ul>
 
                 
@@ -252,16 +252,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FBP1 controls liver cancer evolution from senescent MASH hepatocytes]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08317-9</id>
-        <link href="https://www.nature.com/articles/s41586-024-08317-9"/>
-        <updated>2025-01-01T17:35:24.505Z</updated>
+        <title type="html"><![CDATA[Bidirectional histone monoaminylation dynamics regulate neural rhythmicity]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08371-3</id>
+        <link href="https://www.nature.com/articles/s41586-024-08371-3"/>
+        <updated>2025-01-08T17:37:00.460Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -269,12 +269,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08317-9/MediaObjects/41586_2024_8317_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08317-9/MediaObjects/41586_2024_8317_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08371-3/MediaObjects/41586_2024_8371_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08371-3/MediaObjects/41586_2024_8371_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08317-9/MediaObjects/41586_2024_8317_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08371-3/MediaObjects/41586_2024_8371_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -282,19 +282,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08317-9" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">FBP1 controls liver cancer evolution from senescent MASH hepatocytes</a>
+                    <a href="/articles/s41586-024-08371-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Bidirectional histone monoaminylation dynamics regulate neural rhythmicity</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>The p53 target FBP1 is elevated in senescent-like metabolic-dysfunction-associated steatohepatitis hepatocytes but suppressed through promoter hypermethylation and proteasomal degradation in most human hepatocellular carcinomas.</p>
+                            <p>TG2 functions as an eraser and exchanger of H3 monoaminylations, including histaminylation of Gln5 of histone H3.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Li Gu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yahui Zhu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Michael Karin</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Qingfei Zheng</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Benjamin H. Weekley</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ian Maze</span></li>
 </ul>
 
                 
@@ -304,16 +304,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[High-resolution genomic history of early medieval Europe]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08275-2</id>
-        <link href="https://www.nature.com/articles/s41586-024-08275-2"/>
-        <updated>2025-01-01T17:35:24.506Z</updated>
+        <title type="html"><![CDATA[Janus graphene nanoribbons with localized states on a single zigzag edge]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08296-x</id>
+        <link href="https://www.nature.com/articles/s41586-024-08296-x"/>
+        <updated>2025-01-08T17:37:00.460Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -321,12 +321,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08275-2/MediaObjects/41586_2024_8275_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08275-2/MediaObjects/41586_2024_8275_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08296-x/MediaObjects/41586_2024_8296_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08296-x/MediaObjects/41586_2024_8296_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08275-2/MediaObjects/41586_2024_8275_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08296-x/MediaObjects/41586_2024_8296_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -334,19 +334,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08275-2" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">High-resolution genomic history of early medieval Europe</a>
+                    <a href="/articles/s41586-024-08296-x" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Janus graphene nanoribbons with localized states on a single zigzag edge</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Twigstats, a method for ancestry reconstruction, provides high-resolution genetic histories and movement patterns of people living in Europe during the first millennium <span>ce</span>.</p>
+                            <p>Janus graphene nanoribbons with localized states on a single zigzag edge are fabricated by introducing a topological defect array of benzene motifs on the opposite zigzag edge, to break the structural symmetry.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Leo Speidel</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Marina Silva</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Pontus Skoglund</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Shaotang Song</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yu Teng</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jiong Lu</span></li>
 </ul>
 
                 
@@ -356,16 +356,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A collicular map for touch-guided tongue control]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08339-3</id>
-        <link href="https://www.nature.com/articles/s41586-024-08339-3"/>
-        <updated>2025-01-01T17:35:24.508Z</updated>
+        <title type="html"><![CDATA[Conformational protection of molybdenum nitrogenase by Shethna protein II]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08355-3</id>
+        <link href="https://www.nature.com/articles/s41586-024-08355-3"/>
+        <updated>2025-01-08T17:37:00.461Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -373,12 +373,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08339-3/MediaObjects/41586_2024_8339_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08339-3/MediaObjects/41586_2024_8339_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08355-3/MediaObjects/41586_2024_8355_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08355-3/MediaObjects/41586_2024_8355_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08339-3/MediaObjects/41586_2024_8339_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08355-3/MediaObjects/41586_2024_8355_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -386,19 +386,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08339-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">A collicular map for touch-guided tongue control</a>
+                    <a href="/articles/s41586-024-08355-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Conformational protection of molybdenum nitrogenase by Shethna protein II</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Touch-guided tongue control in mice relies on a collicular mechanosensorimotor map, analogous to collicular visuomotor maps associated with visually guided orienting across many species.</p>
+                            <p>A small ferredoxin (Shethna protein II) of <i>Azotobacter vinelandii</i> can provide protection from O<sub>2</sub> stress that may be crucial for the maintenance of recombinant nitrogenase in food crops.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Brendan S. Ito</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yongjie Gao</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jesse H. Goldberg</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Philipp Franke</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Simon Freiberger</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Oliver Einsle</span></li>
 </ul>
 
                 
@@ -408,16 +408,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brain-wide cell-type-specific transcriptomic signatures of healthy ageing in mice]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08350-8</id>
-        <link href="https://www.nature.com/articles/s41586-024-08350-8"/>
-        <updated>2025-01-01T17:35:24.510Z</updated>
+        <title type="html"><![CDATA[A rare PRIMER cell state in plant immunity]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08383-z</id>
+        <link href="https://www.nature.com/articles/s41586-024-08383-z"/>
+        <updated>2025-01-08T17:37:00.463Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -425,12 +425,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08350-8/MediaObjects/41586_2024_8350_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08350-8/MediaObjects/41586_2024_8350_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08383-z/MediaObjects/41586_2024_8383_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08383-z/MediaObjects/41586_2024_8383_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08350-8/MediaObjects/41586_2024_8350_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08383-z/MediaObjects/41586_2024_8383_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -438,19 +438,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08350-8" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Brain-wide cell-type-specific transcriptomic signatures of healthy ageing in mice</a>
+                    <a href="/articles/s41586-024-08383-z" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">A rare PRIMER cell state in plant immunity</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>A comprehensive single-cell RNA sequencing study delineates cell-type-specific transcriptomic changes in the brain associated with normal ageing that will inform the investigation into functional changes and the interaction of ageing and disease.</p>
+                            <p>The development of a molecularly defined spatiotemporal atlas of pathogen-infected <i>Arabidopsis thaliana</i> leaves reveals specific cell states that have distinct roles in plant immunity.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kelly Jin</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Zizhen Yao</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Hongkui Zeng</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Tatsuya Nobori</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Alexander Monell</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Joseph R. Ecker</span></li>
 </ul>
 
                 
@@ -460,16 +460,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Non-Abelian lattice gauge fields in photonic synthetic frequency dimensions]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08259-2</id>
-        <link href="https://www.nature.com/articles/s41586-024-08259-2"/>
-        <updated>2025-01-01T17:35:24.512Z</updated>
+        <title type="html"><![CDATA[Satellite DNA shapes dictate pericentromere packaging in female meiosis]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08374-0</id>
+        <link href="https://www.nature.com/articles/s41586-024-08374-0"/>
+        <updated>2025-01-08T17:37:00.463Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -477,12 +477,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08259-2/MediaObjects/41586_2024_8259_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08259-2/MediaObjects/41586_2024_8259_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08374-0/MediaObjects/41586_2024_8374_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08374-0/MediaObjects/41586_2024_8374_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08259-2/MediaObjects/41586_2024_8259_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08374-0/MediaObjects/41586_2024_8374_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -490,19 +490,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08259-2" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Non-Abelian lattice gauge fields in photonic synthetic frequency dimensions</a>
+                    <a href="/articles/s41586-024-08374-0" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Satellite DNA shapes dictate pericentromere packaging in female meiosis</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Non-Abelian lattice gauge fields in photonic synthetic frequency dimensions can be used to study lattice physics in a scalable and programmable way.</p>
+                            <p>Divergent satellite DNA shapes influence architectural protein binding and chromatin organization in two mouse species so that the satellites can be packaged and centromere function maintained, mitigating the evolutionary cost of satellite DNA expansion.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Dali Cheng</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kai Wang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Shanhui Fan</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Damian Dudka</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jennine M. Dawicki-McKenna</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ben E. Black</span></li>
 </ul>
 
                 
@@ -512,16 +512,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Formation of individual stripes in a mixed-dimensional cold-atom Fermi–Hubbard system]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08270-7</id>
-        <link href="https://www.nature.com/articles/s41586-024-08270-7"/>
-        <updated>2025-01-01T17:35:24.513Z</updated>
+        <title type="html"><![CDATA[Functional evaluation and clinical classification of BRCA2 variants]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08388-8</id>
+        <link href="https://www.nature.com/articles/s41586-024-08388-8"/>
+        <updated>2025-01-08T17:37:00.464Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -529,12 +529,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08270-7/MediaObjects/41586_2024_8270_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08270-7/MediaObjects/41586_2024_8270_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08388-8/MediaObjects/41586_2024_8388_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08388-8/MediaObjects/41586_2024_8388_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08270-7/MediaObjects/41586_2024_8270_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08388-8/MediaObjects/41586_2024_8388_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -542,19 +542,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08270-7" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Formation of individual stripes in a mixed-dimensional cold-atom Fermi–Hubbard system</a>
+                    <a href="/articles/s41586-024-08388-8" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Functional evaluation and clinical classification of <i>BRCA2</i> variants</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Observations of the formation of individual stripes in a mixed-dimensional cold-atom Fermi–Hubbard quantum simulator are described, enhancing understanding of the phase diagram of high-temperature superconducting materials and the relationship between&nbsp;charge pairs and stripes.</p>
+                            <p>Results from a comprehensive evaluation of the function of <i>BRCA2</i> variants, particularly variants of uncertain significance, provide a useful resource to improve the clinical management of individuals who carry such genetic variants.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Dominik Bourgund</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Thomas Chalopin</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Timon A. Hilker</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Huaizhi Huang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Chunling Hu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Fergus J. Couch</span></li>
 </ul>
 
                 
@@ -564,16 +564,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monoallelic expression can govern penetrance of inborn errors of immunity]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08346-4</id>
-        <link href="https://www.nature.com/articles/s41586-024-08346-4"/>
-        <updated>2025-01-01T17:35:24.515Z</updated>
+        <title type="html"><![CDATA[How frictional ruptures and earthquakes nucleate and evolve]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08287-y</id>
+        <link href="https://www.nature.com/articles/s41586-024-08287-y"/>
+        <updated>2025-01-08T17:37:00.464Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -581,12 +581,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08346-4/MediaObjects/41586_2024_8346_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08346-4/MediaObjects/41586_2024_8346_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08287-y/MediaObjects/41586_2024_8287_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08287-y/MediaObjects/41586_2024_8287_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08346-4/MediaObjects/41586_2024_8346_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08287-y/MediaObjects/41586_2024_8287_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -594,19 +594,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08346-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Monoallelic expression can govern penetrance of inborn errors of immunity</a>
+                    <a href="/articles/s41586-024-08287-y" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">How frictional ruptures and earthquakes nucleate and evolve</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Somatically determined preferential allelic expression of select genes that when mutated cause inborn errors of immunity corresponds with disease phenotypes, suggesting that the penetrance and expressivity of monogenic disorders is also dependent on the ‘transcriptotype’.</p>
+                            <p>Experimental and theoretical evidence shows that incorporating finite interface widths extends fracture mechanics to include crack (and earthquake) nucleation; slow steady creep occurring at a well-defined stress threshold.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">O’Jay Stewart</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Conor Gruber</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Dusan Bogunovic</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Shahar Gvirtzman</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">David S. Kammer</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jay Fineberg</span></li>
 </ul>
 
                 
@@ -616,16 +616,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Infrared nanosensors of piconewton to micronewton forces]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08221-2</id>
-        <link href="https://www.nature.com/articles/s41586-024-08221-2"/>
-        <updated>2025-01-01T17:35:24.525Z</updated>
+        <title type="html"><![CDATA[Meta-analysis reveals global variations in plant diversity effects on productivity]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08407-8</id>
+        <link href="https://www.nature.com/articles/s41586-024-08407-8"/>
+        <updated>2025-01-08T17:37:00.466Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -633,12 +633,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08221-2/MediaObjects/41586_2024_8221_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08221-2/MediaObjects/41586_2024_8221_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08407-8/MediaObjects/41586_2024_8407_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08407-8/MediaObjects/41586_2024_8407_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08221-2/MediaObjects/41586_2024_8221_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08407-8/MediaObjects/41586_2024_8407_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -646,19 +646,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08221-2" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Infrared nanosensors of piconewton to micronewton forces</a>
+                    <a href="/articles/s41586-024-08407-8" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Meta-analysis reveals global variations in plant diversity effects on productivity</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>An avalanching-nanoparticle force sensor that can operate in the piconewton-to-micronewton range with exceptional force responsiveness is achieved by using the mechanical sensitivity of the photon-avalanching process.</p>
+                            <p>A meta-analysis of biodiversity effects on plant productivity found that complementarity effects increased over time whereas selection effects decreased, and both remained consistent across global variations in climate.</p>
                         </div>
                     
                 
                 
                     
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Natalie Fardian-Melamed</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Artiom Skripka</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">P. James Schuck</span></li>
+<ul data-test="author-list" class="c-author-list c-author-list--compact">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Chen Chen</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Wenya Xiao</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Han Y. H. Chen</span></li>
 </ul>
 
                 
@@ -668,16 +668,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dysregulation of mTOR signalling is a converging mechanism in lissencephaly]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08341-9</id>
-        <link href="https://www.nature.com/articles/s41586-024-08341-9"/>
-        <updated>2025-01-01T17:35:24.526Z</updated>
+        <title type="html"><![CDATA[Dynamic supramolecular snub cubes]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08266-3</id>
+        <link href="https://www.nature.com/articles/s41586-024-08266-3"/>
+        <updated>2025-01-08T17:37:00.467Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -685,12 +685,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08341-9/MediaObjects/41586_2024_8341_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08341-9/MediaObjects/41586_2024_8341_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08266-3/MediaObjects/41586_2024_8266_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08266-3/MediaObjects/41586_2024_8266_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08341-9/MediaObjects/41586_2024_8341_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08266-3/MediaObjects/41586_2024_8266_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -698,19 +698,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08341-9" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Dysregulation of mTOR signalling is a converging mechanism in lissencephaly</a>
+                    <a href="/articles/s41586-024-08266-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Dynamic supramolecular snub cubes</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Cellular, transcriptomic and proteomic analyses of organoids derived from human induced pluripotent stem cells show that mTOR pathway hypoactivation is involved in two genetically distinct lissencephaly spectrum disorders.</p>
+                            <p>Left- and right-handed snub cubes show photocontrollable elasticity and hardness, in addition to the ability to encapsulate&nbsp;different small molecules in distinct compartments&nbsp;simultaneously, with potential applications in the development of advanced biomimetic materials.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ce Zhang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Dan Liang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kaya Bilguvar</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Huang Wu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yu Wang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">J. Fraser Stoddart</span></li>
 </ul>
 
                 
@@ -720,16 +720,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Diversity and biogeography of the bacterial microbiome in glacier-fed streams]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08313-z</id>
-        <link href="https://www.nature.com/articles/s41586-024-08313-z"/>
-        <updated>2025-01-01T17:35:24.526Z</updated>
+        <title type="html"><![CDATA[Host metabolism balances microbial regulation of bile acid signalling]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08379-9</id>
+        <link href="https://www.nature.com/articles/s41586-024-08379-9"/>
+        <updated>2025-01-08T17:37:00.487Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -737,12 +737,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08313-z/MediaObjects/41586_2024_8313_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08313-z/MediaObjects/41586_2024_8313_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08379-9/MediaObjects/41586_2024_8379_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08379-9/MediaObjects/41586_2024_8379_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08313-z/MediaObjects/41586_2024_8313_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08379-9/MediaObjects/41586_2024_8379_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -750,19 +750,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08313-z" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Diversity and biogeography of the bacterial microbiome in glacier-fed streams</a>
+                    <a href="/articles/s41586-024-08379-9" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Host metabolism balances microbial regulation of bile acid signalling</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Leveraging metabarcoding and metagenomics, a survey of bacteria in the benthic microbiome across 152 glacier-fed streams (GFSs) provides a global reference for future climate-change microbiology studies on the vanishing GFS ecosystem.</p>
+                            <p>A family of host-derived bile acid–methylcysteamine conjugates functions as FXR antagonists, forming part of a microbiota-dependent metabolic network that regulates FXR-dependent physiology.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Leïla Ezzat</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Hannes Peter</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Tom J. Battin</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Tae Hyung Won</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Mohammad Arifuzzaman</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Frank C. Schroeder</span></li>
 </ul>
 
                 
@@ -772,16 +772,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Magnetospheric origin of a fast radio burst constrained using scintillation]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08297-w</id>
-        <link href="https://www.nature.com/articles/s41586-024-08297-w"/>
-        <updated>2025-01-01T17:35:24.526Z</updated>
+        <title type="html"><![CDATA[Li2ZrF6-based electrolytes for durable lithium metal batteries]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08294-z</id>
+        <link href="https://www.nature.com/articles/s41586-024-08294-z"/>
+        <updated>2025-01-08T17:37:00.488Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -789,12 +789,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08297-w/MediaObjects/41586_2024_8297_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08297-w/MediaObjects/41586_2024_8297_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08294-z/MediaObjects/41586_2024_8294_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08294-z/MediaObjects/41586_2024_8294_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08297-w/MediaObjects/41586_2024_8297_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08294-z/MediaObjects/41586_2024_8294_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -802,19 +802,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08297-w" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Magnetospheric origin of a fast radio burst constrained using scintillation</a>
+                    <a href="/articles/s41586-024-08294-z" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Li<sub>2</sub>ZrF<sub>6</sub>-based electrolytes for durable lithium metal batteries</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>The detection of scintillation caused by inhomogeneous plasma near a fast radio burst indicates an emission process that occurs within or just beyond the magnetosphere of a compact object.</p>
+                            <p>Adding excess <i>m</i>-Li<sub>2</sub>ZrF<sub>6</sub> (monoclinic)&nbsp;nanoparticles to a commercial LiPF<sub>6</sub>-containing carbonate electrolyte forms a stable&nbsp;interphase rich in <i>t</i>-Li<sub>2</sub>ZrF<sub>6</sub> (trigonal), enhancing Li-ion transfer, suppressing dendrite growth and considerably improving the cycling stability of high-rate lithium metal batteries.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kenzie Nimmo</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ziggy Pleunis</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ingrid H. Stairs</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Qingshuai Xu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Tan Li</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yongcai Qiu</span></li>
 </ul>
 
                 
@@ -824,16 +824,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Structural diversity of axonemes across mammalian motile cilia]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08337-5</id>
-        <link href="https://www.nature.com/articles/s41586-024-08337-5"/>
-        <updated>2025-01-01T17:35:24.526Z</updated>
+        <title type="html"><![CDATA[The sequence–structure–function relationship of intrinsic ERα disorder]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08400-1</id>
+        <link href="https://www.nature.com/articles/s41586-024-08400-1"/>
+        <updated>2025-01-08T17:37:00.493Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -841,12 +841,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08337-5/MediaObjects/41586_2024_8337_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08337-5/MediaObjects/41586_2024_8337_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08400-1/MediaObjects/41586_2024_8400_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08400-1/MediaObjects/41586_2024_8400_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08337-5/MediaObjects/41586_2024_8337_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08400-1/MediaObjects/41586_2024_8400_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -854,19 +854,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08337-5" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Structural diversity of axonemes across mammalian motile cilia</a>
+                    <a href="/articles/s41586-024-08400-1" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">The sequence–structure–function relationship of intrinsic ERα disorder</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Cryoelectron microscopy, cryoelectron tomography and proteomics are used to resolve the 96-nm modular repeat of axonemal doublet microtubules from both sperm flagella and epithelial cilia of the oviduct, brain ventricles and respiratory tract.</p>
+                            <p>Serine 118 phosphorylation drives conformational changes through the disruption of hydrophobic interactions between aromatic-rich clusters, showing how hydrophobic mutations can restore oestrogen receptor-mediated transcription.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Miguel Ricardo Leung</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Chen Sun</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Rui Zhang</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Zhanwen Du</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Han Wang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Sichun Yang</span></li>
 </ul>
 
                 
@@ -876,16 +876,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gliomagenesis mimics an injury response orchestrated by neural crest-like cells]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08356-2</id>
-        <link href="https://www.nature.com/articles/s41586-024-08356-2"/>
-        <updated>2025-01-01T17:35:24.528Z</updated>
+        <title type="html"><![CDATA[RNA control of reverse transcription in a diversity-generating retroelement]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08405-w</id>
+        <link href="https://www.nature.com/articles/s41586-024-08405-w"/>
+        <updated>2025-01-08T17:37:00.493Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -893,12 +893,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08356-2/MediaObjects/41586_2024_8356_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08356-2/MediaObjects/41586_2024_8356_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08405-w/MediaObjects/41586_2024_8405_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08405-w/MediaObjects/41586_2024_8405_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08356-2/MediaObjects/41586_2024_8356_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08405-w/MediaObjects/41586_2024_8405_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -906,19 +906,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08356-2" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Gliomagenesis mimics an injury response orchestrated by neural crest-like cells</a>
+                    <a href="/articles/s41586-024-08405-w" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">RNA control of reverse transcription in a diversity-generating retroelement</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>A study using glioblastoma mouse models, serial magnetic resonance imaging and single-cell profiling details changes in the identity and balance of cellular states from initiation of tumorigenesis to the end point.</p>
+                            <p>This study presents cryogenic electron microscopy structural analysis of a diversity-generating retroelement (DGR) reverse transcription system from <i>Bordetella</i> bacteriophage, with results indicating that RNA surrounding the template controls reverse transcription through&nbsp;mechanisms that are&nbsp;conserved across distant taxa.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Akram A. Hamed</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kui Hua</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Peter B. Dirks</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Sumit Handa</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Tapan Biswas</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Partho Ghosh</span></li>
 </ul>
 
                 
@@ -928,16 +928,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abrupt changes in biomass burning during the last glacial period]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08363-3</id>
-        <link href="https://www.nature.com/articles/s41586-024-08363-3"/>
-        <updated>2025-01-01T17:35:24.529Z</updated>
+        <title type="html"><![CDATA[Longitudinal strain enhancement and bending deformations in piezoceramics]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08292-1</id>
+        <link href="https://www.nature.com/articles/s41586-024-08292-1"/>
+        <updated>2025-01-08T17:37:00.493Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -945,12 +945,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08363-3/MediaObjects/41586_2024_8363_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08363-3/MediaObjects/41586_2024_8363_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08292-1/MediaObjects/41586_2024_8292_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08292-1/MediaObjects/41586_2024_8292_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08363-3/MediaObjects/41586_2024_8363_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08292-1/MediaObjects/41586_2024_8292_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -958,19 +958,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08363-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Abrupt changes in biomass burning during the last glacial period</a>
+                    <a href="/articles/s41586-024-08292-1" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Longitudinal strain enhancement and bending deformations in piezoceramics</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>An increase in wildfire extent and related greenhouse gas emissions can be linked to abrupt climatic changes during the last glacial period.</p>
+                            <p>We find that if the thickness of a polycrystalline piezoceramic is reduced such that a large fraction of the grains are in the triaxial–biaxal crossover regime, the longitudinal strain is enhanced and the piezoceramic bends.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ben Riddell-Young</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">James Edward Lee</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Justin Reid Clark</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Gobinda Das Adhikary</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Anil Adukkadan</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Rajeev Ranjan</span></li>
 </ul>
 
                 
@@ -980,16 +980,16 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A pulsar-like polarization angle swing from a nearby fast radio burst]]></title>
-        <id>https://www.nature.com/articles/s41586-024-08184-4</id>
-        <link href="https://www.nature.com/articles/s41586-024-08184-4"/>
-        <updated>2025-01-01T17:35:24.532Z</updated>
+        <title type="html"><![CDATA[Saturation genome editing-based clinical classification of BRCA2 variants]]></title>
+        <id>https://www.nature.com/articles/s41586-024-08349-1</id>
+        <link href="https://www.nature.com/articles/s41586-024-08349-1"/>
+        <updated>2025-01-08T17:37:00.494Z</updated>
         <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
             
                 
@@ -997,12 +997,12 @@
                         <div class="c-card__image">
                             <picture>
                                 <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08184-4/MediaObjects/41586_2024_8184_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08184-4/MediaObjects/41586_2024_8184_Fig1_HTML.png?as=webp 290w" sizes="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-024-08349-1/MediaObjects/41586_2024_8349_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08349-1/MediaObjects/41586_2024_8349_Fig1_HTML.png?as=webp 290w" sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08184-4/MediaObjects/41586_2024_8184_Fig1_HTML.png" alt="" itemprop="image">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08349-1/MediaObjects/41586_2024_8349_Fig1_HTML.png" alt="" itemprop="image">
                             </picture>
                         </div>
                     
@@ -1010,19 +1010,19 @@
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-024-08184-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">A pulsar-like polarization angle swing from a nearby fast radio burst</a>
+                    <a href="/articles/s41586-024-08349-1" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Saturation genome editing-based clinical classification of <i>BRCA2</i> variants</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>FRB 20221022A, detected by the Canadian Hydrogen Intensity Mapping Experiment Fast Radio Burst project, shows a pronounced change in polarization during the burst, providing important clues into the nature of the source.</p>
+                            <p>CRISPR–Cas9-based saturation genome editing in a humanized mouse embryonic stem cell line was used for comprehensive functional characterization of single nucleotide variants in a region of <i>BRCA2</i>, and shows good agreement with existing variant classifications and high predictive power.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ryan Mckinven</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Mohit Bhardwaj</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kendrick Smith</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Sounak Sahu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Melissa Galloux</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Shyam K. Sharan</span></li>
 </ul>
 
                 
@@ -1032,7 +1032,7 @@
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-01" itemprop="datePublished">01 Jan 2025</time>
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-01-08" itemprop="datePublished">08 Jan 2025</time>
         
         
     </div>]]></content>
