@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2025-01-17T05:37:26.126Z</updated>
+    <updated>2025-01-17T17:37:50.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png</icon>
     <entry>
@@ -21,10 +21,6 @@
                     <a href="/articles/s41586-025-08628-5" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">A generative model for inorganic materials design</a>
                 </h3>
                 
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>XXX.</p>
-                        </div>
                     
                 
                 
