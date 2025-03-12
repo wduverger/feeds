@@ -2,9 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2025-03-11T05:38:28.471Z</updated>
+    <updated>2025-03-12T05:39:00.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Complex water networks visualized by cryogenic electron microscopy of RNA]]></title>
+        <id>https://www.nature.com/articles/s41586-025-08855-w</id>
+        <link href="https://www.nature.com/articles/s41586-025-08855-w"/>
+        <updated>2025-03-12T05:38:54.929Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-025-08855-w" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Complex water networks visualized by cryogenic electron microscopy of RNA</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Rachael C. Kretsch</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Shanshan Li</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Wah Chiu</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-03-11" itemprop="datePublished">11 Mar 2025</time>
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sensing ceramides by CYSLTR2 and P2RY6 to aggravate atherosclerosis]]></title>
         <id>https://www.nature.com/articles/s41586-025-08792-8</id>
@@ -973,58 +1009,6 @@
             
     <div class="c-card__section c-meta">
         <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" itemprop="openAccess" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-03-05" itemprop="datePublished">05 Mar 2025</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genome duplication in a long-term multicellularity evolution experiment]]></title>
-        <id>https://www.nature.com/articles/s41586-025-08689-6</id>
-        <link href="https://www.nature.com/articles/s41586-025-08689-6"/>
-        <updated>2025-03-05T17:39:14.298Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-025-08689-6/MediaObjects/41586_2025_8689_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08689-6/MediaObjects/41586_2025_8689_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08689-6/MediaObjects/41586_2025_8689_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-025-08689-6" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Genome duplication in a long-term multicellularity evolution experiment</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>In the Multicellularity Long Term Evolution Experiment, diploid yeast evolve to be tetraploid under selection for larger multicellular size, revealing how whole-genome duplication can arise due to its immediate benefits, persist under selection, and fuel long-term innovations via aneuploidy.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="c-author-list c-author-list--compact c-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kai Tong</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Sayantan Datta</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">William C. Ratcliff</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-03-05" itemprop="datePublished">05 Mar 2025</time>
         
         
     </div>]]></content>
