@@ -1,6 +1,13 @@
 [default]
 timeout=30
 
+[gezondheidenwetenschap.be]
+title = "Gezondheid en Wetenschap - Fact Checks"
+url = "https://www.gezondheidenwetenschap.be/gezondheid-in-de-media"
+entrySelector = "div.searchHeadline"
+titleSelector = "a"
+linkSelector = "a"
+
 [cortexfutura]
 title = "Cortex Futura"
 url = "https://www.cortexfutura.com/articles/"
