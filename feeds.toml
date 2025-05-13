@@ -1,7 +1,7 @@
 [default]
 timeout=30
 
-[gezondheidenwetenschap.be]
+[gezondheidenwetenschap]
 title = "Gezondheid en Wetenschap - Fact Checks"
 url = "https://www.gezondheidenwetenschap.be/gezondheid-in-de-media"
 entrySelector = "div.searchHeadline"
