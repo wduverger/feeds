@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wduverger.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-16T05:44:03.338Z</updated>
+    <updated>2025-06-16T17:41:33.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[16 jun 2025 Onduidelijk of populaire afslankmedicatie de werking van de pil vermindert (Gezondheid en Wetenschap - Fact Checks)]]></title>
+        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/onduidelijk-of-populaire-afslankmedicatie-de-werking-van-de-pil-vermindert</id>
+        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/onduidelijk-of-populaire-afslankmedicatie-de-werking-van-de-pil-vermindert"/>
+        <updated>2025-06-16T17:41:15.336Z</updated>
+        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/onduidelijk-of-populaire-afslankmedicatie-de-werking-van-de-pil-vermindert"> <span>16 jun 2025</span> Onduidelijk of populaire afslankmedicatie de werking van de pil vermindert </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12 jun 2025 Mannen lopen meer risico op kanker dan vrouwen (Gezondheid en Wetenschap - Fact Checks)]]></title>
         <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/mannen-lopen-meer-risico-op-kanker-dan-vrouwen</id>
@@ -418,13 +425,6 @@
         <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/smeer-geen-eiwit-op-een-brandwonde"> <span>30 jan 2025</span> Smeer geen eiwit op een brandwonde </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[29 jan 2025 Onderzoek vindt verband tussen hobby en mentale gezondheid (Gezondheid en Wetenschap - Fact Checks)]]></title>
-        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/onderzoek-vindt-verband-tussen-hobby-en-mentale-gezondheid</id>
-        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/onderzoek-vindt-verband-tussen-hobby-en-mentale-gezondheid"/>
-        <updated>2025-05-13T19:01:04.994Z</updated>
-        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/onderzoek-vindt-verband-tussen-hobby-en-mentale-gezondheid"> <span>29 jan 2025</span> Onderzoek vindt verband tussen hobby en mentale gezondheid </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[04 jun 2025 Factcheck: Niet praten over zelfdoding vergroot het risico (Gezondheid en Wetenschap - Fact Checks)]]></title>
         <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/niet-praten-over-zelfdoding-vergroot-het-risico</id>
         <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/niet-praten-over-zelfdoding-vergroot-het-risico"/>
@@ -703,6 +703,42 @@
         <link href="https://www.markozivanovic.com/how-ai-personalization-fuels-groupthink-and-uniformity/"/>
         <updated>2024-05-20T17:34:51.112Z</updated>
         <content type="html"><![CDATA[<a href="/how-ai-personalization-fuels-groupthink-and-uniformity/">How AI Personalization Fuels Groupthink and Uniformity</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryo-EM structure of a natural RNA nanocage (Nature - research articles)]]></title>
+        <id>https://www.nature.com/articles/s41586-025-09262-x</id>
+        <link href="https://www.nature.com/articles/s41586-025-09262-x"/>
+        <updated>2025-06-16T17:41:28.696Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-025-09262-x" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Cryo-EM structure of a natural RNA nanocage</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Xiaobin Ling</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Dmitrij Golovenko</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Wenwen Fang</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-06-16" itemprop="datePublished">16 Jun 2025</time>
+        
+        
+    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[An instantaneous voice-synthesis neuroprosthesis (Nature - research articles)]]></title>
@@ -1693,62 +1729,10 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Metabolic adaptations direct cell fate during tissue regeneration (Nature - research articles)]]></title>
-        <id>https://www.nature.com/articles/s41586-025-09097-6</id>
-        <link href="https://www.nature.com/articles/s41586-025-09097-6"/>
-        <updated>2025-06-11T17:42:13.741Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-025-09097-6/MediaObjects/41586_2025_9097_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09097-6/MediaObjects/41586_2025_9097_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09097-6/MediaObjects/41586_2025_9097_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-025-09097-6" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Metabolic adaptations direct cell fate during tissue regeneration</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Metabolic enzymes of the tricarboxylic acid cycle, such as 2-oxoglutarate dehydrogenase, are differentially expressed in absorptive and secretory lineages, guiding cell fate establishment and offering insights for targeted regenerative therapies.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Almudena Chaves-Perez</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Scott E. Millman</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Scott W. Lowe</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-06-11" itemprop="datePublished">11 Jun 2025</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Plotting Fluorescent Spectra (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2025-06-16T05:44:00.218Z</updated>
+        <updated>2025-06-16T17:41:31.398Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Plotting Fluorescent Spectra
 </h5>
@@ -1782,7 +1766,7 @@ Sep 3, 2022
         <title type="html"><![CDATA[Interactively Visualising Proteins (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2025-06-16T05:44:00.219Z</updated>
+        <updated>2025-06-16T17:41:31.399Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Interactively Visualising Proteins
 </h5>
@@ -1813,7 +1797,7 @@ Feb 15, 2021
         <title type="html"><![CDATA[Visualising Global Rubbish (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2025-06-16T05:44:00.221Z</updated>
+        <updated>2025-06-16T17:41:31.401Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Visualising Global Rubbish
 </h5>
@@ -1844,7 +1828,7 @@ Jan 31, 2021
         <title type="html"><![CDATA[R for Biologists (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2025-06-16T05:44:00.224Z</updated>
+        <updated>2025-06-16T17:41:31.404Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 R for Biologists
 </h5>
@@ -1872,7 +1856,7 @@ Jul 7, 2020
         <title type="html"><![CDATA[Praise for pdb-tools (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2025-06-16T05:44:00.226Z</updated>
+        <updated>2025-06-16T17:41:31.406Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Praise for <code>pdb-tools</code>
 </h5>
@@ -1903,7 +1887,7 @@ Jun 9, 2020
         <title type="html"><![CDATA[Blender for Biochemists. (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2025-06-16T05:44:00.228Z</updated>
+        <updated>2025-06-16T17:41:31.408Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Blender for Biochemists.
 </h5>
@@ -1937,7 +1921,7 @@ May 6, 2020
         <title type="html"><![CDATA[Rendering around crashes with Animation Nodes (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2025-06-16T05:44:00.229Z</updated>
+        <updated>2025-06-16T17:41:31.409Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Rendering around crashes with Animation Nodes
 </h5>
@@ -1968,7 +1952,7 @@ Apr 5, 2020
         <title type="html"><![CDATA[GFP as a Hat (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2025-06-16T05:44:00.230Z</updated>
+        <updated>2025-06-16T17:41:31.411Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 GFP as a Hat
 </h5>
