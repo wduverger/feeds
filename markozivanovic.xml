@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.markozivanovic.com/</id>
     <title>Marko Zivanovic</title>
-    <updated>2025-06-26T05:43:34.295Z</updated>
+    <updated>2025-06-26T17:41:07.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.markozivanovic.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Coders Code, AI Codes Faster. Developers Still Matter.]]></title>
+        <id>https://www.markozivanovic.com/coders-code-ai-codes-faster.-developers-still-matter./</id>
+        <link href="https://www.markozivanovic.com/coders-code-ai-codes-faster.-developers-still-matter./"/>
+        <updated>2025-06-26T17:40:58.994Z</updated>
+        <content type="html"><![CDATA[<a href="/coders-code-ai-codes-faster.-developers-still-matter./">Coders Code, AI Codes Faster. Developers Still Matter.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Falsehoods Programmers Believe About the IT Industry]]></title>
         <id>https://www.markozivanovic.com/falsehoods-programmers-believe-about-the-it-industry/</id>
@@ -67,12 +74,5 @@
         <link href="https://www.markozivanovic.com/minimally-defined-development-processes-mddp/"/>
         <updated>2024-06-08T17:34:05.090Z</updated>
         <content type="html"><![CDATA[<a href="/minimally-defined-development-processes-mddp/">Minimally Defined Development Processes (MDDP)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Personalization Fuels Groupthink and Uniformity]]></title>
-        <id>https://www.markozivanovic.com/how-ai-personalization-fuels-groupthink-and-uniformity/</id>
-        <link href="https://www.markozivanovic.com/how-ai-personalization-fuels-groupthink-and-uniformity/"/>
-        <updated>2024-05-20T17:34:51.112Z</updated>
-        <content type="html"><![CDATA[<a href="/how-ai-personalization-fuels-groupthink-and-uniformity/">How AI Personalization Fuels Groupthink and Uniformity</a>]]></content>
     </entry>
 </feed>
