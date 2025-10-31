@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2025-10-30T17:42:53.006Z</updated>
+    <updated>2025-10-31T05:42:34.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png</icon>
     <entry>
@@ -27,6 +27,42 @@
                     
 <ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
     <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">F. Miozzi</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">A. Shahar</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">J. Badro</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-10-30" itemprop="datePublished">30 Oct 2025</time>
+        
+        
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nanotyrannus and Tyrannosaurus coexisted at the close of the Cretaceous]]></title>
+        <id>https://www.nature.com/articles/s41586-025-09801-6</id>
+        <link href="https://www.nature.com/articles/s41586-025-09801-6"/>
+        <updated>2025-10-31T05:42:28.753Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-025-09801-6" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link"><i>Nanotyrannus</i> and <i>Tyrannosaurus</i> coexisted at the close of the Cretaceous</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="app-author-list app-author-list--compact">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Lindsay E. Zanno</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">James G. Napoli</span></li>
 </ul>
 
                 
@@ -921,58 +957,6 @@
             
     <div class="c-card__section c-meta">
         <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-10-29" itemprop="datePublished">29 Oct 2025</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-omic profiling reveals age-related immune dynamics in healthy adults]]></title>
-        <id>https://www.nature.com/articles/s41586-025-09686-5</id>
-        <link href="https://www.nature.com/articles/s41586-025-09686-5"/>
-        <updated>2025-10-29T17:42:20.013Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-025-09686-5/MediaObjects/41586_2025_9686_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09686-5/MediaObjects/41586_2025_9686_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09686-5/MediaObjects/41586_2025_9686_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-025-09686-5" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Multi-omic profiling reveals age-related immune dynamics in healthy adults</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>This multi-omic longitudinal analysis of the healthy&nbsp;human peripheral immune system constructs the Human Immune Health Atlas and&nbsp;assembles data on immune cell composition and state changes with age, including responses to cytomegalovirus infection and influenza vaccination.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Qiuyu Gong</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Mehul Sharma</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Claire E. Gustafson</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2025-10-29" itemprop="datePublished">29 Oct 2025</time>
         
         
     </div>]]></content>
