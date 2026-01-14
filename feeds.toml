@@ -56,3 +56,10 @@ url = "https://www.zimmo.be/nl/zoeken/?search=eyJmaWx0ZXIiOnsic3RhdHVzIjp7ImluIj
 entrySelector = ".property-item"
 titleSelector = ".property-item_address"
 linkselector = "a"
+
+[iqvia]
+title = "IQVIA"
+url = "https://www.iqvia.com/locations/united-states/blogs"
+entrySelector = "div.coveo-card-layout"
+linkSelector = "a"
+titleSelector = "div.card_content"
