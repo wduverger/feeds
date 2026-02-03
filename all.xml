@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wduverger.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-02-03T06:09:40.261Z</updated>
+    <updated>2026-02-03T18:10:47.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[03 feb 2026 Een avondtype kan een ochtendmens worden (Gezondheid en Wetenschap - Fact Checks)]]></title>
+        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/een-avondtype-kan-een-ochtendmens-worden</id>
+        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/een-avondtype-kan-een-ochtendmens-worden"/>
+        <updated>2026-02-03T18:10:26.483Z</updated>
+        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/een-avondtype-kan-een-ochtendmens-worden"> <span>03 feb 2026</span> Een avondtype kan een ochtendmens worden </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[29 jan 2026 Bottenbouillon is geen wondermiddel, maar een gezond tussendoortje (Gezondheid en Wetenschap - Fact Checks)]]></title>
         <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/bottenbouillon-is-geen-wondermiddel-maar-een-gezond-tussendoortje</id>
@@ -418,13 +425,6 @@
         <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/paracetamol-nemen-tijdens-de-zwangerschap-veroorzaakt-geen-autisme"> <span>10 sep 2025</span> Paracetamol nemen tijdens de zwangerschap veroorzaakt geen autisme </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[09 sep 2025 Depressie wordt niet veroorzaakt door een tekort aan serotonine (Gezondheid en Wetenschap - Fact Checks)]]></title>
-        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/depressie-wordt-niet-veroorzaakt-door-een-tekort-aan-serotonine</id>
-        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/depressie-wordt-niet-veroorzaakt-door-een-tekort-aan-serotonine"/>
-        <updated>2025-09-09T17:37:04.784Z</updated>
-        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/depressie-wordt-niet-veroorzaakt-door-een-tekort-aan-serotonine"> <span>09 sep 2025</span> Depressie wordt niet veroorzaakt door een tekort aan serotonine </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Coders Code, AI Codes Faster. Developers Still Matter. (Marko Zivanovic)]]></title>
         <id>https://www.markozivanovic.com/coders-code-ai-codes-faster.-developers-still-matter./</id>
         <link href="https://www.markozivanovic.com/coders-code-ai-codes-faster.-developers-still-matter./"/>
@@ -493,6 +493,42 @@
         <link href="https://www.markozivanovic.com/minimally-defined-development-processes-mddp/"/>
         <updated>2024-06-08T17:34:05.090Z</updated>
         <content type="html"><![CDATA[<a href="/minimally-defined-development-processes-mddp/">Minimally Defined Development Processes (MDDP)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ontogeny and transcriptional regulation of Thetis cells (Nature - research articles)]]></title>
+        <id>https://www.nature.com/articles/s41586-026-10198-z</id>
+        <link href="https://www.nature.com/articles/s41586-026-10198-z"/>
+        <updated>2026-02-03T18:10:37.080Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-026-10198-z" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Ontogeny and transcriptional regulation of Thetis cells</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yoselin A. Paucar Iza</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Tyler Park</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Chrysothemis C. Brown</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-02-03" itemprop="datePublished">03 Feb 2026</time>
+        
+        
+    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A broadly protective antibody targeting gammaherpesvirus gB (Nature - research articles)]]></title>
@@ -1451,62 +1487,10 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PAF15–PCNA exhaustion governs the strand-specific control of DNA replication (Nature - research articles)]]></title>
-        <id>https://www.nature.com/articles/s41586-025-10011-3</id>
-        <link href="https://www.nature.com/articles/s41586-025-10011-3"/>
-        <updated>2026-01-28T17:54:33.964Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-025-10011-3/MediaObjects/41586_2025_10011_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-10011-3/MediaObjects/41586_2025_10011_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-10011-3/MediaObjects/41586_2025_10011_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-025-10011-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">PAF15–PCNA exhaustion governs the strand-specific control of DNA replication</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>PCNA–PAF15 has a key role in determining replisome dynamics during genome replication and protecting against genome instability.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Gita Chhetri</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Sugith Babu Badugu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Kumar Somyajit</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-01-28" itemprop="datePublished">28 Jan 2026</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Plotting Fluorescent Spectra (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-03T06:09:32.977Z</updated>
+        <updated>2026-02-03T18:10:40.350Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Plotting Fluorescent Spectra
 </h5>
@@ -1537,7 +1521,7 @@ Sep 3, 2022
         <title type="html"><![CDATA[Interactively Visualising Proteins (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-03T06:09:32.978Z</updated>
+        <updated>2026-02-03T18:10:40.353Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Interactively Visualising Proteins
 </h5>
@@ -1566,7 +1550,7 @@ Feb 15, 2021
         <title type="html"><![CDATA[Visualising Global Rubbish (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-03T06:09:32.979Z</updated>
+        <updated>2026-02-03T18:10:40.355Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Visualising Global Rubbish
 </h5>
@@ -1595,7 +1579,7 @@ Jan 31, 2021
         <title type="html"><![CDATA[R for Biologists (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-03T06:09:32.981Z</updated>
+        <updated>2026-02-03T18:10:40.356Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 R for Biologists
 </h5>
@@ -1622,7 +1606,7 @@ Jul 7, 2020
         <title type="html"><![CDATA[Praise for pdb-tools (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-03T06:09:32.983Z</updated>
+        <updated>2026-02-03T18:10:40.358Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Praise for <code>pdb-tools</code>
 </h5>
@@ -1651,7 +1635,7 @@ Jun 9, 2020
         <title type="html"><![CDATA[Blender for Biochemists. (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-03T06:09:32.984Z</updated>
+        <updated>2026-02-03T18:10:40.361Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Blender for Biochemists.
 </h5>
@@ -1682,7 +1666,7 @@ May 6, 2020
         <title type="html"><![CDATA[Rendering around crashes with Animation Nodes (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-03T06:09:32.986Z</updated>
+        <updated>2026-02-03T18:10:40.362Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Rendering around crashes with Animation Nodes
 </h5>
@@ -1711,7 +1695,7 @@ Apr 5, 2020
         <title type="html"><![CDATA[GFP as a Hat (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-03T06:09:32.987Z</updated>
+        <updated>2026-02-03T18:10:40.364Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 GFP as a Hat
 </h5>
