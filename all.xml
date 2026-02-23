@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wduverger.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-02-22T17:49:15.227Z</updated>
+    <updated>2026-02-23T06:39:37.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[23 feb 2026 Extra testosteron: meer spiervolume en gekrompen teelballen (Gezondheid en Wetenschap - Fact Checks)]]></title>
+        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/extra-testosteron-meer-spiervolume-en-gekrompen-teelballen</id>
+        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/extra-testosteron-meer-spiervolume-en-gekrompen-teelballen"/>
+        <updated>2026-02-23T06:39:17.366Z</updated>
+        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/extra-testosteron-meer-spiervolume-en-gekrompen-teelballen"> <span>23 feb 2026</span> Extra testosteron: meer spiervolume en gekrompen teelballen </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[18 feb 2026 Pleisters van LifeWave zijn nutteloos (Gezondheid en Wetenschap - Fact Checks)]]></title>
         <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/pleisters-van-lifewave-zijn-nutteloos</id>
@@ -418,17 +425,10 @@
         <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/corona-en-griep-samen-doormaken-is-gevaarlijk-overweeg-vaccinatie"> <span>30 sep 2025</span> Corona en griep samen doormaken is gevaarlijk, overweeg vaccinatie </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[29 sep 2025 Laxeermiddelen maken je darmen niet lui (Gezondheid en Wetenschap - Fact Checks)]]></title>
-        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/laxeermiddelen-maken-je-darmen-niet-lui</id>
-        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/laxeermiddelen-maken-je-darmen-niet-lui"/>
-        <updated>2025-09-29T05:39:22.429Z</updated>
-        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/laxeermiddelen-maken-je-darmen-niet-lui"> <span>29 sep 2025</span> Laxeermiddelen maken je darmen niet lui </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Plotting Fluorescent Spectra (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-22T17:49:08.024Z</updated>
+        <updated>2026-02-23T06:39:30.502Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Plotting Fluorescent Spectra
 </h5>
@@ -459,7 +459,7 @@ Sep 3, 2022
         <title type="html"><![CDATA[Interactively Visualising Proteins (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-22T17:49:08.025Z</updated>
+        <updated>2026-02-23T06:39:30.503Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Interactively Visualising Proteins
 </h5>
@@ -488,7 +488,7 @@ Feb 15, 2021
         <title type="html"><![CDATA[Visualising Global Rubbish (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-22T17:49:08.027Z</updated>
+        <updated>2026-02-23T06:39:30.506Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Visualising Global Rubbish
 </h5>
@@ -517,7 +517,7 @@ Jan 31, 2021
         <title type="html"><![CDATA[R for Biologists (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-22T17:49:08.032Z</updated>
+        <updated>2026-02-23T06:39:30.508Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 R for Biologists
 </h5>
@@ -544,7 +544,7 @@ Jul 7, 2020
         <title type="html"><![CDATA[Praise for pdb-tools (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-22T17:49:08.033Z</updated>
+        <updated>2026-02-23T06:39:30.508Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Praise for <code>pdb-tools</code>
 </h5>
@@ -573,7 +573,7 @@ Jun 9, 2020
         <title type="html"><![CDATA[Blender for Biochemists. (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-22T17:49:08.034Z</updated>
+        <updated>2026-02-23T06:39:30.510Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Blender for Biochemists.
 </h5>
@@ -604,7 +604,7 @@ May 6, 2020
         <title type="html"><![CDATA[Rendering around crashes with Animation Nodes (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-22T17:49:08.036Z</updated>
+        <updated>2026-02-23T06:39:30.511Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Rendering around crashes with Animation Nodes
 </h5>
@@ -633,7 +633,7 @@ Apr 5, 2020
         <title type="html"><![CDATA[GFP as a Hat (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-02-22T17:49:08.037Z</updated>
+        <updated>2026-02-23T06:39:30.512Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 GFP as a Hat
 </h5>
