@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wduverger.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-02T06:10:28.412Z</updated>
+    <updated>2026-03-02T18:02:57.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[25 feb 2026 Lopen we straks risico op chikungunya in België? (Gezondheid en Wetenschap - Fact Checks)]]></title>
@@ -423,6 +423,42 @@
         <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/beroerte-trombose-herseninfarct-cva-of-hersenbloeding"/>
         <updated>2025-10-08T17:39:34.082Z</updated>
         <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/beroerte-trombose-herseninfarct-cva-of-hersenbloeding"> <span>08 okt 2025</span> Beroerte, trombose, herseninfarct, CVA of hersenbloeding? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BCDX2–CX3 and DX2–CX3 complexes assemble and stabilize RAD51 filaments (Nature - research articles)]]></title>
+        <id>https://www.nature.com/articles/s41586-026-10314-z</id>
+        <link href="https://www.nature.com/articles/s41586-026-10314-z"/>
+        <updated>2026-03-02T18:02:46.304Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-026-10314-z" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">BCDX2–CX3 and DX2–CX3 complexes assemble and stabilize RAD51 filaments</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Christopher W. Koo</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jiaqi Xiao</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Stanislau Yatskevich</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-03-02" itemprop="datePublished">02 Mar 2026</time>
+        
+        
+    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reply to: Limitations of probing field-induced response with STM (Nature - research articles)]]></title>
@@ -1405,62 +1441,10 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coral microbiomes as reservoirs of unknown genomic and biosynthetic diversity (Nature - research articles)]]></title>
-        <id>https://www.nature.com/articles/s41586-026-10159-6</id>
-        <link href="https://www.nature.com/articles/s41586-026-10159-6"/>
-        <updated>2026-02-27T17:58:53.322Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-026-10159-6/MediaObjects/41586_2026_10159_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10159-6/MediaObjects/41586_2026_10159_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10159-6/MediaObjects/41586_2026_10159_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-026-10159-6" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Coral microbiomes as reservoirs of unknown genomic and biosynthetic diversity</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Reconstructing microbial genomes from 820 reef-building corals collected at 99 reefs across 32 islands throughout the Pacific Ocean highlights the importance of conserving coral reefs as vital reservoirs of molecular diversity.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Fabienne Wiederkehr</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Lucas Paoli</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Shinichi Sunagawa</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-02-25" itemprop="datePublished">25 Feb 2026</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Plotting Fluorescent Spectra (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-03-02T06:10:21.918Z</updated>
+        <updated>2026-03-02T18:02:49.490Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Plotting Fluorescent Spectra
 </h5>
@@ -1491,7 +1475,7 @@ Sep 3, 2022
         <title type="html"><![CDATA[Interactively Visualising Proteins (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-03-02T06:10:21.922Z</updated>
+        <updated>2026-03-02T18:02:49.491Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Interactively Visualising Proteins
 </h5>
@@ -1520,7 +1504,7 @@ Feb 15, 2021
         <title type="html"><![CDATA[Visualising Global Rubbish (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-03-02T06:10:21.923Z</updated>
+        <updated>2026-03-02T18:02:49.492Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Visualising Global Rubbish
 </h5>
@@ -1549,7 +1533,7 @@ Jan 31, 2021
         <title type="html"><![CDATA[R for Biologists (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-03-02T06:10:21.926Z</updated>
+        <updated>2026-03-02T18:02:49.494Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 R for Biologists
 </h5>
@@ -1576,7 +1560,7 @@ Jul 7, 2020
         <title type="html"><![CDATA[Praise for pdb-tools (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-03-02T06:10:21.927Z</updated>
+        <updated>2026-03-02T18:02:49.495Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Praise for <code>pdb-tools</code>
 </h5>
@@ -1605,7 +1589,7 @@ Jun 9, 2020
         <title type="html"><![CDATA[Blender for Biochemists. (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-03-02T06:10:21.930Z</updated>
+        <updated>2026-03-02T18:02:49.497Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Blender for Biochemists.
 </h5>
@@ -1636,7 +1620,7 @@ May 6, 2020
         <title type="html"><![CDATA[Rendering around crashes with Animation Nodes (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-03-02T06:10:21.932Z</updated>
+        <updated>2026-03-02T18:02:49.498Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Rendering around crashes with Animation Nodes
 </h5>
@@ -1665,7 +1649,7 @@ Apr 5, 2020
         <title type="html"><![CDATA[GFP as a Hat (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-03-02T06:10:21.935Z</updated>
+        <updated>2026-03-02T18:02:49.500Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 GFP as a Hat
 </h5>
