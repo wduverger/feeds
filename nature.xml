@@ -2,9 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2026-03-16T06:50:55.279Z</updated>
+    <updated>2026-03-16T18:13:18.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Direct conversion from alkenes to alkynes]]></title>
+        <id>https://www.nature.com/articles/s41586-026-10372-3</id>
+        <link href="https://www.nature.com/articles/s41586-026-10372-3"/>
+        <updated>2026-03-16T18:13:09.192Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-026-10372-3" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Direct conversion from alkenes to alkynes</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Junhong Meng</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yiqi Liang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ning Jiao</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-03-16" itemprop="datePublished">16 Mar 2026</time>
+        
+        
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insulin resistance prediction from wearables and routine blood biomarkers]]></title>
+        <id>https://www.nature.com/articles/s41586-026-10179-2</id>
+        <link href="https://www.nature.com/articles/s41586-026-10179-2"/>
+        <updated>2026-03-16T18:13:09.192Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                        <div class="c-card__image">
+                            <picture>
+                                <source type="image/webp" srcset="
+                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-026-10179-2/MediaObjects/41586_2026_10179_Fig1_HTML.png?as=webp 160w,
+                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10179-2/MediaObjects/41586_2026_10179_Fig1_HTML.png?as=webp 290w" sizes="
+                                    (max-width: 640px) 160px,
+                                    (max-width: 1200px) 290px,
+                                    290px">
+                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10179-2/MediaObjects/41586_2026_10179_Fig1_HTML.png" alt="" itemprop="image">
+                            </picture>
+                        </div>
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-026-10179-2" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Insulin resistance prediction from wearables and routine blood biomarkers</a>
+                </h3>
+                
+                    
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
+                            <p>A machine-learning model that integrates data from wearable devices (such as smartwatches) with blood biomarkers and demographic data can predict whether someone has insulin resistance, enabling timely lifestyle interventions to prevent progression to type 2 diabetes.</p>
+                        </div>
+                    
+                
+                
+                    
+<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ahmed A. Metwally</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">A. Ali Heydari</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Javier L. Prieto</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-03-16" itemprop="datePublished">16 Mar 2026</time>
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The dynamic basis of G-protein recognition and activation by a GPCR]]></title>
         <id>https://www.nature.com/articles/s41586-026-10228-w</id>
@@ -937,110 +1025,6 @@
             
     <div class="c-card__section c-meta">
         <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-03-11" itemprop="datePublished">11 Mar 2026</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Risk-adaptive therapy guided by dynamic ctDNA in nasopharyngeal carcinoma]]></title>
-        <id>https://www.nature.com/articles/s41586-026-10244-w</id>
-        <link href="https://www.nature.com/articles/s41586-026-10244-w"/>
-        <updated>2026-03-11T18:07:20.597Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-026-10244-w/MediaObjects/41586_2026_10244_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10244-w/MediaObjects/41586_2026_10244_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10244-w/MediaObjects/41586_2026_10244_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-026-10244-w" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Risk-adaptive therapy guided by dynamic ctDNA in nasopharyngeal carcinoma</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>A clinical trial testing whether monitoring ctDNA clearance during treatment for nasopharyngeal cancer could be used to inform decisions about an individual’s subsequent therapeutic programme shows promising results.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jiawei Lv</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Dan-Xue Zheng</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ying Sun</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-03-11" itemprop="datePublished">11 Mar 2026</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gene conversion empowers natural selection in a clonal fish species]]></title>
-        <id>https://www.nature.com/articles/s41586-026-10180-9</id>
-        <link href="https://www.nature.com/articles/s41586-026-10180-9"/>
-        <updated>2026-03-11T18:07:20.598Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-026-10180-9/MediaObjects/41586_2026_10180_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10180-9/MediaObjects/41586_2026_10180_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10180-9/MediaObjects/41586_2026_10180_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-026-10180-9" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Gene conversion empowers natural selection in a clonal fish species</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Analysis of the asexually reproducing Amazon molly <i>Poecilia formosa</i> and its sexually reproducing progenitors <i>Poecilia mexicana</i> and <i>Poecilia latipinna</i> reveals that it maintains a divergent mutational landscape and has evaded functional mutational decay via gene conversion.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Edward S. Ricemeyer</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Nathan K. Schaefer</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Wesley C. Warren</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-03-11" itemprop="datePublished">11 Mar 2026</time>
         
         
     </div>]]></content>
