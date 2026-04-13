@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wduverger.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-04-12T17:58:18.736Z</updated>
+    <updated>2026-04-13T07:26:23.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[13 apr 2026 Neuraaltherapie werkt niet voor aanslepende klachten (Gezondheid en Wetenschap - Fact Checks)]]></title>
+        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/neuraaltherapie-werkt-niet-voor-aanslepende-klachten</id>
+        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/neuraaltherapie-werkt-niet-voor-aanslepende-klachten"/>
+        <updated>2026-04-13T07:26:02.579Z</updated>
+        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/neuraaltherapie-werkt-niet-voor-aanslepende-klachten"> <span>13 apr 2026</span> Neuraaltherapie werkt niet voor aanslepende klachten </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[09 apr 2026 Koffie droogt je lichaam niet uit (Gezondheid en Wetenschap - Fact Checks)]]></title>
         <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/koffie-droogt-je-lichaam-niet-uit</id>
@@ -416,13 +423,6 @@
         <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/geef-geen-gebluste-cola-bij-diarree"/>
         <updated>2025-11-17T17:41:12.322Z</updated>
         <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/geef-geen-gebluste-cola-bij-diarree"> <span>17 nov 2025</span> Geef geen gebluste cola bij diarree </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13 nov 2025 Eén hormoon in de pil verhoogt risico op borstkanker ietsje meer (Gezondheid en Wetenschap - Fact Checks)]]></title>
-        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/een-hormoon-in-de-pil-verhoogt-risico-op-borstkanker-ietsje-meer</id>
-        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/een-hormoon-in-de-pil-verhoogt-risico-op-borstkanker-ietsje-meer"/>
-        <updated>2025-11-14T05:40:45.934Z</updated>
-        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/een-hormoon-in-de-pil-verhoogt-risico-op-borstkanker-ietsje-meer"> <span>13 nov 2025</span> Eén hormoon in de pil verhoogt risico op borstkanker ietsje meer </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ambiphilic cross-coupling with aryl-bismuth reagents (Nature - research articles)]]></title>
@@ -1452,7 +1452,7 @@
         <title type="html"><![CDATA[Plotting Fluorescent Spectra (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-04-12T17:58:12.738Z</updated>
+        <updated>2026-04-13T07:26:16.491Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Plotting Fluorescent Spectra
 </h5>
@@ -1483,7 +1483,7 @@ Sep 3, 2022
         <title type="html"><![CDATA[Interactively Visualising Proteins (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-04-12T17:58:12.741Z</updated>
+        <updated>2026-04-13T07:26:16.492Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Interactively Visualising Proteins
 </h5>
@@ -1512,7 +1512,7 @@ Feb 15, 2021
         <title type="html"><![CDATA[Visualising Global Rubbish (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-04-12T17:58:12.741Z</updated>
+        <updated>2026-04-13T07:26:16.492Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Visualising Global Rubbish
 </h5>
@@ -1541,7 +1541,7 @@ Jan 31, 2021
         <title type="html"><![CDATA[R for Biologists (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-04-12T17:58:12.744Z</updated>
+        <updated>2026-04-13T07:26:16.494Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 R for Biologists
 </h5>
@@ -1568,7 +1568,7 @@ Jul 7, 2020
         <title type="html"><![CDATA[Praise for pdb-tools (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-04-12T17:58:12.744Z</updated>
+        <updated>2026-04-13T07:26:16.495Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Praise for <code>pdb-tools</code>
 </h5>
@@ -1597,7 +1597,7 @@ Jun 9, 2020
         <title type="html"><![CDATA[Blender for Biochemists. (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-04-12T17:58:12.745Z</updated>
+        <updated>2026-04-13T07:26:16.497Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Blender for Biochemists.
 </h5>
@@ -1628,7 +1628,7 @@ May 6, 2020
         <title type="html"><![CDATA[Rendering around crashes with Animation Nodes (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-04-12T17:58:12.746Z</updated>
+        <updated>2026-04-13T07:26:16.498Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Rendering around crashes with Animation Nodes
 </h5>
@@ -1657,7 +1657,7 @@ Apr 5, 2020
         <title type="html"><![CDATA[GFP as a Hat (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-04-12T17:58:12.747Z</updated>
+        <updated>2026-04-13T07:26:16.500Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 GFP as a Hat
 </h5>
