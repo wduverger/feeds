@@ -2,9 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2026-04-30T07:41:30.018Z</updated>
+    <updated>2026-04-30T18:50:42.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Continuously graded-doped SnO2 for efficient n–i–p perovskite solar cells]]></title>
+        <id>https://www.nature.com/articles/s41586-026-10587-4</id>
+        <link href="https://www.nature.com/articles/s41586-026-10587-4"/>
+        <updated>2026-04-30T18:50:33.839Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-026-10587-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Continuously graded-doped SnO<sub>2</sub> for efficient n–i–p perovskite solar cells</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Di Wang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Saisai Li</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Mingjian Yuan</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-04-30" itemprop="datePublished">30 Apr 2026</time>
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overestimating outsourced biodiversity loss may misguide policy]]></title>
         <id>https://www.nature.com/articles/s41586-026-10370-5</id>
@@ -959,58 +995,6 @@
                     
 <ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
     <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Francesca Alemanno</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Qi An</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yan Zhu</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-04-29" itemprop="datePublished">29 Apr 2026</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prime assembly with linear DNA donors enables large genomic insertions]]></title>
-        <id>https://www.nature.com/articles/s41586-026-10460-4</id>
-        <link href="https://www.nature.com/articles/s41586-026-10460-4"/>
-        <updated>2026-04-29T18:54:04.182Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-026-10460-4/MediaObjects/41586_2026_10460_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10460-4/MediaObjects/41586_2026_10460_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10460-4/MediaObjects/41586_2026_10460_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-026-10460-4" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Prime assembly with linear DNA donors enables large genomic insertions</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Prime assembly can initiate Gibson-like assembly in cells to generate gene insertions without double-stranded DNA breaks, recombinases or homology-directed repair.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Bin Liu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Andrew Petti</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Wen Xue</span></li>
 </ul>
 
                 
