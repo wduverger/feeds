@@ -2,9 +2,117 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2026-05-19T08:41:46.476Z</updated>
+    <updated>2026-05-19T19:24:39.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png</icon>
+    <entry>
+        <title type="html"><![CDATA[A multi-agent system for automating scientific discovery]]></title>
+        <id>https://www.nature.com/articles/s41586-026-10652-y</id>
+        <link href="https://www.nature.com/articles/s41586-026-10652-y"/>
+        <updated>2026-05-19T19:24:31.554Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-026-10652-y" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">A multi-agent system for automating scientific discovery</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ali Essam Ghareeb</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Benjamin Chang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Samuel G. Rodriques</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-05-19" itemprop="datePublished">19 May 2026</time>
+        
+        
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An AI system to help scientists write expert-level empirical software]]></title>
+        <id>https://www.nature.com/articles/s41586-026-10658-6</id>
+        <link href="https://www.nature.com/articles/s41586-026-10658-6"/>
+        <updated>2026-05-19T19:24:31.554Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-026-10658-6" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">An AI system to help scientists write expert-level empirical software</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Eser Aygün</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Anastasiya Belyaeva</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Michael P. Brenner</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-05-19" itemprop="datePublished">19 May 2026</time>
+        
+        
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating scientific discovery with Co-Scientist]]></title>
+        <id>https://www.nature.com/articles/s41586-026-10644-y</id>
+        <link href="https://www.nature.com/articles/s41586-026-10644-y"/>
+        <updated>2026-05-19T19:24:31.554Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-026-10644-y" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Accelerating scientific discovery with Co-Scientist</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Juraj Gottweis</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Wei-Hung Weng</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Vivek Natarajan</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-05-19" itemprop="datePublished">19 May 2026</time>
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stereoelectronic manipulation of ligands for perovskite solar cells]]></title>
         <id>https://www.nature.com/articles/s41586-026-10626-0</id>
@@ -869,162 +977,6 @@
             
     <div class="c-card__section c-meta">
         <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-05-13" itemprop="datePublished">13 May 2026</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large-scale discovery, analysis and design of protein energy landscapes]]></title>
-        <id>https://www.nature.com/articles/s41586-026-10465-z</id>
-        <link href="https://www.nature.com/articles/s41586-026-10465-z"/>
-        <updated>2026-05-13T19:14:40.737Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-026-10465-z/MediaObjects/41586_2026_10465_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10465-z/MediaObjects/41586_2026_10465_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10465-z/MediaObjects/41586_2026_10465_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-026-10465-z" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Large-scale discovery, analysis and design of protein energy landscapes</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>An analysis of 5,778 domains 28–64 amino acids in length reveals hidden variation in conformational fluctuations, even between sequences sharing the same fold and global folding stability.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Állan J. R. Ferrari</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Sugyan M. Dixit</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Gabriel J. Rocklin</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-05-13" itemprop="datePublished">13 May 2026</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asymmetric splitting in dividing lipid-nucleotide multilamellar droplets]]></title>
-        <id>https://www.nature.com/articles/s41586-026-10489-5</id>
-        <link href="https://www.nature.com/articles/s41586-026-10489-5"/>
-        <updated>2026-05-13T19:14:40.739Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-026-10489-5/MediaObjects/41586_2026_10489_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10489-5/MediaObjects/41586_2026_10489_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10489-5/MediaObjects/41586_2026_10489_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-026-10489-5" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Asymmetric splitting in dividing lipid-nucleotide multilamellar droplets</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Structured liquid droplets exhibit asymmetric division in the absence of reconstituted protein machinery.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">He Meng</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Liyan Jia</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Yan Qiao</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-05-13" itemprop="datePublished">13 May 2026</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sleep chart of biological ageing clocks in middle and late life]]></title>
-        <id>https://www.nature.com/articles/s41586-026-10524-5</id>
-        <link href="https://www.nature.com/articles/s41586-026-10524-5"/>
-        <updated>2026-05-13T19:14:40.740Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-026-10524-5/MediaObjects/41586_2026_10524_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10524-5/MediaObjects/41586_2026_10524_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10524-5/MediaObjects/41586_2026_10524_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-026-10524-5" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Sleep chart of biological ageing clocks in middle and late life</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>A cross-organ, multi-omics U-shaped relationship between sleep duration and biological ageing clocks highlights the potential of sleep optimization to promote healthy ageing, lower disease risk and extend longevity.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Cliodhna Kate O’Toole</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Zhiyuan Song</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Junhao Wen</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-05-13" itemprop="datePublished">13 May 2026</time>
         
         
     </div>]]></content>
