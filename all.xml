@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wduverger.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-05-22T08:35:16.854Z</updated>
+    <updated>2026-05-22T19:10:20.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[22 mei 2026 Paracetamol is niet geschikt als slaapmiddel (Gezondheid en Wetenschap - Fact Checks)]]></title>
+        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/paracetamol-is-niet-geschikt-als-slaapmiddel</id>
+        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/paracetamol-is-niet-geschikt-als-slaapmiddel"/>
+        <updated>2026-05-22T19:10:02.878Z</updated>
+        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/paracetamol-is-niet-geschikt-als-slaapmiddel"> <span>22 mei 2026</span> Paracetamol is niet geschikt als slaapmiddel </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20 mei 2026 Nut van prikbehandelingen bij chronische lagerugpijn twijfelachtig (Gezondheid en Wetenschap - Fact Checks)]]></title>
         <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/nut-van-prikbehandelingen-bij-chronische-lagerugpijn-twijfelachtig</id>
@@ -416,13 +423,6 @@
         <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/een-geurkaars-branden-is-geen-probleem-als-je-goed-ventileert"/>
         <updated>2025-12-18T17:44:46.232Z</updated>
         <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/een-geurkaars-branden-is-geen-probleem-als-je-goed-ventileert"> <span>18 dec 2025</span> Een geurkaars branden is geen probleem als je goed ventileert </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17 dec 2025 Je wordt niet ziek van met natte haren buiten te lopen (Gezondheid en Wetenschap - Fact Checks)]]></title>
-        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/je-wordt-niet-ziek-van-met-natte-haren-buiten-rond-te-lopen</id>
-        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/je-wordt-niet-ziek-van-met-natte-haren-buiten-rond-te-lopen"/>
-        <updated>2025-12-17T17:44:38.206Z</updated>
-        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/je-wordt-niet-ziek-van-met-natte-haren-buiten-rond-te-lopen"> <span>17 dec 2025</span> Je wordt niet ziek van met natte haren buiten te lopen </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[De novo design of miniproteins targeting GPCRs (Nature - research articles)]]></title>
@@ -1436,7 +1436,7 @@
         <title type="html"><![CDATA[Plotting Fluorescent Spectra (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-22T08:35:10.407Z</updated>
+        <updated>2026-05-22T19:10:15.078Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Plotting Fluorescent Spectra
 </h5>
@@ -1467,7 +1467,7 @@ Sep 3, 2022
         <title type="html"><![CDATA[Interactively Visualising Proteins (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-22T08:35:10.408Z</updated>
+        <updated>2026-05-22T19:10:15.080Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Interactively Visualising Proteins
 </h5>
@@ -1496,7 +1496,7 @@ Feb 15, 2021
         <title type="html"><![CDATA[Visualising Global Rubbish (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-22T08:35:10.409Z</updated>
+        <updated>2026-05-22T19:10:15.082Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Visualising Global Rubbish
 </h5>
@@ -1525,7 +1525,7 @@ Jan 31, 2021
         <title type="html"><![CDATA[R for Biologists (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-22T08:35:10.412Z</updated>
+        <updated>2026-05-22T19:10:15.083Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 R for Biologists
 </h5>
@@ -1552,7 +1552,7 @@ Jul 7, 2020
         <title type="html"><![CDATA[Praise for pdb-tools (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-22T08:35:10.413Z</updated>
+        <updated>2026-05-22T19:10:15.085Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Praise for <code>pdb-tools</code>
 </h5>
@@ -1581,7 +1581,7 @@ Jun 9, 2020
         <title type="html"><![CDATA[Blender for Biochemists. (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-22T08:35:10.415Z</updated>
+        <updated>2026-05-22T19:10:15.087Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Blender for Biochemists.
 </h5>
@@ -1612,7 +1612,7 @@ May 6, 2020
         <title type="html"><![CDATA[Rendering around crashes with Animation Nodes (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-22T08:35:10.416Z</updated>
+        <updated>2026-05-22T19:10:15.088Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Rendering around crashes with Animation Nodes
 </h5>
@@ -1641,7 +1641,7 @@ Apr 5, 2020
         <title type="html"><![CDATA[GFP as a Hat (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-22T08:35:10.418Z</updated>
+        <updated>2026-05-22T19:10:15.090Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 GFP as a Hat
 </h5>
