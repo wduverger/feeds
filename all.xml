@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wduverger.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-05-27T19:35:52.687Z</updated>
+    <updated>2026-05-28T08:56:49.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[28 mei 2026 Geprikt worden door brandnetels biedt geen gezondheidsvoordelen (Gezondheid en Wetenschap - Fact Checks)]]></title>
+        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/geprikt-worden-door-brandnetels-biedt-geen-gezondheidsvoordelen</id>
+        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/geprikt-worden-door-brandnetels-biedt-geen-gezondheidsvoordelen"/>
+        <updated>2026-05-28T08:56:30.612Z</updated>
+        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/geprikt-worden-door-brandnetels-biedt-geen-gezondheidsvoordelen"> <span>28 mei 2026</span> Geprikt worden door brandnetels biedt geen gezondheidsvoordelen </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[27 mei 2026 Een tennisbal tegen spierpijn op het vliegtuig: leuk idee, maar geen bewezen effect (Gezondheid en Wetenschap - Fact Checks)]]></title>
         <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/een-tennisbal-tegen-spierpijn-op-het-vliegtuig-leuk-idee-maar-geen-bewezen-effect</id>
@@ -416,13 +423,6 @@
         <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/meer-wiegendood-door-online-misinformatie"/>
         <updated>2026-01-06T05:46:40.095Z</updated>
         <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/meer-wiegendood-door-online-misinformatie"> <span>06 jan 2026</span> Meer wiegendood door online misinformatie </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[05 jan 2026 De griepprik biedt de beste bescherming tegen griep (Gezondheid en Wetenschap - Fact Checks)]]></title>
-        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/de-griepprik-biedt-de-beste-bescherming-tegen-griep</id>
-        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/de-griepprik-biedt-de-beste-bescherming-tegen-griep"/>
-        <updated>2026-01-05T05:54:20.283Z</updated>
-        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/de-griepprik-biedt-de-beste-bescherming-tegen-griep"> <span>05 jan 2026</span> De griepprik biedt de beste bescherming tegen griep </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bohmian mechanics remains unchallenged by tunnelling experiment (Nature - research articles)]]></title>
@@ -1464,7 +1464,7 @@
         <title type="html"><![CDATA[Plotting Fluorescent Spectra (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-27T19:35:46.360Z</updated>
+        <updated>2026-05-28T08:56:43.754Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Plotting Fluorescent Spectra
 </h5>
@@ -1495,7 +1495,7 @@ Sep 3, 2022
         <title type="html"><![CDATA[Interactively Visualising Proteins (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-27T19:35:46.363Z</updated>
+        <updated>2026-05-28T08:56:43.755Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Interactively Visualising Proteins
 </h5>
@@ -1524,7 +1524,7 @@ Feb 15, 2021
         <title type="html"><![CDATA[Visualising Global Rubbish (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-27T19:35:46.364Z</updated>
+        <updated>2026-05-28T08:56:43.756Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Visualising Global Rubbish
 </h5>
@@ -1553,7 +1553,7 @@ Jan 31, 2021
         <title type="html"><![CDATA[R for Biologists (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-27T19:35:46.368Z</updated>
+        <updated>2026-05-28T08:56:43.758Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 R for Biologists
 </h5>
@@ -1580,7 +1580,7 @@ Jul 7, 2020
         <title type="html"><![CDATA[Praise for pdb-tools (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-27T19:35:46.369Z</updated>
+        <updated>2026-05-28T08:56:43.760Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Praise for <code>pdb-tools</code>
 </h5>
@@ -1609,7 +1609,7 @@ Jun 9, 2020
         <title type="html"><![CDATA[Blender for Biochemists. (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-27T19:35:46.370Z</updated>
+        <updated>2026-05-28T08:56:43.762Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Blender for Biochemists.
 </h5>
@@ -1640,7 +1640,7 @@ May 6, 2020
         <title type="html"><![CDATA[Rendering around crashes with Animation Nodes (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-27T19:35:46.372Z</updated>
+        <updated>2026-05-28T08:56:43.764Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Rendering around crashes with Animation Nodes
 </h5>
@@ -1669,7 +1669,7 @@ Apr 5, 2020
         <title type="html"><![CDATA[GFP as a Hat (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-05-27T19:35:46.373Z</updated>
+        <updated>2026-05-28T08:56:43.765Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 GFP as a Hat
 </h5>
