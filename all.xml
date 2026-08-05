@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wduverger.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-08-04T19:04:40.101Z</updated>
+    <updated>2026-08-05T08:00:01.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[05 aug 2026 Plantaardige melk is minder voedzaam dan koemelk (Gezondheid en Wetenschap - Fact Checks)]]></title>
+        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/plantaardige-melk-is-minder-voedzaam-dan-koemelk</id>
+        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/plantaardige-melk-is-minder-voedzaam-dan-koemelk"/>
+        <updated>2026-08-05T07:59:41.732Z</updated>
+        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/plantaardige-melk-is-minder-voedzaam-dan-koemelk"> <span>05 aug 2026</span> Plantaardige melk is minder voedzaam dan koemelk </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[04 aug 2026 ‘Supergonorroe’ in opmars door toenemende antibioticaresistentie (Gezondheid en Wetenschap - Fact Checks)]]></title>
         <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/supergonorroe-in-opmars-door-toenemende-antibioticaresistentie</id>
@@ -416,13 +423,6 @@
         <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/zonnecreme-in-sprayvorm-werkt-even-goed-maar-je-gebruikt-het-makkelijker-verkeerd"/>
         <updated>2026-03-11T18:07:09.373Z</updated>
         <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/zonnecreme-in-sprayvorm-werkt-even-goed-maar-je-gebruikt-het-makkelijker-verkeerd"> <span>11 mar 2026</span> Zonnecrème in sprayvorm werkt even goed, maar je gebruikt het makkelijker verkeerd </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 mar 2026 Witte ruis kan baby’s helpen slapen (Gezondheid en Wetenschap - Fact Checks)]]></title>
-        <id>https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/witte-ruis-kan-baby-s-helpen-inslapen</id>
-        <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/witte-ruis-kan-baby-s-helpen-inslapen"/>
-        <updated>2026-03-10T18:14:10.079Z</updated>
-        <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/witte-ruis-kan-baby-s-helpen-inslapen"> <span>10 mar 2026</span> Witte ruis kan baby’s helpen slapen </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis (Nature - research articles)]]></title>
@@ -1436,7 +1436,7 @@
         <title type="html"><![CDATA[Plotting Fluorescent Spectra (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-04T19:04:31.497Z</updated>
+        <updated>2026-08-05T07:59:54.926Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Plotting Fluorescent Spectra
 </h5>
@@ -1467,7 +1467,7 @@ Sep 3, 2022
         <title type="html"><![CDATA[Interactively Visualising Proteins (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-04T19:04:31.497Z</updated>
+        <updated>2026-08-05T07:59:54.928Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Interactively Visualising Proteins
 </h5>
@@ -1496,7 +1496,7 @@ Feb 15, 2021
         <title type="html"><![CDATA[Visualising Global Rubbish (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-04T19:04:31.498Z</updated>
+        <updated>2026-08-05T07:59:54.929Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Visualising Global Rubbish
 </h5>
@@ -1525,7 +1525,7 @@ Jan 31, 2021
         <title type="html"><![CDATA[R for Biologists (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-04T19:04:31.499Z</updated>
+        <updated>2026-08-05T07:59:54.932Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 R for Biologists
 </h5>
@@ -1552,7 +1552,7 @@ Jul 7, 2020
         <title type="html"><![CDATA[Praise for pdb-tools (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-04T19:04:31.501Z</updated>
+        <updated>2026-08-05T07:59:54.933Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Praise for <code>pdb-tools</code>
 </h5>
@@ -1581,7 +1581,7 @@ Jun 9, 2020
         <title type="html"><![CDATA[Blender for Biochemists. (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-04T19:04:31.502Z</updated>
+        <updated>2026-08-05T07:59:54.934Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Blender for Biochemists.
 </h5>
@@ -1612,7 +1612,7 @@ May 6, 2020
         <title type="html"><![CDATA[Rendering around crashes with Animation Nodes (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-04T19:04:31.504Z</updated>
+        <updated>2026-08-05T07:59:54.935Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Rendering around crashes with Animation Nodes
 </h5>
@@ -1641,7 +1641,7 @@ Apr 5, 2020
         <title type="html"><![CDATA[GFP as a Hat (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-04T19:04:31.505Z</updated>
+        <updated>2026-08-05T07:59:54.937Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 GFP as a Hat
 </h5>
