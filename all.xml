@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wduverger.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-08-20T05:54:34.411Z</updated>
+    <updated>2026-08-20T17:55:07.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[19 aug 2026 Aangepast rijbewijs nodig bij diabetes en andere aandoeningen (Gezondheid en Wetenschap - Fact Checks)]]></title>
@@ -423,6 +423,42 @@
         <link href="https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/water-bij-de-maaltijd-verdunt-je-maagzuur-niet"/>
         <updated>2026-03-26T18:13:43.280Z</updated>
         <content type="html"><![CDATA[<a href="/gezondheid-in-de-media/water-bij-de-maaltijd-verdunt-je-maagzuur-niet"> <span>26 mar 2026</span> Water bij de maaltijd verdunt je maagzuur niet </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dialkyl ether synthesis through heteroatom homolytic substitution (Nature - research articles)]]></title>
+        <id>https://www.nature.com/articles/s41586-026-11043-z</id>
+        <link href="https://www.nature.com/articles/s41586-026-11043-z"/>
+        <updated>2026-08-20T17:54:59.274Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-026-11043-z" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Dialkyl ether synthesis through heteroatom homolytic substitution</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Johannes J. Großkopf</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Johnny Z. Wang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">David W. C. MacMillan</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-08-20" itemprop="datePublished">20 Aug 2026</time>
+        
+        
+    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Evidence for vacuum-enhanced superconductivity in NbSe2 (Nature - research articles)]]></title>
@@ -1389,62 +1425,10 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A biased allosteric modulator is a molecular glue for β2AR dimerization (Nature - research articles)]]></title>
-        <id>https://www.nature.com/articles/s41586-026-10892-y</id>
-        <link href="https://www.nature.com/articles/s41586-026-10892-y"/>
-        <updated>2026-08-20T05:54:24.273Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-026-10892-y/MediaObjects/41586_2026_10892_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10892-y/MediaObjects/41586_2026_10892_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10892-y/MediaObjects/41586_2026_10892_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-026-10892-y" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">A biased allosteric modulator is a molecular glue for β<sub>2</sub>AR dimerization</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>AP-7-168, an optimized derivative of a β-arrestin-biased negative allosteric modulator of the β<sub>2</sub>-adrenergic receptor (β<sub>2</sub>AR), functions as a molecular glue to stabilize β<sub>2</sub>AR homodimerization.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jiemin Shen</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Teja Nikhil Peddada</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Brian K. Kobilka</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-08-19" itemprop="datePublished">19 Aug 2026</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Plotting Fluorescent Spectra (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-20T05:54:27.214Z</updated>
+        <updated>2026-08-20T17:55:01.954Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Plotting Fluorescent Spectra
 </h5>
@@ -1475,7 +1459,7 @@ Sep 3, 2022
         <title type="html"><![CDATA[Interactively Visualising Proteins (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-20T05:54:27.215Z</updated>
+        <updated>2026-08-20T17:55:01.956Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Interactively Visualising Proteins
 </h5>
@@ -1504,7 +1488,7 @@ Feb 15, 2021
         <title type="html"><![CDATA[Visualising Global Rubbish (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-20T05:54:27.218Z</updated>
+        <updated>2026-08-20T17:55:01.957Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Visualising Global Rubbish
 </h5>
@@ -1533,7 +1517,7 @@ Jan 31, 2021
         <title type="html"><![CDATA[R for Biologists (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-20T05:54:27.219Z</updated>
+        <updated>2026-08-20T17:55:01.958Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 R for Biologists
 </h5>
@@ -1560,7 +1544,7 @@ Jul 7, 2020
         <title type="html"><![CDATA[Praise for pdb-tools (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-20T05:54:27.220Z</updated>
+        <updated>2026-08-20T17:55:01.959Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Praise for <code>pdb-tools</code>
 </h5>
@@ -1589,7 +1573,7 @@ Jun 9, 2020
         <title type="html"><![CDATA[Blender for Biochemists. (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-20T05:54:27.222Z</updated>
+        <updated>2026-08-20T17:55:01.960Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Blender for Biochemists.
 </h5>
@@ -1620,7 +1604,7 @@ May 6, 2020
         <title type="html"><![CDATA[Rendering around crashes with Animation Nodes (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-20T05:54:27.223Z</updated>
+        <updated>2026-08-20T17:55:01.961Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 Rendering around crashes with Animation Nodes
 </h5>
@@ -1649,7 +1633,7 @@ Apr 5, 2020
         <title type="html"><![CDATA[GFP as a Hat (Brady Johnston)]]></title>
         <id>https://wduverger.github.io/feeds/all.xml</id>
         <link href="https://wduverger.github.io/feeds/all.xml"/>
-        <updated>2026-08-20T05:54:27.224Z</updated>
+        <updated>2026-08-20T17:55:01.962Z</updated>
         <content type="html"><![CDATA[<h5 class="no-anchor card-title listing-title">
 GFP as a Hat
 </h5>
