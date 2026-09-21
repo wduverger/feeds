@@ -2,9 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nature.com/nature/research-articles</id>
     <title>Nature - research articles</title>
-    <updated>2026-09-21T10:55:02.729Z</updated>
+    <updated>2026-09-21T21:10:26.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Chemist-aligned retrosynthesis by ensembling diverse inductive bias models]]></title>
+        <id>https://www.nature.com/articles/s41586-026-11160-9</id>
+        <link href="https://www.nature.com/articles/s41586-026-11160-9"/>
+        <updated>2026-09-21T21:10:11.503Z</updated>
+        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
+            
+                
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/s41586-026-11160-9" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Chemist-aligned retrosynthesis by ensembling diverse inductive bias models</a>
+                </h3>
+                
+                    
+                
+                
+                    
+<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Krzysztof Maziarz</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Guoqing Liu</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Marwin H. S. Segler</span></li>
+</ul>
+
+                
+                
+            </div>
+        </div>
+        
+            
+    <div class="c-card__section c-meta">
+        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-09-21" itemprop="datePublished">21 Sept 2026</time>
+        
+        
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors]]></title>
         <id>https://www.nature.com/articles/s41586-026-11123-0</id>
@@ -963,58 +999,6 @@
                     
 <ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
     <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Meng Zhang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Marco Castellani</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">André Marques</span></li>
-</ul>
-
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-        <span class="c-meta__item c-meta__item--block-at-lg" data-test="article.type"><span class="c-meta__type">Article</span></span><span class="c-meta__item c-meta__item--block-at-lg" data-test="open-access"><span class="u-color-open-access">Open Access</span></span><time class="c-meta__item c-meta__item--block-at-lg" datetime="2026-09-16" itemprop="datePublished">16 Sept 2026</time>
-        
-        
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scalable near-real-time Bayesian phylogenetics for outbreaks with Delphy]]></title>
-        <id>https://www.nature.com/articles/s41586-026-11012-6</id>
-        <link href="https://www.nature.com/articles/s41586-026-11012-6"/>
-        <updated>2026-09-18T09:57:17.333Z</updated>
-        <content type="html"><![CDATA[<div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source type="image/webp" srcset="
-                                    https://media.springernature.com/w165h90/springer-static/image/art%3A10.1038%2Fs41586-026-11012-6/MediaObjects/41586_2026_11012_Fig1_HTML.png?as=webp 160w,
-                                    https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-11012-6/MediaObjects/41586_2026_11012_Fig1_HTML.png?as=webp 290w" sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-11012-6/MediaObjects/41586_2026_11012_Fig1_HTML.png" alt="" itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/s41586-026-11012-6" class="c-card__link u-link-inherit" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">Scalable near-real-time Bayesian phylogenetics for outbreaks with Delphy</a>
-                </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max" itemprop="description">
-                            <p>Delphy makes near-real-time and scalable Bayesian phylogenetics possible for growing viral outbreaks, enabling public health bodies anywhere to analyse and react to their own data with&nbsp;state-of-the-art accuracy and minimal friction.</p>
-                        </div>
-                    
-                
-                
-                    
-<ul data-test="author-list" class="app-author-list app-author-list--compact app-author-list--truncated">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Patrick Varilly</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Mark Schifferli</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Pardis C. Sabeti</span></li>
 </ul>
 
                 
